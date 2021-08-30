@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluaxe_docs=self.webpackChunkluaxe_docs||[]).push([[753],{9761:function(a){a.exports=JSON.parse('{"allTagsPath":"/Luaxe-docs/blog/tags","slug":"/Luaxe-docs/blog/tags/hola","name":"hola","count":1,"permalink":"/Luaxe-docs/blog/tags/hola"}')}}]);

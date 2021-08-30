@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluaxe_docs=self.webpackChunkluaxe_docs||[]).push([[464],{337:function(a){a.exports=JSON.parse('{"allTagsPath":"/Luaxe-docs/blog/tags","slug":"/Luaxe-docs/blog/tags/facebook","name":"facebook","count":1,"permalink":"/Luaxe-docs/blog/tags/facebook"}')}}]);
