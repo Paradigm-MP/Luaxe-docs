@@ -6,7 +6,7 @@ module.exports = {
   title: 'Luaxe',
   tagline: 'Create wonderous gamemodes for Valheim with Lua',
   url: 'https://luaxe.dev',
-  baseUrl: '/Luaxe-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
