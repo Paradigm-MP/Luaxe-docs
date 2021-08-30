@@ -43,18 +43,16 @@ module.exports = {
             theme: lightCodeTheme,
             darkTheme: darkCodeTheme,
         },
-        algolia: {
-            apiKey: 'YOUR_API_KEY',
-            indexName: 'YOUR_INDEX_NAME',
-            // Optional: see doc section below
-            contextualSearch: true,
-            // Optional: see doc section below
-            appId: 'YOUR_APP_ID',
-            // Optional: Algolia search parameters      
-            searchParameters: {},
-            //... other Algolia params    
-        },
     },
+    plugins: [
+        // ... Your other plugins.
+        [
+            require.resolve("@easyops-cn/docusaurus-search-local"),
+            {
+                hashed: true,
+            },
+        ],
+    ],
     presets: [
         [
             '@docusaurus/preset-classic',
