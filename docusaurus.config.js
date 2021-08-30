@@ -24,7 +24,7 @@ module.exports = {
                     type: 'doc',
                     docId: 'main',
                     position: 'left',
-                    label: 'API Reference',
+                    label: 'Documentation',
                 },
                 // {to: '/blog', label: 'Blog', position: 'left'},
                 {
@@ -46,9 +46,9 @@ module.exports = {
         algolia: {
             apiKey: 'YOUR_API_KEY',
             indexName: 'YOUR_INDEX_NAME',
-            // Optional: see doc section below      
+            // Optional: see doc section below
             contextualSearch: true,
-            // Optional: see doc section below      
+            // Optional: see doc section below
             appId: 'YOUR_APP_ID',
             // Optional: Algolia search parameters      
             searchParameters: {},
