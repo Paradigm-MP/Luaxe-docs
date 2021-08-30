@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Create wonderous gamemodes for Valheim with Lua">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
