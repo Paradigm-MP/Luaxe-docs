@@ -22,22 +22,22 @@ public class PieceTable
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | DownPiece() |  | 
-| Int32 | GetAvailablePiecesInCategory(`PieceCategory` cat) |  | 
+| Int32 | GetAvailablePiecesInCategory(PieceCategory cat) |  | 
 | Int32 | GetAvailablePiecesInSelectedCategory() |  | 
-| [Piece](./Piece.md) | GetPiece(`Int32` category, `Vector2Int` p) |  | 
-| [Piece](./Piece.md) | GetPiece(`Vector2Int` p) |  | 
+| [Piece](./Piece.md) | GetPiece(Int32 category, Vector2Int p) |  | 
+| [Piece](./Piece.md) | GetPiece(Vector2Int p) |  | 
 | List&lt;Piece&gt; | GetPiecesInSelectedCategory() |  | 
 | Vector2Int | GetSelectedIndex() |  | 
 | [Piece](./Piece.md) | GetSelectedPiece() |  | 
 | GameObject | GetSelectedPrefab() |  | 
-| Boolean | IsPieceAvailable(`Piece` piece) |  | 
+| Boolean | IsPieceAvailable([`Piece`](./Piece.md) piece) |  | 
 | void | LeftPiece() |  | 
 | void | NextCategory() |  | 
 | void | PrevCategory() |  | 
 | void | RightPiece() |  | 
-| void | SetCategory(`Int32` index) |  | 
-| void | SetSelected(`Vector2Int` p) |  | 
-| void | UpdateAvailable(`HashSet<String>` knownRecipies, `Player` player, `Boolean` hideUnavailable, `Boolean` noPlacementCost) |  | 
+| void | SetCategory(Int32 index) |  | 
+| void | SetSelected(Vector2Int p) |  | 
+| void | UpdateAvailable(HashSet&lt;String&gt; knownRecipies, [`Player`](./Player.md) player, Boolean hideUnavailable, Boolean noPlacementCost) |  | 
 | void | UpPiece() |  | 
 
 

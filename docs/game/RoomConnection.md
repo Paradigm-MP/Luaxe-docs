@@ -20,6 +20,6 @@ public class RoomConnection
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | TestContact(`RoomConnection` other) |  | 
+| Boolean | TestContact([`RoomConnection`](./RoomConnection.md) other) |  | 
 
 

@@ -26,9 +26,9 @@ public class ShipControlls
 | String | GetHoverText() |  | 
 | [Ship](./Ship.md) | GetShip() |  | 
 | Boolean | HaveValidUser() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` repeat) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean repeat) |  | 
 | Boolean | IsLocalUser() |  | 
-| void | OnUseStop(`Player` player) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| void | OnUseStop([`Player`](./Player.md) player) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

@@ -21,7 +21,7 @@ public class Tutorial
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | ShowText(`String` name, `Boolean` force) |  | 
+| void | ShowText(String name, Boolean force) |  | 
 
 
 ### Static Properties

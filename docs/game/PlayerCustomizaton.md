@@ -34,10 +34,10 @@ public class PlayerCustomizaton
 | --- | --- | --- | 
 | void | OnBeardLeft() |  | 
 | void | OnBeardRight() |  | 
-| void | OnHairHueChange(`Single` v) |  | 
+| void | OnHairHueChange(Single v) |  | 
 | void | OnHairLeft() |  | 
 | void | OnHairRight() |  | 
-| void | OnSkinHueChange(`Single` v) |  | 
-| void | SetPlayerModel(`Int32` index) |  | 
+| void | OnSkinHueChange(Single v) |  | 
+| void | SetPlayerModel(Int32 index) |  | 
 
 

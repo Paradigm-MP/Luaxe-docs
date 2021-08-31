@@ -44,15 +44,15 @@ public class Projectile
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| String | GetTooltipString(`Int32` itemQuality) |  | 
+| String | GetTooltipString(Int32 itemQuality) |  | 
 | Vector3 | GetVelocity() |  | 
-| void | Setup(`Character` owner, `Vector3` velocity, `Single` hitNoise, `HitData` hitData, `ItemData` item) |  | 
+| void | Setup([`Character`](./Character.md) owner, Vector3 velocity, Single hitNoise, [`HitData`](./HitData.md) hitData, ItemData item) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| GameObject | FindHitObject(`Collider` collider) |  | 
+| GameObject | FindHitObject(Collider collider) |  | 
 
 

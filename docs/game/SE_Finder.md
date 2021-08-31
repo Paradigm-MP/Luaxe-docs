@@ -23,6 +23,6 @@ public class SE_Finder
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 

@@ -25,9 +25,9 @@ public class TombStone
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
 | Int64 | GetOwner() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` hold) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean hold) |  | 
 | Boolean | IsOwner() |  | 
-| void | Setup(`String` ownerName, `Int64` ownerUID) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| void | Setup(String ownerName, Int64 ownerUID) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

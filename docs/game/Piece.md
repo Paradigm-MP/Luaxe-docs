@@ -52,20 +52,20 @@ public class Piece
 | Boolean | CanBeRemoved() |  | 
 | void | DropResources() |  | 
 | Int64 | GetCreator() |  | 
-| void | GetSnapPoints(`List<Transform>` points) |  | 
+| void | GetSnapPoints(List&lt;Transform&gt; points) |  | 
 | Boolean | IsCreator() |  | 
 | Boolean | IsPlacedByPlayer() |  | 
 | Boolean | IsPriorityTarget() |  | 
 | Boolean | IsRandomTarget() |  | 
-| void | SetCreator(`Int64` uid) |  | 
-| void | SetInvalidPlacementHeightlight(`Boolean` enabled) |  | 
+| void | SetCreator(Int64 uid) |  | 
+| void | SetInvalidPlacementHeightlight(Boolean enabled) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | GetAllPiecesInRadius(`Vector3` p, `Single` radius, `List<Piece>` pieces) |  | 
-| void | GetSnapPoints(`Vector3` point, `Single` radius, `List<Transform>` points, `List<Piece>` pieces) |  | 
+| void | GetAllPiecesInRadius(Vector3 p, Single radius, List&lt;Piece&gt; pieces) |  | 
+| void | GetSnapPoints(Vector3 point, Single radius, List&lt;Transform&gt; points, List&lt;Piece&gt; pieces) |  | 
 
 

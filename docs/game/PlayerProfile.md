@@ -31,16 +31,16 @@ public class PlayerProfile
 | Boolean | HaveIncompatiblPlayerData() |  | 
 | Boolean | HaveLogoutPoint() |  | 
 | Boolean | Load() |  | 
-| void | LoadPlayerData(`Player` player) |  | 
+| void | LoadPlayerData([`Player`](./Player.md) player) |  | 
 | Boolean | Save() |  | 
 | void | SaveLogoutPoint() |  | 
-| void | SavePlayerData(`Player` player) |  | 
-| void | SetCustomSpawnPoint(`Vector3` point) |  | 
-| void | SetDeathPoint(`Vector3` point) |  | 
-| void | SetHomePoint(`Vector3` point) |  | 
-| void | SetLogoutPoint(`Vector3` point) |  | 
-| void | SetMapData(`Byte[]` data) |  | 
-| void | SetName(`String` name) |  | 
+| void | SavePlayerData([`Player`](./Player.md) player) |  | 
+| void | SetCustomSpawnPoint(Vector3 point) |  | 
+| void | SetDeathPoint(Vector3 point) |  | 
+| void | SetHomePoint(Vector3 point) |  | 
+| void | SetLogoutPoint(Vector3 point) |  | 
+| void | SetMapData(Byte[] data) |  | 
+| void | SetName(String name) |  | 
 
 
 ### Static Fields
@@ -55,7 +55,7 @@ public class PlayerProfile
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | List&lt;PlayerProfile&gt; | GetAllPlayerProfiles() |  | 
-| Boolean | HaveProfile(`String` name) |  | 
-| void | RemoveProfile(`String` name) |  | 
+| Boolean | HaveProfile(String name) |  | 
+| void | RemoveProfile(String name) |  | 
 
 

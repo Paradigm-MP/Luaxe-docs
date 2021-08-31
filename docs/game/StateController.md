@@ -22,6 +22,6 @@ public class StateController
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | OnStateEnter(`Animator` animator, `AnimatorStateInfo` stateInfo, `Int32` layerIndex) |  | 
+| void | OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, Int32 layerIndex) |  | 
 
 

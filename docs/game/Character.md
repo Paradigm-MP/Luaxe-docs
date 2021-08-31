@@ -89,22 +89,22 @@ public class Character
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | AddNoise(`Single` range) |  | 
-| void | AddPushbackForce(`Vector3&` velocity) |  | 
-| void | AddRootMotion(`Vector3` vel) |  | 
-| void | AddStamina(`Single` v) |  | 
+| void | AddNoise(Single range) |  | 
+| void | AddPushbackForce(Vector3& velocity) |  | 
+| void | AddRootMotion(Vector3 vel) |  | 
+| void | AddStamina(Single v) |  | 
 | Boolean | AlwaysRotateCamera() |  | 
-| void | ApplyArmorDamageMods(`DamageModifiers&` mods) |  | 
-| void | ApplyDamage(`HitData` hit, `Boolean` showDamageText, `Boolean` triggerEffects, `DamageModifier` mod = Normal) |  | 
-| void | AttachStart(`Transform` attachPoint, `Boolean` hideWeapons, `Boolean` isBed, `String` attachAnimation, `Vector3` detachOffset) |  | 
+| void | ApplyArmorDamageMods(DamageModifiers& mods) |  | 
+| void | ApplyDamage([`HitData`](./HitData.md) hit, Boolean showDamageText, Boolean triggerEffects, DamageModifier mod = Normal) |  | 
+| void | AttachStart(Transform attachPoint, Boolean hideWeapons, Boolean isBed, String attachAnimation, Vector3 detachOffset) |  | 
 | void | AttachStop() |  | 
 | void | Awake() |  | 
-| Boolean | BlockAttack(`HitData` hit, `Character` attacker) |  | 
+| Boolean | BlockAttack([`HitData`](./HitData.md) hit, [`Character`](./Character.md) attacker) |  | 
 | Boolean | CanMove() |  | 
-| Boolean | CheckRun(`Vector3` moveDir, `Single` dt) |  | 
-| void | Damage(`HitData` hit) |  | 
-| void | DamageArmorDurability(`HitData` hit) |  | 
-| void | DoDamageCameraShake(`HitData` hit) |  | 
+| Boolean | CheckRun(Vector3 moveDir, Single dt) |  | 
+| void | Damage([`HitData`](./HitData.md) hit) |  | 
+| void | DamageArmorDurability([`HitData`](./HitData.md) hit) |  | 
+| void | DoDamageCameraShake([`HitData`](./HitData.md) hit) |  | 
 | void | FixedUpdate() |  | 
 | Single | GetAttackSpeedFactorMovement() |  | 
 | Single | GetAttackSpeedFactorRotation() |  | 
@@ -112,7 +112,7 @@ public class Character
 | Single | GetBodyArmor() |  | 
 | Vector3 | GetCenterPoint() |  | 
 | CapsuleCollider | GetCollider() |  | 
-| DamageModifier | GetDamageModifier(`DamageType` damageType) |  | 
+| DamageModifier | GetDamageModifier(DamageType damageType) |  | 
 | DamageModifiers | GetDamageModifiers() |  | 
 | [DestructibleType](./DestructibleType.md) | GetDestructibleType() |  | 
 | Single | GetEquipmentMovementModifier() |  | 
@@ -136,11 +136,11 @@ public class Character
 | Single | GetNoiseRange() |  | 
 | Int64 | GetOwner() |  | 
 | Single | GetRadius() |  | 
-| Single | GetRandomSkillFactor(`SkillType` skill) |  | 
-| Boolean | GetRelativePosition(`ZDOID&` parent, `Vector3&` relativePos, `Vector3&` relativeVel) |  | 
+| Single | GetRandomSkillFactor(SkillType skill) |  | 
+| Boolean | GetRelativePosition([`ZDOID`](./ZDOID.md)& parent, Vector3& relativePos, Vector3& relativeVel) |  | 
 | Single | GetRunSpeedFactor() |  | 
 | [SEMan](./SEMan.md) | GetSEMan() |  | 
-| Single | GetSkillFactor(`SkillType` skill) |  | 
+| Single | GetSkillFactor(SkillType skill) |  | 
 | [Skills](./Skills.md) | GetSkills() |  | 
 | Single | GetStaminaPercentage() |  | 
 | [Ship](./Ship.md) | GetStandingOnShip() |  | 
@@ -151,8 +151,8 @@ public class Character
 | GameObject | GetVisual() |  | 
 | Boolean | GetWalk() |  | 
 | [ZDOID](./ZDOID.md) | GetZDOID() |  | 
-| Boolean | HaveStamina(`Single` amount = 0) |  | 
-| void | Heal(`Single` hp, `Boolean` showText = True) |  | 
+| Boolean | HaveStamina(Single amount = 0) |  | 
+| void | Heal(Single hp, Boolean showText = True) |  | 
 | Boolean | InAttack() |  | 
 | Boolean | InBed() |  | 
 | Boolean | InCutscene() |  | 
@@ -191,46 +191,46 @@ public class Character
 | Boolean | IsWalking() |  | 
 | Boolean | IsWallRunning() |  | 
 | void | Jump() |  | 
-| void | Message(`MessageType` type, `String` msg, `Int32` amount = 0, `Sprite` icon = null) |  | 
+| void | Message(MessageType type, String msg, Int32 amount = 0, Sprite icon = null) |  | 
 | void | OnAttackTrigger() |  | 
-| void | OnAutoJump(`Vector3` dir, `Single` upVel, `Single` forwardVel) |  | 
-| void | OnDamaged(`HitData` hit) |  | 
+| void | OnAutoJump(Vector3 dir, Single upVel, Single forwardVel) |  | 
+| void | OnDamaged([`HitData`](./HitData.md) hit) |  | 
 | void | OnDeath() |  | 
 | void | OnDestroy() |  | 
 | void | OnJump() |  | 
-| void | OnNearFire(`Vector3` point) |  | 
-| void | OnRagdollCreated(`Ragdoll` ragdoll) |  | 
-| void | OnSneaking(`Single` dt) |  | 
-| void | OnStealthSuccess(`Character` character, `Single` factor) |  | 
+| void | OnNearFire(Vector3 point) |  | 
+| void | OnRagdollCreated([`Ragdoll`](./Ragdoll.md) ragdoll) |  | 
+| void | OnSneaking(Single dt) |  | 
+| void | OnStealthSuccess([`Character`](./Character.md) character, Single factor) |  | 
 | void | OnStopMoving() |  | 
-| void | OnSwiming(`Vector3` targetVel, `Single` dt) |  | 
-| void | OnTargeted(`Boolean` sensed, `Boolean` alerted) |  | 
+| void | OnSwiming(Vector3 targetVel, Single dt) |  | 
+| void | OnTargeted(Boolean sensed, Boolean alerted) |  | 
 | void | OnWeaponTrailStart() |  | 
-| void | RaiseSkill(`SkillType` skill, `Single` value = 1) |  | 
+| void | RaiseSkill(SkillType skill, Single value = 1) |  | 
 | void | ResetCloth() |  | 
-| void | SetCrouch(`Boolean` crouch) |  | 
-| void | SetHealth(`Single` health) |  | 
-| void | SetInWater(`Single` depth) |  | 
-| void | SetLevel(`Int32` level) |  | 
-| void | SetLookDir(`Vector3` dir) |  | 
-| void | SetMaxHealth(`Single` health) |  | 
-| void | SetMoveDir(`Vector3` dir) |  | 
-| void | SetRun(`Boolean` run) |  | 
-| void | SetTamed(`Boolean` tamed) |  | 
-| void | SetVisible(`Boolean` visible) |  | 
-| void | SetWalk(`Boolean` walk) |  | 
-| void | ShowPickupMessage(`ItemData` item, `Int32` amount) |  | 
-| void | ShowRemovedMessage(`ItemData` item, `Int32` amount) |  | 
-| void | Stagger(`Vector3` forceDirection) |  | 
+| void | SetCrouch(Boolean crouch) |  | 
+| void | SetHealth(Single health) |  | 
+| void | SetInWater(Single depth) |  | 
+| void | SetLevel(Int32 level) |  | 
+| void | SetLookDir(Vector3 dir) |  | 
+| void | SetMaxHealth(Single health) |  | 
+| void | SetMoveDir(Vector3 dir) |  | 
+| void | SetRun(Boolean run) |  | 
+| void | SetTamed(Boolean tamed) |  | 
+| void | SetVisible(Boolean visible) |  | 
+| void | SetWalk(Boolean walk) |  | 
+| void | ShowPickupMessage(ItemData item, Int32 amount) |  | 
+| void | ShowRemovedMessage(ItemData item, Int32 amount) |  | 
+| void | Stagger(Vector3 forceDirection) |  | 
 | void | Start() |  | 
-| Boolean | StartAttack(`Character` target, `Boolean` charge) |  | 
+| Boolean | StartAttack([`Character`](./Character.md) target, Boolean charge) |  | 
 | void | StopEmote() |  | 
 | Boolean | TakeInput() |  | 
-| Boolean | TeleportTo(`Vector3` pos, `Quaternion` rot, `Boolean` distantTeleport) |  | 
+| Boolean | TeleportTo(Vector3 pos, Quaternion rot, Boolean distantTeleport) |  | 
 | void | UpdateEyeRotation() |  | 
 | void | UpdateLodgroup() |  | 
 | Boolean | UseMeleeCamera() |  | 
-| void | UseStamina(`Single` stamina) |  | 
+| void | UseStamina(Single stamina) |  | 
 
 
 ### Static Fields
@@ -252,9 +252,9 @@ public class Character
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | List&lt;Character&gt; | GetAllCharacters() |  | 
-| void | GetCharactersInRange(`Vector3` point, `Single` radius, `List<Character>` characters) |  | 
-| Boolean | IsCharacterInRange(`Vector3` point, `Single` range) |  | 
+| void | GetCharactersInRange(Vector3 point, Single radius, List&lt;Character&gt; characters) |  | 
+| Boolean | IsCharacterInRange(Vector3 point, Single range) |  | 
 | Boolean | IsDPSDebugEnabled() |  | 
-| void | SetDPSDebug(`Boolean` enabled) |  | 
+| void | SetDPSDebug(Boolean enabled) |  | 
 
 

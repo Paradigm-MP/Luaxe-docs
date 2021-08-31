@@ -20,7 +20,7 @@ public class TextInput
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | Hide() |  | 
-| void | RequestText(`TextReceiver` sign, `String` topic, `Int32` charLimit) |  | 
+| void | RequestText([`TextReceiver`](./TextReceiver.md) sign, String topic, Int32 charLimit) |  | 
 
 
 ### Static Properties

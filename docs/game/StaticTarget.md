@@ -18,7 +18,7 @@ public class StaticTarget
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Vector3 | FindClosestPoint(`Vector3` point) |  | 
+| Vector3 | FindClosestPoint(Vector3 point) |  | 
 | List&lt;Collider&gt; | GetAllColliders() |  | 
 | Vector3 | GetCenter() |  | 
 | Boolean | IsPriorityTarget() |  | 

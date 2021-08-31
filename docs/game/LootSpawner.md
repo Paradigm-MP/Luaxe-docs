@@ -23,6 +23,6 @@ public class LootSpawner
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | IsMonsterInRange(`Vector3` point, `Single` range) |  | 
+| Boolean | IsMonsterInRange(Vector3 point, Single range) |  | 
 
 

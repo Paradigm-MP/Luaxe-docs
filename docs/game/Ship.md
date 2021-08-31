@@ -45,7 +45,7 @@ public class Ship
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | ApplyMovementControlls(`Vector3` dir) |  | 
+| void | ApplyMovementControlls(Vector3 dir) |  | 
 | void | Backward() |  | 
 | Boolean | CanBeRemoved() |  | 
 | void | Forward() |  | 
@@ -59,11 +59,11 @@ public class Ship
 | Boolean | HasPlayerOnboard() |  | 
 | Boolean | HaveControllingPlayer() |  | 
 | Boolean | IsOwner() |  | 
-| Boolean | IsPlayerInBoat(`ZDOID` zdoid) |  | 
-| Boolean | IsPlayerInBoat(`Player` player) |  | 
+| Boolean | IsPlayerInBoat([`ZDOID`](./ZDOID.md) zdoid) |  | 
+| Boolean | IsPlayerInBoat([`Player`](./Player.md) player) |  | 
 | Boolean | IsSailUp() |  | 
 | Boolean | IsWindControllActive() |  | 
-| void | Rudder(`Single` rudder) |  | 
+| void | Rudder(Single rudder) |  | 
 | void | Stop() |  | 
 
 

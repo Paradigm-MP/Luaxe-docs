@@ -17,7 +17,7 @@ public class DLCMan
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | IsDLCInstalled(`String` name) |  | 
+| Boolean | IsDLCInstalled(String name) |  | 
 
 
 ### Static Properties

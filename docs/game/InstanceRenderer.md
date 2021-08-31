@@ -25,12 +25,12 @@ public class InstanceRenderer
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | AddInstance(`Vector3` pos, `Quaternion` rot, `Single` scale) |  | 
-| void | AddInstance(`Vector3` pos, `Quaternion` rot) |  | 
-| void | AddInstance(`Matrix4x4` m) |  | 
+| void | AddInstance(Vector3 pos, Quaternion rot, Single scale) |  | 
+| void | AddInstance(Vector3 pos, Quaternion rot) |  | 
+| void | AddInstance(Matrix4x4 m) |  | 
 | void | Clear() |  | 
-| void | SetInstance(`Int32` index, `Vector3` pos, `Quaternion` rot, `Single` scale) |  | 
-| void | SetInstances(`List<Transform>` transforms, `Boolean` faceCamera = False) |  | 
-| void | SetInstancesBillboard(`List<Vector4>` points) |  | 
+| void | SetInstance(Int32 index, Vector3 pos, Quaternion rot, Single scale) |  | 
+| void | SetInstances(List&lt;Transform&gt; transforms, Boolean faceCamera = False) |  | 
+| void | SetInstancesBillboard(List&lt;Vector4&gt; points) |  | 
 
 

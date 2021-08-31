@@ -10,6 +10,6 @@ public class ScrollRectEnsureVisible
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | CenterOnItem(`RectTransform` target) |  | 
+| void | CenterOnItem(RectTransform target) |  | 
 
 

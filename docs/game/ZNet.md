@@ -22,20 +22,20 @@ public class ZNet
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Ban(`String` user) |  | 
-| void | Connect(`CSteamID` hostID) |  | 
-| void | Connect(`SteamNetworkingIPAddr` host) |  | 
+| void | Ban(String user) |  | 
+| void | Connect(CSteamID hostID) |  | 
+| void | Connect(SteamNetworkingIPAddr host) |  | 
 | void | ConsoleSave() |  | 
-| void | Disconnect(`ZNetPeer` peer) |  | 
+| void | Disconnect([`ZNetPeer`](./ZNetPeer.md) peer) |  | 
 | List&lt;ZDO&gt; | GetAllCharacterZDOS() |  | 
 | List&lt;ZNetPeer&gt; | GetConnectedPeers() |  | 
 | Int32 | GetHostPort() |  | 
-| void | GetNetStats(`Single&` localQuality, `Single&` remoteQuality, `Int32&` ping, `Single&` outByteSec, `Single&` inByteSec) |  | 
+| void | GetNetStats(Single& localQuality, Single& remoteQuality, Int32& ping, Single& outByteSec, Single& inByteSec) |  | 
 | Int32 | GetNrOfPlayers() |  | 
-| void | GetOtherPublicPlayers(`List<PlayerInfo>` playerList) |  | 
-| [ZNetPeer](./ZNetPeer.md) | GetPeer(`Int64` uid) |  | 
-| [ZNetPeer](./ZNetPeer.md) | GetPeerByHostName(`String` endpoint) |  | 
-| [ZNetPeer](./ZNetPeer.md) | GetPeerByPlayerName(`String` name) |  | 
+| void | GetOtherPublicPlayers(List&lt;PlayerInfo&gt; playerList) |  | 
+| [ZNetPeer](./ZNetPeer.md) | GetPeer(Int64 uid) |  | 
+| [ZNetPeer](./ZNetPeer.md) | GetPeerByHostName(String endpoint) |  | 
+| [ZNetPeer](./ZNetPeer.md) | GetPeerByPlayerName(String name) |  | 
 | Int32 | GetPeerConnections() |  | 
 | List&lt;ZNetPeer&gt; | GetPeers() |  | 
 | List&lt;PlayerInfo&gt; | GetPlayerList() |  | 
@@ -52,22 +52,22 @@ public class ZNet
 | [ZNat](./ZNat.md) | GetZNat() |  | 
 | Boolean | HasBadConnection() |  | 
 | Boolean | InPasswordDialog() |  | 
-| Boolean | IsAllowed(`String` hostName, `String` playerName) |  | 
-| Boolean | IsConnected(`Int64` uid) |  | 
+| Boolean | IsAllowed(String hostName, String playerName) |  | 
+| Boolean | IsConnected(Int64 uid) |  | 
 | Boolean | IsDedicated() |  | 
 | Boolean | IsReferencePositionPublic() |  | 
 | Boolean | IsSaving() |  | 
 | Boolean | IsServer() |  | 
-| void | Kick(`String` user) |  | 
+| void | Kick(String user) |  | 
 | void | PrintBanned() |  | 
-| void | RemotePrint(`ZRpc` rpc, `String` text) |  | 
-| void | Save(`Boolean` sync) |  | 
-| void | SetCharacterID(`ZDOID` id) |  | 
-| void | SetNetTime(`Double` time) |  | 
-| void | SetPublicReferencePosition(`Boolean` pub) |  | 
-| void | SetReferencePosition(`Vector3` pos) |  | 
+| void | RemotePrint([`ZRpc`](./ZRpc.md) rpc, String text) |  | 
+| void | Save(Boolean sync) |  | 
+| void | SetCharacterID([`ZDOID`](./ZDOID.md) id) |  | 
+| void | SetNetTime(Double time) |  | 
+| void | SetPublicReferencePosition(Boolean pub) |  | 
+| void | SetReferencePosition(Vector3 pos) |  | 
 | void | Shutdown() |  | 
-| void | Unban(`String` user) |  | 
+| void | Unban(String user) |  | 
 
 
 ### Static Properties
@@ -84,8 +84,8 @@ public class ZNet
 | ConnectionStatus | GetConnectionStatus() |  | 
 | String | GetServerString() |  | 
 | void | ResetServerHost() |  | 
-| void | SetServer(`Boolean` server, `Boolean` openServer, `Boolean` publicServer, `String` serverName, `String` password, `World` world) |  | 
-| void | SetServerHost(`UInt64` serverID) |  | 
-| void | SetServerHost(`SteamNetworkingIPAddr` serverAddr) |  | 
+| void | SetServer(Boolean server, Boolean openServer, Boolean publicServer, String serverName, String password, [`World`](./World.md) world) |  | 
+| void | SetServerHost(UInt64 serverID) |  | 
+| void | SetServerHost(SteamNetworkingIPAddr serverAddr) |  | 
 
 

@@ -17,9 +17,9 @@ public class SE_Burning
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | AddFireDamage(`Single` damage) |  | 
-| void | AddSpiritDamage(`Single` damage) |  | 
-| void | Setup(`Character` character) |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | AddFireDamage(Single damage) |  | 
+| void | AddSpiritDamage(Single damage) |  | 
+| void | Setup([`Character`](./Character.md) character) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 

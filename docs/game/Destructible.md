@@ -30,7 +30,7 @@ public class Destructible
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Damage(`HitData` hit) |  | 
+| void | Damage([`HitData`](./HitData.md) hit) |  | 
 | void | Destroy() |  | 
 | [DestructibleType](./DestructibleType.md) | GetDestructibleType() |  | 
 | GameObject | GetParentObject() |  | 
@@ -40,6 +40,6 @@ public class Destructible
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | CreateFragments(`GameObject` rootObject, `Boolean` visibleOnly = True) |  | 
+| void | CreateFragments(GameObject rootObject, Boolean visibleOnly = True) |  | 
 
 

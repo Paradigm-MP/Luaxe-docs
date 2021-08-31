@@ -40,23 +40,23 @@ public class Raven
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Damage(`HitData` hit) |  | 
+| void | Damage([`HitData`](./HitData.md) hit) |  | 
 | [DestructibleType](./DestructibleType.md) | GetDestructibleType() |  | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` hold) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean hold) |  | 
 | Boolean | IsAway() |  | 
 | Boolean | IsFlying() |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | AddTempText(`String` key, `String` topic, `String` text, `String` label, `Boolean` munin) |  | 
+| void | AddTempText(String key, String topic, String text, String label, Boolean munin) |  | 
 | Boolean | IsInstantiated() |  | 
-| void | RegisterStaticText(`RavenText` text) |  | 
-| void | UnregisterStaticText(`RavenText` text) |  | 
+| void | RegisterStaticText(RavenText text) |  | 
+| void | UnregisterStaticText(RavenText text) |  | 
 
 

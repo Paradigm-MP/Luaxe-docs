@@ -22,6 +22,6 @@ public class VariantDialog
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | OnClose() |  | 
-| void | Setup(`ItemData` item) |  | 
+| void | Setup(ItemData item) |  | 
 
 

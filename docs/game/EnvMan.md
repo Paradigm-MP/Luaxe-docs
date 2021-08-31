@@ -43,11 +43,11 @@ public class EnvMan
 | String | GetAmbientMusic() |  | 
 | Biome | GetCurrentBiome() |  | 
 | [EnvSetup](./EnvSetup.md) | GetCurrentEnvironment() |  | 
-| Int32 | GetDay(`Double` time) |  | 
-| Double | GetMorningStartSec(`Int32` day) |  | 
+| Int32 | GetDay(Double time) |  | 
+| Double | GetMorningStartSec(Int32 day) |  | 
 | Vector3 | GetSunDirection() |  | 
 | Color | GetSunFogColor() |  | 
-| void | GetWindData(`Vector4&` wind1, `Vector4&` wind2, `Single&` alpha) |  | 
+| void | GetWindData(Vector4& wind1, Vector4& wind2, Single& alpha) |  | 
 | Vector3 | GetWindDir() |  | 
 | Vector3 | GetWindForce() |  | 
 | Single | GetWindIntensity() |  | 
@@ -55,15 +55,15 @@ public class EnvMan
 | Boolean | IsCold() |  | 
 | Boolean | IsDay() |  | 
 | Boolean | IsDaylight() |  | 
-| Boolean | IsEnvironment(`String` name) |  | 
-| Boolean | IsEnvironment(`List<String>` names) |  | 
+| Boolean | IsEnvironment(String name) |  | 
+| Boolean | IsEnvironment(List&lt;String&gt; names) |  | 
 | Boolean | IsFreezing() |  | 
 | Boolean | IsNight() |  | 
 | Boolean | IsTimeSkipping() |  | 
 | Boolean | IsWet() |  | 
 | void | ResetDebugWind() |  | 
-| void | SetDebugWind(`Single` angle, `Single` intensity) |  | 
-| void | SetForceEnvironment(`String` env) |  | 
+| void | SetDebugWind(Single angle, Single intensity) |  | 
+| void | SetForceEnvironment(String env) |  | 
 | void | SkipToMorning() |  | 
 
 

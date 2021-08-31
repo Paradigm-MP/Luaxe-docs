@@ -22,6 +22,6 @@ public class MistEmitter
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | SetEmit(`Boolean` emit) |  | 
+| void | SetEmit(Boolean emit) |  | 
 
 

@@ -36,11 +36,11 @@ public class Container
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
 | [Inventory](./Inventory.md) | GetInventory() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` hold) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean hold) |  | 
 | Boolean | IsInUse() |  | 
 | Boolean | IsOwner() |  | 
-| void | SetInUse(`Boolean` inUse) |  | 
-| Boolean | TakeAll(`Humanoid` character) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| void | SetInUse(Boolean inUse) |  | 
+| Boolean | TakeAll([`Humanoid`](./Humanoid.md) character) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

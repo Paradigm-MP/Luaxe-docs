@@ -22,8 +22,8 @@ public class DamageText
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | ShowText(`DamageModifier` type, `Vector3` pos, `Single` dmg, `Boolean` player = False) |  | 
-| void | ShowText(`TextType` type, `Vector3` pos, `Single` dmg, `Boolean` player = False) |  | 
+| void | ShowText(DamageModifier type, Vector3 pos, Single dmg, Boolean player = False) |  | 
+| void | ShowText(TextType type, Vector3 pos, Single dmg, Boolean player = False) |  | 
 
 
 ### Static Properties

@@ -19,8 +19,8 @@ public class StealthSystem
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Single | GetLightFactor(`Vector3` point) |  | 
-| Single | GetLightLevel(`Vector3` point) |  | 
+| Single | GetLightFactor(Vector3 point) |  | 
+| Single | GetLightLevel(Vector3 point) |  | 
 
 
 ### Static Properties

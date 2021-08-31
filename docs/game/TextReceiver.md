@@ -10,6 +10,6 @@ public interface TextReceiver
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | String | GetText() |  | 
-| void | SetText(`String` text) |  | 
+| void | SetText(String text) |  | 
 
 

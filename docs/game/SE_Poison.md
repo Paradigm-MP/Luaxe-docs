@@ -21,7 +21,7 @@ public class SE_Poison
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | AddDamage(`Single` damage) |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | AddDamage(Single damage) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 

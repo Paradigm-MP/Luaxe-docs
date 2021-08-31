@@ -20,7 +20,7 @@ public class SE_Shield
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | Boolean | IsDone() |  | 
-| void | OnDamaged(`HitData` hit, `Character` attacker) |  | 
-| void | Setup(`Character` character) |  | 
+| void | OnDamaged([`HitData`](./HitData.md) hit, [`Character`](./Character.md) attacker) |  | 
+| void | Setup([`Character`](./Character.md) character) |  | 
 
 

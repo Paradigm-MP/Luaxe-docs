@@ -28,7 +28,7 @@ public class Beehive
 | --- | --- | --- | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` repeat) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean repeat) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

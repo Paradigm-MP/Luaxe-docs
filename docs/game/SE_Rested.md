@@ -19,14 +19,14 @@ public class SE_Rested
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | ResetTime() |  | 
-| void | Setup(`Character` character) |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | Setup([`Character`](./Character.md) character) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Int32 | CalculateComfortLevel(`Player` player) |  | 
+| Int32 | CalculateComfortLevel([`Player`](./Player.md) player) |  | 
 
 

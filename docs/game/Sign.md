@@ -23,8 +23,8 @@ public class Sign
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
 | String | GetText() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` hold) |  | 
-| void | SetText(`String` text) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean hold) |  | 
+| void | SetText(String text) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

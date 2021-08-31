@@ -29,8 +29,8 @@ public class LineConnect
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | SetPeer(`ZNetView` other) |  | 
-| void | SetPeer(`ZDOID` zdoid) |  | 
-| void | SetSlack(`Single` slack) |  | 
+| void | SetPeer([`ZNetView`](./ZNetView.md) other) |  | 
+| void | SetPeer([`ZDOID`](./ZDOID.md) zdoid) |  | 
+| void | SetSlack(Single slack) |  | 
 
 

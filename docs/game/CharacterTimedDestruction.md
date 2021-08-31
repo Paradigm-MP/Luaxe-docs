@@ -20,6 +20,6 @@ public class CharacterTimedDestruction
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | Trigger() |  | 
-| void | Trigger(`Single` timeout) |  | 
+| void | Trigger(Single timeout) |  | 
 
 

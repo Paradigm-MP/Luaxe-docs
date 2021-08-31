@@ -24,7 +24,7 @@ public class MineRock5
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Damage(`HitData` hit) |  | 
+| void | Damage([`HitData`](./HitData.md) hit) |  | 
 | [DestructibleType](./DestructibleType.md) | GetDestructibleType() |  | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 

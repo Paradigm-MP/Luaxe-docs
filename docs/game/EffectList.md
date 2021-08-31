@@ -16,7 +16,7 @@ public class EffectList
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| GameObject[] | Create(`Vector3` pos, `Quaternion` rot, `Transform` parent = null, `Single` scale = 1) |  | 
+| GameObject[] | Create(Vector3 pos, Quaternion rot, Transform parent = null, Single scale = 1) |  | 
 | Boolean | HasEffects() |  | 
 
 

@@ -37,7 +37,7 @@ public class DungeonGenerator
 | --- | --- | --- | 
 | void | Clear() |  | 
 | void | Derp() |  | 
-| void | Generate(`SpawnMode` mode) |  | 
-| void | Generate(`Int32` seed, `SpawnMode` mode) |  | 
+| void | Generate(SpawnMode mode) |  | 
+| void | Generate(Int32 seed, SpawnMode mode) |  | 
 
 

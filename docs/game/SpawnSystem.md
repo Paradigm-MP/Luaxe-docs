@@ -19,14 +19,14 @@ public class SpawnSystem
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | GetSpawners(`Biome` biome, `List<SpawnData>` spawners) |  | 
+| void | GetSpawners(Biome biome, List&lt;SpawnData&gt; spawners) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Int32 | GetNrOfInstances(`GameObject` prefab) |  | 
-| Int32 | GetNrOfInstances(`GameObject` prefab, `Vector3` center, `Single` maxRange, `Boolean` eventCreaturesOnly = False, `Boolean` procreationOnly = False) |  | 
+| Int32 | GetNrOfInstances(GameObject prefab) |  | 
+| Int32 | GetNrOfInstances(GameObject prefab, Vector3 center, Single maxRange, Boolean eventCreaturesOnly = False, Boolean procreationOnly = False) |  | 
 
 

@@ -18,7 +18,7 @@ public class SE_Wet
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Setup(`Character` character) |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | Setup([`Character`](./Character.md) character) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 

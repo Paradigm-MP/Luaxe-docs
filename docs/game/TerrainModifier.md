@@ -43,8 +43,8 @@ public class TerrainModifier
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [Piece](./Piece.md) | FindClosestModifierPieceInRange(`Vector3` point, `Single` range) |  | 
+| [Piece](./Piece.md) | FindClosestModifierPieceInRange(Vector3 point, Single range) |  | 
 | List&lt;TerrainModifier&gt; | GetAllInstances() |  | 
-| void | SetTriggerOnPlaced(`Boolean` trigger) |  | 
+| void | SetTriggerOnPlaced(Boolean trigger) |  | 
 
 

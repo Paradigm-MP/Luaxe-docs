@@ -40,10 +40,10 @@ public class Vagon
 | --- | --- | --- | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` hold) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean hold) |  | 
 | Boolean | InUse() |  | 
-| Boolean | IsAttached(`Character` character) |  | 
-| void | RPC_RequestOwn(`Int64` sender) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | IsAttached([`Character`](./Character.md) character) |  | 
+| void | RPC_RequestOwn(Int64 sender) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

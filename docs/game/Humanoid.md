@@ -48,18 +48,18 @@ public class Humanoid
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | AbortEquipQueue() |  | 
-| void | AddUniqueKey(`String` name) |  | 
+| void | AddUniqueKey(String name) |  | 
 | void | Awake() |  | 
-| Boolean | BlockAttack(`HitData` hit, `Character` attacker) |  | 
-| Boolean | CanConsumeItem(`ItemData` item) |  | 
-| Boolean | CheckRun(`Vector3` moveDir, `Single` dt) |  | 
-| Boolean | ConsumeItem(`Inventory` inventory, `ItemData` item) |  | 
-| void | DamageArmorDurability(`HitData` hit) |  | 
-| Boolean | DropItem(`Inventory` inventory, `ItemData` item, `Int32` amount) |  | 
-| void | EquipBestWeapon(`Character` targetCreature, `StaticTarget` targetStatic, `Character` hurtFriend, `Character` friend) |  | 
-| Boolean | EquipItem(`ItemData` item, `Boolean` triggerEquipEffects = True) |  | 
+| Boolean | BlockAttack([`HitData`](./HitData.md) hit, [`Character`](./Character.md) attacker) |  | 
+| Boolean | CanConsumeItem(ItemData item) |  | 
+| Boolean | CheckRun(Vector3 moveDir, Single dt) |  | 
+| Boolean | ConsumeItem([`Inventory`](./Inventory.md) inventory, ItemData item) |  | 
+| void | DamageArmorDurability([`HitData`](./HitData.md) hit) |  | 
+| Boolean | DropItem([`Inventory`](./Inventory.md) inventory, ItemData item, Int32 amount) |  | 
+| void | EquipBestWeapon([`Character`](./Character.md) targetCreature, [`StaticTarget`](./StaticTarget.md) targetStatic, [`Character`](./Character.md) hurtFriend, [`Character`](./Character.md) friend) |  | 
+| Boolean | EquipItem(ItemData item, Boolean triggerEquipEffects = True) |  | 
 | void | FixedUpdate() |  | 
-| Vector3 | GetAimDir(`Vector3` fromPoint) |  | 
+| Vector3 | GetAimDir(Vector3 fromPoint) |  | 
 | ItemData | GetAmmoItem() |  | 
 | Single | GetAttackDrawPercentage() |  | 
 | Single | GetAttackSpeedFactorMovement() |  | 
@@ -75,33 +75,33 @@ public class Humanoid
 | ItemData | GetRightItem() |  | 
 | void | GiveDefaultItems() |  | 
 | Boolean | HaveQueuedChain() |  | 
-| Boolean | HaveUniqueKey(`String` name) |  | 
+| Boolean | HaveUniqueKey(String name) |  | 
 | void | HideHandItems() |  | 
 | Boolean | InAttack() |  | 
 | Boolean | IsBlocking() |  | 
 | Boolean | IsHoldingAttack() |  | 
-| Boolean | IsItemEquiped(`ItemData` item) |  | 
+| Boolean | IsItemEquiped(ItemData item) |  | 
 | Boolean | IsSitting() |  | 
 | Boolean | IsTeleportable() |  | 
 | void | OnAttackTrigger() |  | 
-| void | OnDamaged(`HitData` hit) |  | 
-| void | OnRagdollCreated(`Ragdoll` ragdoll) |  | 
+| void | OnDamaged([`HitData`](./HitData.md) hit) |  | 
+| void | OnRagdollCreated([`Ragdoll`](./Ragdoll.md) ragdoll) |  | 
 | void | OnStopMoving() |  | 
 | void | OnWeaponTrailStart() |  | 
-| Boolean | Pickup(`GameObject` go) |  | 
-| ItemData | PickupPrefab(`GameObject` prefab, `Int32` stackSize = 0) |  | 
-| void | RemoveFromEquipQueue(`ItemData` item) |  | 
-| void | SetBeard(`String` name) |  | 
-| void | SetHair(`String` hair) |  | 
-| void | SetPlaceMode(`PieceTable` buildPieces) |  | 
-| void | SetupVisEquipment(`VisEquipment` visEq, `Boolean` isRagdoll) |  | 
+| Boolean | Pickup(GameObject go) |  | 
+| ItemData | PickupPrefab(GameObject prefab, Int32 stackSize = 0) |  | 
+| void | RemoveFromEquipQueue(ItemData item) |  | 
+| void | SetBeard(String name) |  | 
+| void | SetHair(String hair) |  | 
+| void | SetPlaceMode([`PieceTable`](./PieceTable.md) buildPieces) |  | 
+| void | SetupVisEquipment([`VisEquipment`](./VisEquipment.md) visEq, Boolean isRagdoll) |  | 
 | void | ShowHandItems() |  | 
 | void | Start() |  | 
-| Boolean | StartAttack(`Character` target, `Boolean` secondaryAttack) |  | 
-| Boolean | ToggleEquiped(`ItemData` item) |  | 
+| Boolean | StartAttack([`Character`](./Character.md) target, Boolean secondaryAttack) |  | 
+| Boolean | ToggleEquiped(ItemData item) |  | 
 | void | UnequipAllItems() |  | 
-| void | UnequipItem(`ItemData` item, `Boolean` triggerEquipEffects = True) |  | 
-| void | UseItem(`Inventory` inventory, `ItemData` item, `Boolean` fromInventoryGui) |  | 
+| void | UnequipItem(ItemData item, Boolean triggerEquipEffects = True) |  | 
+| void | UseItem([`Inventory`](./Inventory.md) inventory, ItemData item, Boolean fromInventoryGui) |  | 
 | Boolean | UseMeleeCamera() |  | 
 
 

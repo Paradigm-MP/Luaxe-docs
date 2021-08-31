@@ -29,6 +29,6 @@ public class DistantFogEmitter
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | SetEmit(`Boolean` emit) |  | 
+| void | SetEmit(Boolean emit) |  | 
 
 

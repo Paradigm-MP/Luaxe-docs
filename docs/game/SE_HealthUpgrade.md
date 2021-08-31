@@ -19,7 +19,7 @@ public class SE_HealthUpgrade
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Setup(`Character` character) |  | 
+| void | Setup([`Character`](./Character.md) character) |  | 
 | void | Stop() |  | 
 
 

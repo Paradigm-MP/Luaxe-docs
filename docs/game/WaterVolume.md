@@ -21,6 +21,6 @@ public class WaterVolume
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Single | GetWaterLevel(`Vector3` p, `Single` waveFactor = 1) |  | 
+| Single | GetWaterLevel(Vector3 p, Single waveFactor = 1) |  | 
 
 

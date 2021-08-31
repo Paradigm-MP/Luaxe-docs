@@ -21,6 +21,6 @@ public class FootStep
 | --- | --- | --- | 
 | void | FindJoints() |  | 
 | void | OnFoot() |  | 
-| void | OnFoot(`String` name) |  | 
+| void | OnFoot(String name) |  | 
 
 

@@ -18,8 +18,8 @@ public class AnimalAI
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | Awake() |  | 
-| void | OnDamaged(`Single` damage, `Character` attacker) |  | 
-| void | SetAlerted(`Boolean` alert) |  | 
-| void | UpdateAI(`Single` dt) |  | 
+| void | OnDamaged(Single damage, [`Character`](./Character.md) attacker) |  | 
+| void | SetAlerted(Boolean alert) |  | 
+| void | UpdateAI(Single dt) |  | 
 
 

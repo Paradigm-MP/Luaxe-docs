@@ -22,7 +22,7 @@ public class Switch
 | --- | --- | --- | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` hold) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean hold) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

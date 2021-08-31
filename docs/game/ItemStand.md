@@ -36,10 +36,10 @@ public class ItemStand
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
 | Boolean | HaveAttachment() |  | 
-| Boolean | Interact(`Humanoid` user, `Boolean` hold) |  | 
-| Boolean | IsSupported(`ItemData` item) |  | 
-| Boolean | IsUnsupported(`ItemData` item) |  | 
-| void | RPC_DestroyAttachment(`Int64` sender) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) user, Boolean hold) |  | 
+| Boolean | IsSupported(ItemData item) |  | 
+| Boolean | IsUnsupported(ItemData item) |  | 
+| void | RPC_DestroyAttachment(Int64 sender) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

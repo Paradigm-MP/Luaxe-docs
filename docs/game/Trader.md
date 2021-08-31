@@ -37,9 +37,9 @@ public class Trader
 | --- | --- | --- | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` hold) |  | 
-| void | OnBought(`TradeItem` item) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean hold) |  | 
+| void | OnBought(TradeItem item) |  | 
 | void | OnSold() |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

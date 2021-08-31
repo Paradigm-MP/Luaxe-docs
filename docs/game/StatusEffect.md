@@ -39,39 +39,39 @@ public class StatusEffect
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | CanAdd(`Character` character) |  | 
+| Boolean | CanAdd([`Character`](./Character.md) character) |  | 
 | [StatusEffect](./StatusEffect.md) | Clone() |  | 
 | Single | GetDuration() |  | 
 | String | GetIconText() |  | 
 | Single | GetRemaningTime() |  | 
 | String | GetTooltipString() |  | 
-| Boolean | HaveAttribute(`StatusAttribute` value) |  | 
+| Boolean | HaveAttribute(StatusAttribute value) |  | 
 | Boolean | IsDone() |  | 
-| void | ModifyAttack(`SkillType` skill, `HitData&` hitData) |  | 
-| void | ModifyDamageMods(`DamageModifiers&` modifiers) |  | 
-| void | ModifyHealthRegen(`Single&` regenMultiplier) |  | 
-| void | ModifyJumpStaminaUsage(`Single` baseStaminaUse, `Single&` staminaUse) |  | 
-| void | ModifyMaxCarryWeight(`Single` baseLimit, `Single&` limit) |  | 
-| void | ModifyNoise(`Single` baseNoise, `Single&` noise) |  | 
-| void | ModifyRaiseSkill(`SkillType` skill, `Single&` value) |  | 
-| void | ModifyRunStaminaDrain(`Single` baseDrain, `Single&` drain) |  | 
-| void | ModifySpeed(`Single&` speed) |  | 
-| void | ModifyStaminaRegen(`Single&` staminaRegen) |  | 
-| void | ModifyStealth(`Single` baseStealth, `Single&` stealth) |  | 
-| void | OnDamaged(`HitData` hit, `Character` attacker) |  | 
+| void | ModifyAttack(SkillType skill, [`HitData`](./HitData.md)& hitData) |  | 
+| void | ModifyDamageMods(DamageModifiers& modifiers) |  | 
+| void | ModifyHealthRegen(Single& regenMultiplier) |  | 
+| void | ModifyJumpStaminaUsage(Single baseStaminaUse, Single& staminaUse) |  | 
+| void | ModifyMaxCarryWeight(Single baseLimit, Single& limit) |  | 
+| void | ModifyNoise(Single baseNoise, Single& noise) |  | 
+| void | ModifyRaiseSkill(SkillType skill, Single& value) |  | 
+| void | ModifyRunStaminaDrain(Single baseDrain, Single& drain) |  | 
+| void | ModifySpeed(Single& speed) |  | 
+| void | ModifyStaminaRegen(Single& staminaRegen) |  | 
+| void | ModifyStealth(Single baseStealth, Single& stealth) |  | 
+| void | OnDamaged([`HitData`](./HitData.md) hit, [`Character`](./Character.md) attacker) |  | 
 | void | OnDestroy() |  | 
 | void | ResetTime() |  | 
-| void | SetAttacker(`Character` attacker) |  | 
-| void | Setup(`Character` character) |  | 
+| void | SetAttacker([`Character`](./Character.md) attacker) |  | 
+| void | Setup([`Character`](./Character.md) character) |  | 
 | void | Stop() |  | 
 | void | TriggerStartEffects() |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| String | GetTimeString(`Single` time, `Boolean` sufix = False, `Boolean` alwaysShowMinutes = False) |  | 
+| String | GetTimeString(Single time, Boolean sufix = False, Boolean alwaysShowMinutes = False) |  | 
 
 

@@ -33,14 +33,14 @@ public class World
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | String | GenerateSeed() |  | 
-| [World](./World.md) | GetCreateWorld(`String` name) |  | 
+| [World](./World.md) | GetCreateWorld(String name) |  | 
 | [World](./World.md) | GetDevWorld() |  | 
 | [World](./World.md) | GetEditorWorld() |  | 
 | [World](./World.md) | GetMenuWorld() |  | 
-| String | GetMetaPath(`String` name) |  | 
+| String | GetMetaPath(String name) |  | 
 | List&lt;World&gt; | GetWorldList() |  | 
-| Boolean | HaveWorld(`String` name) |  | 
-| [World](./World.md) | LoadWorld(`String` name) |  | 
-| void | RemoveWorld(`String` name) |  | 
+| Boolean | HaveWorld(String name) |  | 
+| [World](./World.md) | LoadWorld(String name) |  | 
+| void | RemoveWorld(String name) |  | 
 
 

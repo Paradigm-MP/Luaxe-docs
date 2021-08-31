@@ -13,8 +13,8 @@ public interface ISocket
 | void | Close() |  | 
 | void | Dispose() |  | 
 | Boolean | Flush() |  | 
-| void | GetAndResetStats(`Int32&` totalSent, `Int32&` totalRecv) |  | 
-| void | GetConnectionQuality(`Single&` localQuality, `Single&` remoteQuality, `Int32&` ping, `Single&` outByteSec, `Single&` inByteSec) |  | 
+| void | GetAndResetStats(Int32& totalSent, Int32& totalRecv) |  | 
+| void | GetConnectionQuality(Single& localQuality, Single& remoteQuality, Int32& ping, Single& outByteSec, Single& inByteSec) |  | 
 | Int32 | GetCurrentSendRate() |  | 
 | String | GetEndPointString() |  | 
 | String | GetHostName() |  | 
@@ -24,6 +24,6 @@ public interface ISocket
 | Boolean | IsConnected() |  | 
 | Boolean | IsHost() |  | 
 | [ZPackage](./ZPackage.md) | Recv() |  | 
-| void | Send(`ZPackage` pkg) |  | 
+| void | Send([`ZPackage`](./ZPackage.md) pkg) |  | 
 
 

@@ -14,9 +14,9 @@ public class ZSteamSocketOLD
 | void | Close() |  | 
 | void | Dispose() |  | 
 | Boolean | Flush() |  | 
-| void | GetAndResetStats(`Int32&` totalSent, `Int32&` totalRecv) |  | 
+| void | GetAndResetStats(Int32& totalSent, Int32& totalRecv) |  | 
 | Int32 | GetAverageSendRate() |  | 
-| void | GetConnectionQuality(`Single&` localQuality, `Single&` remoteQuality, `Int32&` ping, `Single&` outByteSec, `Single&` inByteSec) |  | 
+| void | GetConnectionQuality(Single& localQuality, Single& remoteQuality, Int32& ping, Single& outByteSec, Single& inByteSec) |  | 
 | Int32 | GetCurrentSendRate() |  | 
 | String | GetEndPointString() |  | 
 | String | GetHostName() |  | 
@@ -26,10 +26,10 @@ public class ZSteamSocketOLD
 | Boolean | GotNewData() |  | 
 | Boolean | IsConnected() |  | 
 | Boolean | IsHost() |  | 
-| Boolean | IsPeer(`CSteamID` peer) |  | 
+| Boolean | IsPeer(CSteamID peer) |  | 
 | Boolean | IsSending() |  | 
 | [ZPackage](./ZPackage.md) | Recv() |  | 
-| void | Send(`ZPackage` pkg) |  | 
+| void | Send([`ZPackage`](./ZPackage.md) pkg) |  | 
 | Boolean | StartHost() |  | 
 
 

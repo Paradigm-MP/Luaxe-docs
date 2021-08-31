@@ -19,6 +19,6 @@ public class Talker
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Say(`Type` type, `String` text) |  | 
+| void | Say(Type type, String text) |  | 
 
 

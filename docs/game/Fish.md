@@ -38,10 +38,10 @@ public class Fish
 | String | GetHoverText() |  | 
 | Transform | GetTransform() |  | 
 | [ZDOID](./ZDOID.md) | GetZDOID() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` repeat) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean repeat) |  | 
 | Boolean | IsOwner() |  | 
-| Boolean | Pickup(`Humanoid` character) |  | 
-| void | SetInWater(`Single` waterLevel) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | Pickup([`Humanoid`](./Humanoid.md) character) |  | 
+| void | SetInWater(Single waterLevel) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

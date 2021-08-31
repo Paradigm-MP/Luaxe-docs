@@ -19,7 +19,7 @@ public class SE_Cozy
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | String | GetIconText() |  | 
-| void | Setup(`Character` character) |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | Setup([`Character`](./Character.md) character) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 

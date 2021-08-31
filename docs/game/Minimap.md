@@ -59,25 +59,25 @@ public class Minimap
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| PinData | AddPin(`Vector3` pos, `PinType` type, `String` name, `Boolean` save, `Boolean` isChecked) |  | 
-| Boolean | DiscoverLocation(`Vector3` pos, `PinType` type, `String` name) |  | 
+| PinData | AddPin(Vector3 pos, PinType type, String name, Boolean save, Boolean isChecked) |  | 
+| Boolean | DiscoverLocation(Vector3 pos, PinType type, String name) |  | 
 | void | ExploreAll() |  | 
 | void | ForceRegen() |  | 
 | void | OnMapDblClick() |  | 
 | void | OnMapLeftClick() |  | 
-| void | OnMapMiddleClick(`UIInputHandler` handler) |  | 
-| void | OnMapRightClick(`UIInputHandler` handler) |  | 
+| void | OnMapMiddleClick(UIInputHandler handler) |  | 
+| void | OnMapRightClick(UIInputHandler handler) |  | 
 | void | OnPressedIcon0() |  | 
 | void | OnPressedIcon1() |  | 
 | void | OnPressedIcon2() |  | 
 | void | OnPressedIcon3() |  | 
 | void | OnPressedIcon4() |  | 
 | void | OnTogglePublicPosition() |  | 
-| Boolean | RemovePin(`Vector3` pos, `Single` radius) |  | 
-| void | RemovePin(`PinData` pin) |  | 
+| Boolean | RemovePin(Vector3 pos, Single radius) |  | 
+| void | RemovePin(PinData pin) |  | 
 | void | Reset() |  | 
 | void | SaveMapData() |  | 
-| void | ShowPointOnMap(`Vector3` point) |  | 
+| void | ShowPointOnMap(Vector3 point) |  | 
 
 
 ### Static Properties

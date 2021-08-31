@@ -18,7 +18,7 @@ public class SE_Smoke
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | CanAdd(`Character` character) |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| Boolean | CanAdd([`Character`](./Character.md) character) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 

@@ -55,76 +55,76 @@ public class BaseAI
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | Alert() |  | 
-| Boolean | AvoidFire(`Single` dt, `Character` moveToTarget, `Boolean` superAfraid) |  | 
+| Boolean | AvoidFire(Single dt, [`Character`](./Character.md) moveToTarget, Boolean superAfraid) |  | 
 | void | Awake() |  | 
-| Boolean | CanHearTarget(`Character` target) |  | 
-| Boolean | CanSeeTarget(`Character` target) |  | 
-| Boolean | CanSeeTarget(`StaticTarget` target) |  | 
-| Boolean | CanSenseTarget(`Character` target) |  | 
+| Boolean | CanHearTarget([`Character`](./Character.md) target) |  | 
+| Boolean | CanSeeTarget([`Character`](./Character.md) target) |  | 
+| Boolean | CanSeeTarget([`StaticTarget`](./StaticTarget.md) target) |  | 
+| Boolean | CanSenseTarget([`Character`](./Character.md) target) |  | 
 | [StaticTarget](./StaticTarget.md) | FindClosestStaticPriorityTarget() |  | 
 | [Character](./Character.md) | FindEnemy() |  | 
-| Boolean | FindPath(`Vector3` target) |  | 
-| [StaticTarget](./StaticTarget.md) | FindRandomStaticTarget(`Single` maxDistance) |  | 
-| Boolean | Flee(`Single` dt, `Vector3` from) |  | 
-| void | Follow(`GameObject` go, `Single` dt) |  | 
+| Boolean | FindPath(Vector3 target) |  | 
+| [StaticTarget](./StaticTarget.md) | FindRandomStaticTarget(Single maxDistance) |  | 
+| Boolean | Flee(Single dt, Vector3 from) |  | 
+| void | Follow(GameObject go, Single dt) |  | 
 | Boolean | FoundPath() |  | 
 | Single | GetAltitude() |  | 
-| Boolean | GetPatrolPoint(`Vector3&` point) |  | 
+| Boolean | GetPatrolPoint(Vector3& point) |  | 
 | [Character](./Character.md) | GetTargetCreature() |  | 
 | TimeSpan | GetTimeSinceSpawned() |  | 
 | Boolean | HasZDOOwner() |  | 
-| Boolean | HaveAlertedCreatureInRange(`Single` range) |  | 
-| [Character](./Character.md) | HaveFriendInRange(`Single` range) |  | 
-| void | HaveFriendsInRange(`Single` range, `Character&` hurtFriend, `Character&` friend) |  | 
-| [Character](./Character.md) | HaveHurtFriendInRange(`Single` range) |  | 
-| Boolean | HavePath(`Vector3` target) |  | 
+| Boolean | HaveAlertedCreatureInRange(Single range) |  | 
+| [Character](./Character.md) | HaveFriendInRange(Single range) |  | 
+| void | HaveFriendsInRange(Single range, [`Character`](./Character.md)& hurtFriend, [`Character`](./Character.md)& friend) |  | 
+| [Character](./Character.md) | HaveHurtFriendInRange(Single range) |  | 
+| Boolean | HavePath(Vector3 target) |  | 
 | Boolean | HaveTarget() |  | 
 | Boolean | HuntPlayer() |  | 
-| void | IdleMovement(`Single` dt) |  | 
+| void | IdleMovement(Single dt) |  | 
 | Boolean | IsAlerted() |  | 
-| Boolean | IsEnemey(`Character` other) |  | 
-| Boolean | IsLookingAt(`Vector3` point, `Single` minAngle) |  | 
-| Boolean | IsLookingTowards(`Vector3` dir, `Single` minAngle) |  | 
+| Boolean | IsEnemey([`Character`](./Character.md) other) |  | 
+| Boolean | IsLookingAt(Vector3 point, Single minAngle) |  | 
+| Boolean | IsLookingTowards(Vector3 dir, Single minAngle) |  | 
 | Boolean | IsSleeping() |  | 
 | Boolean | IsTakingOff() |  | 
-| Boolean | IsValidRandomMovePoint(`Vector3` point) |  | 
-| void | LookAt(`Vector3` point) |  | 
-| void | LookTowards(`Vector3` dir) |  | 
-| Boolean | MoveAndAvoid(`Single` dt, `Vector3` point, `Single` dist, `Boolean` run) |  | 
-| void | MoveAwayAndDespawn(`Single` dt, `Boolean` run) |  | 
-| Boolean | MoveTo(`Single` dt, `Vector3` point, `Single` dist, `Boolean` run) |  | 
-| void | MoveTowards(`Vector3` dir, `Boolean` run) |  | 
-| void | MoveTowardsSwoop(`Vector3` dir, `Boolean` run, `Single` distance) |  | 
-| void | MoveToWater(`Single` dt, `Single` maxRange) |  | 
-| void | OnDamaged(`Single` damage, `Character` attacker) |  | 
+| Boolean | IsValidRandomMovePoint(Vector3 point) |  | 
+| void | LookAt(Vector3 point) |  | 
+| void | LookTowards(Vector3 dir) |  | 
+| Boolean | MoveAndAvoid(Single dt, Vector3 point, Single dist, Boolean run) |  | 
+| void | MoveAwayAndDespawn(Single dt, Boolean run) |  | 
+| Boolean | MoveTo(Single dt, Vector3 point, Single dist, Boolean run) |  | 
+| void | MoveTowards(Vector3 dir, Boolean run) |  | 
+| void | MoveTowardsSwoop(Vector3 dir, Boolean run, Single distance) |  | 
+| void | MoveToWater(Single dt, Single maxRange) |  | 
+| void | OnDamaged(Single damage, [`Character`](./Character.md) attacker) |  | 
 | void | OnDeath() |  | 
 | void | OnDrawGizmosSelected() |  | 
-| void | RandomMovement(`Single` dt, `Vector3` centerPoint) |  | 
-| void | RandomMovementArroundPoint(`Single` dt, `Vector3` point, `Single` distance, `Boolean` run) |  | 
-| Single | Raycast(`Vector3` p, `Vector3` dir, `Single` distance, `Single` radius) |  | 
+| void | RandomMovement(Single dt, Vector3 centerPoint) |  | 
+| void | RandomMovementArroundPoint(Single dt, Vector3 point, Single distance, Boolean run) |  | 
+| Single | Raycast(Vector3 p, Vector3 dir, Single distance, Single radius) |  | 
 | void | ResetPatrolPoint() |  | 
-| void | RPC_OnNearProjectileHit(`Int64` sender, `Vector3` center, `Single` range, `ZDOID` attacker) |  | 
-| void | SetAlerted(`Boolean` alert) |  | 
-| void | SetHuntPlayer(`Boolean` hunt) |  | 
+| void | RPC_OnNearProjectileHit(Int64 sender, Vector3 center, Single range, [`ZDOID`](./ZDOID.md) attacker) |  | 
+| void | SetAlerted(Boolean alert) |  | 
+| void | SetHuntPlayer(Boolean hunt) |  | 
 | void | SetPatrolPoint() |  | 
-| void | SetPatrolPoint(`Vector3` point) |  | 
-| void | SetTargetInfo(`ZDOID` targetID) |  | 
-| Single | StandStillDuration(`Single` distanceTreshold) |  | 
+| void | SetPatrolPoint(Vector3 point) |  | 
+| void | SetTargetInfo([`ZDOID`](./ZDOID.md) targetID) |  | 
+| Single | StandStillDuration(Single distanceTreshold) |  | 
 | void | StopMoving() |  | 
-| void | UpdateAI(`Single` dt) |  | 
-| void | UpdateTakeoffLanding(`Single` dt) |  | 
+| void | UpdateAI(Single dt) |  | 
+| void | UpdateTakeoffLanding(Single dt) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | CanUseAttack(`Character` character, `ItemData` item) |  | 
-| void | DoProjectileHitNoise(`Vector3` center, `Single` range, `Character` attacker) |  | 
-| [Character](./Character.md) | FindClosestEnemy(`Character` me, `Vector3` point, `Single` maxDistance) |  | 
-| [Character](./Character.md) | FindRandomEnemy(`Character` me, `Vector3` point, `Single` maxDistance) |  | 
+| Boolean | CanUseAttack([`Character`](./Character.md) character, ItemData item) |  | 
+| void | DoProjectileHitNoise(Vector3 center, Single range, [`Character`](./Character.md) attacker) |  | 
+| [Character](./Character.md) | FindClosestEnemy([`Character`](./Character.md) me, Vector3 point, Single maxDistance) |  | 
+| [Character](./Character.md) | FindRandomEnemy([`Character`](./Character.md) me, Vector3 point, Single maxDistance) |  | 
 | List&lt;BaseAI&gt; | GetAllInstances() |  | 
-| Boolean | InStealthRange(`Character` me) |  | 
-| Boolean | IsEnemy(`Character` a, `Character` b) |  | 
+| Boolean | InStealthRange([`Character`](./Character.md) me) |  | 
+| Boolean | IsEnemy([`Character`](./Character.md) a, [`Character`](./Character.md) b) |  | 
 
 

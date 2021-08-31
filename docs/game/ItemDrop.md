@@ -22,22 +22,22 @@ public class ItemDrop
 | Boolean | CanPickup() |  | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
-| Boolean | Interact(`Humanoid` character, `Boolean` repeat) |  | 
-| void | LoadFromExternalZDO(`ZDO` zdo) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) character, Boolean repeat) |  | 
+| void | LoadFromExternalZDO([`ZDO`](./ZDO.md) zdo) |  | 
 | void | OnPlayerDrop() |  | 
-| void | Pickup(`Humanoid` character) |  | 
+| void | Pickup([`Humanoid`](./Humanoid.md) character) |  | 
 | Boolean | RemoveOne() |  | 
 | void | RequestOwn() |  | 
-| void | SetStack(`Int32` stack) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| void | SetStack(Int32 stack) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [ItemDrop](./ItemDrop.md) | DropItem(`ItemData` item, `Int32` amount, `Vector3` position, `Quaternion` rotation) |  | 
-| void | LoadFromZDO(`ItemData` itemData, `ZDO` zdo) |  | 
-| void | SaveToZDO(`ItemData` itemData, `ZDO` zdo) |  | 
+| [ItemDrop](./ItemDrop.md) | DropItem(ItemData item, Int32 amount, Vector3 position, Quaternion rotation) |  | 
+| void | LoadFromZDO(ItemData itemData, [`ZDO`](./ZDO.md) zdo) |  | 
+| void | SaveToZDO(ItemData itemData, [`ZDO`](./ZDO.md) zdo) |  | 
 
 

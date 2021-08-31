@@ -24,7 +24,7 @@ public class ServerData
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | Equals(`Object` obj) |  | 
+| Boolean | Equals(Object obj) |  | 
 | String | ToString() |  | 
 
 

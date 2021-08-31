@@ -27,10 +27,10 @@ public class Room
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [RoomConnection](./RoomConnection.md) | GetConnection(`RoomConnection` other) |  | 
+| [RoomConnection](./RoomConnection.md) | GetConnection([`RoomConnection`](./RoomConnection.md) other) |  | 
 | RoomConnection[] | GetConnections() |  | 
 | [RoomConnection](./RoomConnection.md) | GetEntrance() |  | 
 | Int32 | GetHash() |  | 
-| Boolean | HaveConnection(`RoomConnection` other) |  | 
+| Boolean | HaveConnection([`RoomConnection`](./RoomConnection.md) other) |  | 
 
 

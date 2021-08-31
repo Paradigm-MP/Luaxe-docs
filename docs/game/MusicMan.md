@@ -27,7 +27,7 @@ public class MusicMan
 | Boolean | IsPlaying() |  | 
 | void | Reset() |  | 
 | void | ResetCombatTimer() |  | 
-| void | TriggerMusic(`String` name) |  | 
+| void | TriggerMusic(String name) |  | 
 
 
 ### Static Fields

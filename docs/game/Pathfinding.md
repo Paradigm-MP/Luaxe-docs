@@ -25,10 +25,10 @@ public class Pathfinding
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | FindValidPoint(`Vector3&` point, `Vector3` center, `Single` range, `AgentType` agentType) |  | 
-| Boolean | GetPath(`Vector3` from, `Vector3` to, `List<Vector3>` path, `AgentType` agentType, `Boolean` requireFullPath = False, `Boolean` cleanup = True, `Boolean` havePath = False) |  | 
-| Vector3 | GetTilePos(`Vector3Int` id) |  | 
-| Boolean | HavePath(`Vector3` from, `Vector3` to, `AgentType` agentType) |  | 
+| Boolean | FindValidPoint(Vector3& point, Vector3 center, Single range, AgentType agentType) |  | 
+| Boolean | GetPath(Vector3 from, Vector3 to, List&lt;Vector3&gt; path, AgentType agentType, Boolean requireFullPath = False, Boolean cleanup = True, Boolean havePath = False) |  | 
+| Vector3 | GetTilePos(Vector3Int id) |  | 
+| Boolean | HavePath(Vector3 from, Vector3 to, AgentType agentType) |  | 
 
 
 ### Static Properties

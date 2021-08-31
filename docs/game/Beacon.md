@@ -17,7 +17,7 @@ public class Beacon
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | FindBeaconsInRange(`Vector3` point, `List<Beacon>` becons) |  | 
-| [Beacon](./Beacon.md) | FindClosestBeaconInRange(`Vector3` point) |  | 
+| void | FindBeaconsInRange(Vector3 point, List&lt;Beacon&gt; becons) |  | 
+| [Beacon](./Beacon.md) | FindClosestBeaconInRange(Vector3 point) |  | 
 
 

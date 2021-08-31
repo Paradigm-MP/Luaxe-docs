@@ -102,7 +102,7 @@ public class InventoryGui
 | void | OnShowVariantSelection() |  | 
 | void | OnTabCraftPressed() |  | 
 | void | OnTabUpgradePressed() |  | 
-| void | Show(`Container` container) |  | 
+| void | Show([`Container`](./Container.md) container) |  | 
 
 
 ### Static Properties
@@ -116,8 +116,8 @@ public class InventoryGui
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | HideRequirement(`Transform` elementRoot) |  | 
+| void | HideRequirement(Transform elementRoot) |  | 
 | Boolean | IsVisible() |  | 
-| Boolean | SetupRequirement(`Transform` elementRoot, `Requirement` req, `Player` player, `Boolean` craft, `Int32` quality) |  | 
+| Boolean | SetupRequirement(Transform elementRoot, Requirement req, [`Player`](./Player.md) player, Boolean craft, Int32 quality) |  | 
 
 

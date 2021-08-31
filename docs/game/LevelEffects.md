@@ -19,6 +19,6 @@ public class LevelEffects
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | GetColorChanges(`Single&` hue, `Single&` saturation, `Single&` value) |  | 
+| void | GetColorChanges(Single& hue, Single& saturation, Single& value) |  | 
 
 

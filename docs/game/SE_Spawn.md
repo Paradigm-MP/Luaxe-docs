@@ -20,6 +20,6 @@ public class SE_Spawn
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 

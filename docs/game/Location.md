@@ -24,15 +24,15 @@ public class Location
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | IsInside(`Vector3` point, `Single` radius) |  | 
+| Boolean | IsInside(Vector3 point, Single radius) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [Location](./Location.md) | GetLocation(`Vector3` point) |  | 
-| Boolean | IsInsideLocation(`Vector3` point, `Single` distance) |  | 
-| Boolean | IsInsideNoBuildLocation(`Vector3` point) |  | 
+| [Location](./Location.md) | GetLocation(Vector3 point) |  | 
+| Boolean | IsInsideLocation(Vector3 point, Single distance) |  | 
+| Boolean | IsInsideNoBuildLocation(Vector3 point) |  | 
 
 

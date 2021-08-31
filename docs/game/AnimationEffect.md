@@ -17,8 +17,8 @@ public class AnimationEffect
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Attach(`AnimationEvent` e) |  | 
-| void | Effect(`AnimationEvent` e) |  | 
+| void | Attach(AnimationEvent e) |  | 
+| void | Effect(AnimationEvent e) |  | 
 | void | RemoveAttachments() |  | 
 
 

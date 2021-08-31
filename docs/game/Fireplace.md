@@ -36,8 +36,8 @@ public class Fireplace
 | Boolean | CanBeRemoved() |  | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
-| Boolean | Interact(`Humanoid` user, `Boolean` hold) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) user, Boolean hold) |  | 
 | Boolean | IsBurning() |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

@@ -27,9 +27,9 @@ public class TeleportWorld
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
 | String | GetText() |  | 
-| Boolean | Interact(`Humanoid` human, `Boolean` hold) |  | 
-| void | SetText(`String` text) |  | 
-| void | Teleport(`Player` player) |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) human, Boolean hold) |  | 
+| void | SetText(String text) |  | 
+| void | Teleport([`Player`](./Player.md) player) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

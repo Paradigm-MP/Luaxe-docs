@@ -40,10 +40,10 @@ public class GameCamera
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | AddShake(`Vector3` point, `Single` range, `Single` strength, `Boolean` continous) |  | 
+| void | AddShake(Vector3 point, Single range, Single strength, Boolean continous) |  | 
 | void | ApplySettings() |  | 
 | Single | GetFreeFlySmoothness() |  | 
-| void | SetFreeFlySmoothness(`Single` smooth) |  | 
+| void | SetFreeFlySmoothness(Single smooth) |  | 
 | void | ToggleFreeFly() |  | 
 
 

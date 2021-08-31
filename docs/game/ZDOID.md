@@ -18,8 +18,8 @@ public struct ZDOID
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | Equals(`ZDOID` other) |  | 
-| Boolean | Equals(`Object` obj) |  | 
+| Boolean | Equals([`ZDOID`](./ZDOID.md) other) |  | 
+| Boolean | Equals(Object obj) |  | 
 | Int32 | GetHashCode() |  | 
 | Boolean | IsNone() |  | 
 | String | ToString() |  | 

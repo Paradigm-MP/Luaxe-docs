@@ -28,18 +28,18 @@ public class HitData
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | ApplyArmor(`Single` ac) |  | 
-| void | ApplyModifier(`Single` multiplier) |  | 
-| void | ApplyResistance(`DamageModifiers` modifiers, `DamageModifier&` significantModifier) |  | 
-| void | BlockDamage(`Single` damage) |  | 
-| void | Deserialize(`ZPackage&` pkg) |  | 
+| void | ApplyArmor(Single ac) |  | 
+| void | ApplyModifier(Single multiplier) |  | 
+| void | ApplyResistance(DamageModifiers modifiers, DamageModifier& significantModifier) |  | 
+| void | BlockDamage(Single damage) |  | 
+| void | Deserialize([`ZPackage`](./ZPackage.md)& pkg) |  | 
 | [Character](./Character.md) | GetAttacker() |  | 
 | Single | GetTotalBlockableDamage() |  | 
 | Single | GetTotalDamage() |  | 
 | Single | GetTotalElementalDamage() |  | 
 | Single | GetTotalPhysicalDamage() |  | 
 | Boolean | HaveAttacker() |  | 
-| void | Serialize(`ZPackage&` pkg) |  | 
-| void | SetAttacker(`Character` attacker) |  | 
+| void | Serialize([`ZPackage`](./ZPackage.md)& pkg) |  | 
+| void | SetAttacker([`Character`](./Character.md) attacker) |  | 
 
 

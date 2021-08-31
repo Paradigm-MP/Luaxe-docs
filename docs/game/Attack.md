@@ -67,10 +67,10 @@ public class Attack
 | ItemData | GetWeapon() |  | 
 | void | OnAttackTrigger() |  | 
 | void | OnTrailStart() |  | 
-| Boolean | Start(`Humanoid` character, `Rigidbody` body, `ZSyncAnimation` zanim, `CharacterAnimEvent` animEvent, `VisEquipment` visEquipment, `ItemData` weapon, `Attack` previousAttack, `Single` timeSinceLastAttack, `Single` attackDrawPercentage) |  | 
-| Boolean | StartDraw(`Humanoid` character, `ItemData` weapon) |  | 
+| Boolean | Start([`Humanoid`](./Humanoid.md) character, Rigidbody body, [`ZSyncAnimation`](./ZSyncAnimation.md) zanim, [`CharacterAnimEvent`](./CharacterAnimEvent.md) animEvent, [`VisEquipment`](./VisEquipment.md) visEquipment, ItemData weapon, [`Attack`](./Attack.md) previousAttack, Single timeSinceLastAttack, Single attackDrawPercentage) |  | 
+| Boolean | StartDraw([`Humanoid`](./Humanoid.md) character, ItemData weapon) |  | 
 | void | Stop() |  | 
-| void | Update(`Single` dt) |  | 
+| void | Update(Single dt) |  | 
 
 
 ### Static Fields

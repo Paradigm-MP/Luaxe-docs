@@ -42,8 +42,8 @@ public class Aoe
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | DamageTypes | GetDamage() |  | 
-| DamageTypes | GetDamage(`Int32` itemQuality) |  | 
-| String | GetTooltipString(`Int32` itemQuality) |  | 
-| void | Setup(`Character` owner, `Vector3` velocity, `Single` hitNoise, `HitData` hitData, `ItemData` item) |  | 
+| DamageTypes | GetDamage(Int32 itemQuality) |  | 
+| String | GetTooltipString(Int32 itemQuality) |  | 
+| void | Setup([`Character`](./Character.md) owner, Vector3 velocity, Single hitNoise, [`HitData`](./HitData.md) hitData, ItemData item) |  | 
 
 

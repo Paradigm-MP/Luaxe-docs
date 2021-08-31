@@ -14,9 +14,9 @@ public class ZSocket2
 | void | Close() |  | 
 | void | Dispose() |  | 
 | Boolean | Flush() |  | 
-| void | GetAndResetStats(`Int32&` totalSent, `Int32&` totalRecv) |  | 
+| void | GetAndResetStats(Int32& totalSent, Int32& totalRecv) |  | 
 | Int32 | GetAverageSendRate() |  | 
-| void | GetConnectionQuality(`Single&` localQuality, `Single&` remoteQuality, `Int32&` ping, `Single&` outByteSec, `Single&` inByteSec) |  | 
+| void | GetConnectionQuality(Single& localQuality, Single& remoteQuality, Int32& ping, Single& outByteSec, Single& inByteSec) |  | 
 | Int32 | GetCurrentSendRate() |  | 
 | IPEndPoint | GetEndPoint() |  | 
 | String | GetEndPointString() |  | 
@@ -26,11 +26,11 @@ public class ZSocket2
 | Boolean | GotNewData() |  | 
 | Boolean | IsConnected() |  | 
 | Boolean | IsHost() |  | 
-| Boolean | IsPeer(`String` host, `Int32` port) |  | 
+| Boolean | IsPeer(String host, Int32 port) |  | 
 | Boolean | IsSending() |  | 
 | [ZPackage](./ZPackage.md) | Recv() |  | 
-| void | Send(`ZPackage` pkg) |  | 
-| Boolean | StartHost(`Int32` port) |  | 
+| void | Send([`ZPackage`](./ZPackage.md) pkg) |  | 
+| Boolean | StartHost(Int32 port) |  | 
 
 
 ### Static Methods
@@ -38,6 +38,6 @@ public class ZSocket2
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | TcpClient | CreateSocket() |  | 
-| IPEndPoint | GetEndPoint(`String` host, `Int32` port) |  | 
+| IPEndPoint | GetEndPoint(String host, Int32 port) |  | 
 
 

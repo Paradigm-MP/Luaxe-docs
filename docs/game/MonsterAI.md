@@ -51,13 +51,13 @@ public class MonsterAI
 | Boolean | IsEventCreature() |  | 
 | Boolean | IsSleeping() |  | 
 | void | MakeTame() |  | 
-| void | OnDamaged(`Single` damage, `Character` attacker) |  | 
+| void | OnDamaged(Single damage, [`Character`](./Character.md) attacker) |  | 
 | void | OnDrawGizmosSelected() |  | 
-| void | RPC_OnNearProjectileHit(`Int64` sender, `Vector3` center, `Single` range, `ZDOID` attackerID) |  | 
-| void | SetAlerted(`Boolean` alert) |  | 
-| void | SetDespawnInDay(`Boolean` despawn) |  | 
-| void | SetEventCreature(`Boolean` despawn) |  | 
-| void | SetFollowTarget(`GameObject` go) |  | 
-| void | UpdateAI(`Single` dt) |  | 
+| void | RPC_OnNearProjectileHit(Int64 sender, Vector3 center, Single range, [`ZDOID`](./ZDOID.md) attackerID) |  | 
+| void | SetAlerted(Boolean alert) |  | 
+| void | SetDespawnInDay(Boolean despawn) |  | 
+| void | SetEventCreature(Boolean despawn) |  | 
+| void | SetFollowTarget(GameObject go) |  | 
+| void | UpdateAI(Single dt) |  | 
 
 

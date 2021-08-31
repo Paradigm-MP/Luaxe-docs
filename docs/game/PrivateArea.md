@@ -31,20 +31,20 @@ public class PrivateArea
 | --- | --- | --- | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
-| Boolean | Interact(`Humanoid` human, `Boolean` hold) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) human, Boolean hold) |  | 
 | Boolean | IsEnabled() |  | 
 | void | PokeAllAreasInRange() |  | 
 | void | PokeConnectionEffects() |  | 
-| void | Setup(`String` name) |  | 
+| void | Setup(String name) |  | 
 | void | ShowAreaMarker() |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | CheckAccess(`Vector3` point, `Single` radius = 0, `Boolean` flash = True, `Boolean` wardCheck = False) |  | 
-| Boolean | CheckInPrivateArea(`Vector3` point, `Boolean` flash = False) |  | 
+| Boolean | CheckAccess(Vector3 point, Single radius = 0, Boolean flash = True, Boolean wardCheck = False) |  | 
+| Boolean | CheckInPrivateArea(Vector3 point, Boolean flash = False) |  | 
 
 

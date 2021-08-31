@@ -12,7 +12,7 @@ public class ZNat
 | --- | --- | --- | 
 | void | Dispose() |  | 
 | Boolean | GetStatus() |  | 
-| void | SetPort(`Int32` port) |  | 
-| void | Update(`Single` dt) |  | 
+| void | SetPort(Int32 port) |  | 
+| void | Update(Single dt) |  | 
 
 

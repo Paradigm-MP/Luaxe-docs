@@ -10,6 +10,6 @@ public class RoutedMethod<T, U, V, B>
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Invoke(`Int64` rpc, `ZPackage` pkg) |  | 
+| void | Invoke(Int64 rpc, [`ZPackage`](./ZPackage.md) pkg) |  | 
 
 

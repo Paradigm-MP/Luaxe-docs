@@ -24,6 +24,6 @@ public class TextsDialog
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | OnClose() |  | 
-| void | Setup(`Player` player) |  | 
+| void | Setup([`Player`](./Player.md) player) |  | 
 
 

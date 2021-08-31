@@ -36,9 +36,9 @@ public class RandomEvent
 | Single | GetTime() |  | 
 | Boolean | InEventBiome() |  | 
 | void | OnActivate() |  | 
-| void | OnDeactivate(`Boolean` end) |  | 
+| void | OnDeactivate(Boolean end) |  | 
 | void | OnStart() |  | 
 | void | OnStop() |  | 
-| Boolean | Update(`Boolean` server, `Boolean` active, `Boolean` playerInArea, `Single` dt) |  | 
+| Boolean | Update(Boolean server, Boolean active, Boolean playerInArea, Single dt) |  | 
 
 

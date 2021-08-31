@@ -40,14 +40,14 @@ public class CharacterAnimEvent
 | void | Chain() |  | 
 | void | DodgeMortal() |  | 
 | void | FindJoints() |  | 
-| void | FootStep(`AnimationEvent` e) |  | 
-| void | FreezeFrame(`Single` delay) |  | 
+| void | FootStep(AnimationEvent e) |  | 
+| void | FreezeFrame(Single delay) |  | 
 | void | GPower() |  | 
 | void | Hit() |  | 
 | void | OnAttackTrigger() |  | 
 | void | ResetChain() |  | 
-| void | Speed(`Single` speedScale) |  | 
-| void | Stop(`AnimationEvent` e) |  | 
+| void | Speed(Single speedScale) |  | 
+| void | Stop(AnimationEvent e) |  | 
 | void | TrailOff() |  | 
 | void | TrailOn() |  | 
 

@@ -30,23 +30,23 @@ public class VisEquipment
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| GameObject | AttachItem(`Int32` itemHash, `Int32` variant, `Transform` joint, `Boolean` enableEquipEffects = True) |  | 
+| GameObject | AttachItem(Int32 itemHash, Int32 variant, Transform joint, Boolean enableEquipEffects = True) |  | 
 | Int32 | GetModelIndex() |  | 
-| void | SetBeardItem(`String` name) |  | 
-| void | SetChestItem(`String` name) |  | 
-| void | SetHairColor(`Vector3` color) |  | 
-| void | SetHairItem(`String` name) |  | 
-| void | SetHelmetItem(`String` name) |  | 
-| void | SetLeftBackItem(`String` name, `Int32` variant) |  | 
-| void | SetLeftItem(`String` name, `Int32` variant) |  | 
-| void | SetLegItem(`String` name) |  | 
-| void | SetModel(`Int32` index) |  | 
-| void | SetRightBackItem(`String` name) |  | 
-| void | SetRightItem(`String` name) |  | 
-| void | SetShoulderItem(`String` name, `Int32` variant) |  | 
-| void | SetSkinColor(`Vector3` color) |  | 
-| void | SetUtilityItem(`String` name) |  | 
-| void | SetWeaponTrails(`Boolean` enabled) |  | 
+| void | SetBeardItem(String name) |  | 
+| void | SetChestItem(String name) |  | 
+| void | SetHairColor(Vector3 color) |  | 
+| void | SetHairItem(String name) |  | 
+| void | SetHelmetItem(String name) |  | 
+| void | SetLeftBackItem(String name, Int32 variant) |  | 
+| void | SetLeftItem(String name, Int32 variant) |  | 
+| void | SetLegItem(String name) |  | 
+| void | SetModel(Int32 index) |  | 
+| void | SetRightBackItem(String name) |  | 
+| void | SetRightItem(String name) |  | 
+| void | SetShoulderItem(String name, Int32 variant) |  | 
+| void | SetSkinColor(Vector3 color) |  | 
+| void | SetUtilityItem(String name) |  | 
+| void | SetWeaponTrails(Boolean enabled) |  | 
 | void | UpdateLodgroup() |  | 
 
 

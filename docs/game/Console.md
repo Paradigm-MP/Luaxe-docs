@@ -21,7 +21,7 @@ public class Console
 | --- | --- | --- | 
 | Boolean | IsCheatsEnabled() |  | 
 | Boolean | IsConsoleEnabled() |  | 
-| void | Print(`String` text) |  | 
+| void | Print(String text) |  | 
 
 
 ### Static Properties
@@ -36,6 +36,6 @@ public class Console
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | Boolean | IsVisible() |  | 
-| void | SetConsoleEnabled(`Boolean` enabled) |  | 
+| void | SetConsoleEnabled(Boolean enabled) |  | 
 
 

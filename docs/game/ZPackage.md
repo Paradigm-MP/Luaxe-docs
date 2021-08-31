@@ -14,7 +14,7 @@ public class ZPackage
 | Byte[] | GetArray() |  | 
 | String | GetBase64() |  | 
 | Int32 | GetPos() |  | 
-| void | Load(`Byte[]` data) |  | 
+| void | Load(Byte[] data) |  | 
 | Boolean | ReadBool() |  | 
 | Byte | ReadByte() |  | 
 | Byte[] | ReadByteArray() |  | 
@@ -23,7 +23,7 @@ public class ZPackage
 | Int32 | ReadInt() |  | 
 | Int64 | ReadLong() |  | 
 | [ZPackage](./ZPackage.md) | ReadPackage() |  | 
-| void | ReadPackage(`ZPackage&` pkg) |  | 
+| void | ReadPackage([`ZPackage`](./ZPackage.md)& pkg) |  | 
 | Quaternion | ReadQuaternion() |  | 
 | SByte | ReadSByte() |  | 
 | Single | ReadSingle() |  | 
@@ -33,24 +33,24 @@ public class ZPackage
 | Vector2i | ReadVector2i() |  | 
 | Vector3 | ReadVector3() |  | 
 | [ZDOID](./ZDOID.md) | ReadZDOID() |  | 
-| void | SetPos(`Int32` pos) |  | 
+| void | SetPos(Int32 pos) |  | 
 | Int32 | Size() |  | 
-| void | Write(`ZPackage` pkg) |  | 
-| void | Write(`Byte[]` array) |  | 
-| void | Write(`Byte` data) |  | 
-| void | Write(`SByte` data) |  | 
-| void | Write(`Char` data) |  | 
-| void | Write(`Boolean` data) |  | 
-| void | Write(`Int32` data) |  | 
-| void | Write(`UInt32` data) |  | 
-| void | Write(`UInt64` data) |  | 
-| void | Write(`Int64` data) |  | 
-| void | Write(`Single` data) |  | 
-| void | Write(`Double` data) |  | 
-| void | Write(`String` data) |  | 
-| void | Write(`ZDOID` id) |  | 
-| void | Write(`Vector3` v3) |  | 
-| void | Write(`Vector2i` v2) |  | 
-| void | Write(`Quaternion` q) |  | 
+| void | Write([`ZPackage`](./ZPackage.md) pkg) |  | 
+| void | Write(Byte[] array) |  | 
+| void | Write(Byte data) |  | 
+| void | Write(SByte data) |  | 
+| void | Write(Char data) |  | 
+| void | Write(Boolean data) |  | 
+| void | Write(Int32 data) |  | 
+| void | Write(UInt32 data) |  | 
+| void | Write(UInt64 data) |  | 
+| void | Write(Int64 data) |  | 
+| void | Write(Single data) |  | 
+| void | Write(Double data) |  | 
+| void | Write(String data) |  | 
+| void | Write([`ZDOID`](./ZDOID.md) id) |  | 
+| void | Write(Vector3 v3) |  | 
+| void | Write(Vector2i v2) |  | 
+| void | Write(Quaternion q) |  | 
 
 

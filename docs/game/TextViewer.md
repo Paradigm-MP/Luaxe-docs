@@ -29,7 +29,7 @@ public class TextViewer
 | --- | --- | --- | 
 | void | Hide() |  | 
 | Boolean | IsVisible() |  | 
-| void | ShowText(`Style` style, `String` topic, `String` text, `Boolean` autoHide) |  | 
+| void | ShowText(Style style, String topic, String text, Boolean autoHide) |  | 
 
 
 ### Static Properties

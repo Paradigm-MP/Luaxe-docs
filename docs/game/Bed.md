@@ -21,8 +21,8 @@ public class Bed
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
 | Vector3 | GetSpawnPoint() |  | 
-| Boolean | Interact(`Humanoid` human, `Boolean` repeat) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) human, Boolean repeat) |  | 
 | Boolean | IsCurrent() |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 

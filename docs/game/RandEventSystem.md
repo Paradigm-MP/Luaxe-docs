@@ -25,12 +25,12 @@ public class RandEventSystem
 | List&lt;SpawnData&gt; | GetCurrentSpawners() |  | 
 | String | GetEnvOverride() |  | 
 | String | GetMusicOverride() |  | 
-| Boolean | HaveEvent(`String` name) |  | 
-| void | Load(`BinaryReader` reader, `Int32` version) |  | 
+| Boolean | HaveEvent(String name) |  | 
+| void | Load(BinaryReader reader, Int32 version) |  | 
 | void | PrepareSave() |  | 
 | void | ResetRandomEvent() |  | 
-| void | SaveAsync(`BinaryWriter` writer) |  | 
-| void | SetRandomEventByName(`String` name, `Vector3` pos) |  | 
+| void | SaveAsync(BinaryWriter writer) |  | 
+| void | SetRandomEventByName(String name, Vector3 pos) |  | 
 | void | StartRandomEvent() |  | 
 
 

@@ -26,8 +26,8 @@ public class SE_Harpooned
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | Boolean | IsDone() |  | 
-| void | SetAttacker(`Character` attacker) |  | 
-| void | Setup(`Character` character) |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | SetAttacker([`Character`](./Character.md) attacker) |  | 
+| void | Setup([`Character`](./Character.md) character) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 

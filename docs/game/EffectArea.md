@@ -26,7 +26,7 @@ public class EffectArea
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | List&lt;EffectArea&gt; | GetAllAreas() |  | 
-| Int32 | GetBaseValue(`Vector3` p, `Single` radius) |  | 
-| [EffectArea](./EffectArea.md) | IsPointInsideArea(`Vector3` p, `Type` type, `Single` radius = 0) |  | 
+| Int32 | GetBaseValue(Vector3 p, Single radius) |  | 
+| [EffectArea](./EffectArea.md) | IsPointInsideArea(Vector3 p, Type type, Single radius = 0) |  | 
 
 

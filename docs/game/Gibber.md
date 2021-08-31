@@ -26,6 +26,6 @@ public class Gibber
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Setup(`Vector3` hitPoint, `Vector3` hitDirection) |  | 
+| void | Setup(Vector3 hitPoint, Vector3 hitDirection) |  | 
 
 

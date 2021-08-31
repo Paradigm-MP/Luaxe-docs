@@ -20,15 +20,15 @@ public class Game
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | DiscoverClosestLocation(`String` name, `Vector3` point, `String` pinName, `Int32` pinType) |  | 
-| Single | GetDifficultyDamageScale(`Vector3` pos) |  | 
-| Single | GetDifficultyHealthScale(`Vector3` pos) |  | 
+| void | DiscoverClosestLocation(String name, Vector3 point, String pinName, Int32 pinType) |  | 
+| Single | GetDifficultyDamageScale(Vector3 pos) |  | 
+| Single | GetDifficultyHealthScale(Vector3 pos) |  | 
 | [PlayerProfile](./PlayerProfile.md) | GetPlayerProfile() |  | 
 | Boolean | IsShuttingDown() |  | 
 | void | Logout() |  | 
 | void | Ping() |  | 
-| void | RequestRespawn(`Single` delay) |  | 
-| void | SetForcePlayerDifficulty(`Int32` players) |  | 
+| void | RequestRespawn(Single delay) |  | 
+| void | SetForcePlayerDifficulty(Int32 players) |  | 
 | Boolean | WaitingForRespawn() |  | 
 
 
@@ -43,6 +43,6 @@ public class Game
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | SetProfile(`String` filename) |  | 
+| void | SetProfile(String filename) |  | 
 
 

@@ -26,10 +26,10 @@ public class MessageHud
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | List&lt;String&gt; | GetLog() |  | 
-| void | MessageAll(`MessageType` type, `String` text) |  | 
-| void | QueueUnlockMsg(`Sprite` icon, `String` topic, `String` description) |  | 
-| void | ShowBiomeFoundMsg(`String` text, `Boolean` playStinger) |  | 
-| void | ShowMessage(`MessageType` type, `String` text, `Int32` amount = 0, `Sprite` icon = null) |  | 
+| void | MessageAll(MessageType type, String text) |  | 
+| void | QueueUnlockMsg(Sprite icon, String topic, String description) |  | 
+| void | ShowBiomeFoundMsg(String text, Boolean playStinger) |  | 
+| void | ShowMessage(MessageType type, String text, Int32 amount = 0, Sprite icon = null) |  | 
 
 
 ### Static Properties

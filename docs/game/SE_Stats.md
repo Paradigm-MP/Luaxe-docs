@@ -38,24 +38,24 @@ public class SE_Stats
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | String | GetTooltipString() |  | 
-| void | ModifyAttack(`SkillType` skill, `HitData&` hitData) |  | 
-| void | ModifyDamageMods(`DamageModifiers&` modifiers) |  | 
-| void | ModifyHealthRegen(`Single&` regenMultiplier) |  | 
-| void | ModifyJumpStaminaUsage(`Single` baseStaminaUse, `Single&` staminaUse) |  | 
-| void | ModifyMaxCarryWeight(`Single` baseLimit, `Single&` limit) |  | 
-| void | ModifyNoise(`Single` baseNoise, `Single&` noise) |  | 
-| void | ModifyRaiseSkill(`SkillType` skill, `Single&` value) |  | 
-| void | ModifyRunStaminaDrain(`Single` baseDrain, `Single&` drain) |  | 
-| void | ModifyStaminaRegen(`Single&` staminaRegen) |  | 
-| void | ModifyStealth(`Single` baseStealth, `Single&` stealth) |  | 
-| void | Setup(`Character` character) |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | ModifyAttack(SkillType skill, [`HitData`](./HitData.md)& hitData) |  | 
+| void | ModifyDamageMods(DamageModifiers& modifiers) |  | 
+| void | ModifyHealthRegen(Single& regenMultiplier) |  | 
+| void | ModifyJumpStaminaUsage(Single baseStaminaUse, Single& staminaUse) |  | 
+| void | ModifyMaxCarryWeight(Single baseLimit, Single& limit) |  | 
+| void | ModifyNoise(Single baseNoise, Single& noise) |  | 
+| void | ModifyRaiseSkill(SkillType skill, Single& value) |  | 
+| void | ModifyRunStaminaDrain(Single baseDrain, Single& drain) |  | 
+| void | ModifyStaminaRegen(Single& staminaRegen) |  | 
+| void | ModifyStealth(Single baseStealth, Single& stealth) |  | 
+| void | Setup([`Character`](./Character.md) character) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| String | GetDamageModifiersTooltipString(`List<DamageModPair>` mods) |  | 
+| String | GetDamageModifiersTooltipString(List&lt;DamageModPair&gt; mods) |  | 
 
 

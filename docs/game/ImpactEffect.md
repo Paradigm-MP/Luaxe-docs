@@ -28,6 +28,6 @@ public class ImpactEffect
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | OnCollisionEnter(`Collision` info) |  | 
+| void | OnCollisionEnter(Collision info) |  | 
 
 

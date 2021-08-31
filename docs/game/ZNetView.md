@@ -24,20 +24,20 @@ public class ZNetView
 | void | Destroy() |  | 
 | String | GetPrefabName() |  | 
 | [ZDO](./ZDO.md) | GetZDO() |  | 
-| void | HandleRoutedRPC(`RoutedRPCData` rpcData) |  | 
+| void | HandleRoutedRPC(RoutedRPCData rpcData) |  | 
 | Boolean | HasOwner() |  | 
-| void | InvokeRPC(`Int64` targetID, `String` method, `Object[]` parameters) |  | 
-| void | InvokeRPC(`String` method, `Object[]` parameters) |  | 
+| void | InvokeRPC(Int64 targetID, String method, Object[] parameters) |  | 
+| void | InvokeRPC(String method, Object[] parameters) |  | 
 | Boolean | IsOwner() |  | 
 | Boolean | IsValid() |  | 
-| void | Register(`String` name, `Action<Int64>` f) |  | 
-| void | Register(`String` name, `Action<Int64, T>` f) |  | 
-| void | Register(`String` name, `Action<Int64, T, U>` f) |  | 
-| void | Register(`String` name, `Action<Int64, T, U, V>` f) |  | 
+| void | Register(String name, Action&lt;Int64&gt; f) |  | 
+| void | Register(String name, Action&lt;Int64, T&gt; f) |  | 
+| void | Register(String name, Action&lt;Int64, T, U&gt; f) |  | 
+| void | Register(String name, Action&lt;Int64, T, U, V&gt; f) |  | 
 | void | ResetZDO() |  | 
-| void | SetLocalScale(`Vector3` scale) |  | 
-| void | SetPersistent(`Boolean` persistent) |  | 
-| void | Unregister(`String` name) |  | 
+| void | SetLocalScale(Vector3 scale) |  | 
+| void | SetPersistent(Boolean persistent) |  | 
+| void | Unregister(String name) |  | 
 
 
 ### Static Fields
@@ -54,7 +54,7 @@ public class ZNetView
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Object[] | Deserialize(`Int64` callerID, `ParameterInfo[]` paramInfo, `ZPackage` pkg) |  | 
+| Object[] | Deserialize(Int64 callerID, ParameterInfo[] paramInfo, [`ZPackage`](./ZPackage.md) pkg) |  | 
 | void | FinishGhostInit() |  | 
 | void | StartGhostInit() |  | 
 

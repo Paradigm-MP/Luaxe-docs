@@ -23,7 +23,7 @@ public class CameraEffects
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | ApplySettings() |  | 
-| void | SetSunShafts(`Boolean` enabled) |  | 
+| void | SetSunShafts(Boolean enabled) |  | 
 
 
 ### Static Properties

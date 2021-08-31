@@ -32,7 +32,7 @@ public class StoreGui
 | void | Hide() |  | 
 | void | OnBuyItem() |  | 
 | void | OnSellItem() |  | 
-| void | Show(`Trader` trader) |  | 
+| void | Show([`Trader`](./Trader.md) trader) |  | 
 
 
 ### Static Properties

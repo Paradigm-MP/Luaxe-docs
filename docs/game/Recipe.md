@@ -23,7 +23,7 @@ public class Recipe
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [CraftingStation](./CraftingStation.md) | GetRequiredStation(`Int32` quality) |  | 
-| Int32 | GetRequiredStationLevel(`Int32` quality) |  | 
+| [CraftingStation](./CraftingStation.md) | GetRequiredStation(Int32 quality) |  | 
+| Int32 | GetRequiredStationLevel(Int32 quality) |  | 
 
 

@@ -36,8 +36,8 @@ public class WearNTear
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | ApplyDamage(`Single` damage) |  | 
-| void | Damage(`HitData` hit) |  | 
+| Boolean | ApplyDamage(Single damage) |  | 
+| void | Damage([`HitData`](./HitData.md) hit) |  | 
 | [DestructibleType](./DestructibleType.md) | GetDestructibleType() |  | 
 | Single | GetHealthPercentage() |  | 
 | void | Highlight() |  | 

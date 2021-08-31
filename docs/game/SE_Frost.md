@@ -19,8 +19,8 @@ public class SE_Frost
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | AddDamage(`Single` damage) |  | 
-| void | ModifySpeed(`Single&` speed) |  | 
-| void | UpdateStatusEffect(`Single` dt) |  | 
+| void | AddDamage(Single damage) |  | 
+| void | ModifySpeed(Single& speed) |  | 
+| void | UpdateStatusEffect(Single dt) |  | 
 
 

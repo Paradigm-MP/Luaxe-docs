@@ -12,20 +12,20 @@ public class ZSocket
 | --- | --- | --- | 
 | [ZSocket](./ZSocket.md) | Accept() |  | 
 | void | Close() |  | 
-| Boolean | Connect(`String` host, `Int32` port) |  | 
+| Boolean | Connect(String host, Int32 port) |  | 
 | void | Dispose() |  | 
-| void | GetAndResetStats(`Int32&` totalSent, `Int32&` totalRecv) |  | 
+| void | GetAndResetStats(Int32& totalSent, Int32& totalRecv) |  | 
 | IPEndPoint | GetEndPoint() |  | 
 | String | GetEndPointHost() |  | 
 | String | GetEndPointString() |  | 
 | Int32 | GetHostPort() |  | 
 | Boolean | IsConnected() |  | 
 | Boolean | IsHost() |  | 
-| Boolean | IsPeer(`String` host, `Int32` port) |  | 
+| Boolean | IsPeer(String host, Int32 port) |  | 
 | Boolean | IsSending() |  | 
 | [ZPackage](./ZPackage.md) | Recv() |  | 
-| void | Send(`ZPackage` pkg) |  | 
-| Boolean | StartHost(`Int32` port) |  | 
+| void | Send([`ZPackage`](./ZPackage.md) pkg) |  | 
+| Boolean | StartHost(Int32 port) |  | 
 
 
 ### Static Methods
@@ -33,6 +33,6 @@ public class ZSocket
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | Socket | CreateSocket() |  | 
-| IPEndPoint | GetEndPoint(`String` host, `Int32` port) |  | 
+| IPEndPoint | GetEndPoint(String host, Int32 port) |  | 
 
 

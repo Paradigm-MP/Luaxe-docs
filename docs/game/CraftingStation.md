@@ -33,26 +33,26 @@ public class CraftingStation
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| Boolean | CheckUsable(`Player` player, `Boolean` showMessage) |  | 
+| Boolean | CheckUsable([`Player`](./Player.md) player, Boolean showMessage) |  | 
 | Vector3 | GetConnectionEffectPoint() |  | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
 | Int32 | GetLevel() |  | 
-| Boolean | Interact(`Humanoid` user, `Boolean` repeat) |  | 
-| Boolean | InUseDistance(`Humanoid` human) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) user, Boolean repeat) |  | 
+| Boolean | InUseDistance([`Humanoid`](./Humanoid.md) human) |  | 
 | void | PokeInUse() |  | 
 | void | ShowAreaMarker() |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [CraftingStation](./CraftingStation.md) | FindClosestStationInRange(`String` name, `Vector3` point, `Single` range) |  | 
-| void | FindStationsInRange(`String` name, `Vector3` point, `Single` range, `List<CraftingStation>` stations) |  | 
-| [CraftingStation](./CraftingStation.md) | GetCraftingStation(`Vector3` point) |  | 
-| [CraftingStation](./CraftingStation.md) | HaveBuildStationInRange(`String` name, `Vector3` point) |  | 
-| void | UpdateKnownStationsInRange(`Player` player) |  | 
+| [CraftingStation](./CraftingStation.md) | FindClosestStationInRange(String name, Vector3 point, Single range) |  | 
+| void | FindStationsInRange(String name, Vector3 point, Single range, List&lt;CraftingStation&gt; stations) |  | 
+| [CraftingStation](./CraftingStation.md) | GetCraftingStation(Vector3 point) |  | 
+| [CraftingStation](./CraftingStation.md) | HaveBuildStationInRange(String name, Vector3 point) |  | 
+| void | UpdateKnownStationsInRange([`Player`](./Player.md) player) |  | 
 
 

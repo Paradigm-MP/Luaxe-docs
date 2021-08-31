@@ -31,18 +31,18 @@ public class FishingFloat
 | --- | --- | --- | 
 | [Fish](./Fish.md) | GetCatch() |  | 
 | [Character](./Character.md) | GetOwner() |  | 
-| String | GetTooltipString(`Int32` itemQuality) |  | 
+| String | GetTooltipString(Int32 itemQuality) |  | 
 | Boolean | IsInWater() |  | 
-| void | Nibble(`Fish` fish) |  | 
-| void | RPC_Nibble(`Int64` sender, `ZDOID` fishID) |  | 
-| void | Setup(`Character` owner, `Vector3` velocity, `Single` hitNoise, `HitData` hitData, `ItemData` item) |  | 
+| void | Nibble([`Fish`](./Fish.md) fish) |  | 
+| void | RPC_Nibble(Int64 sender, [`ZDOID`](./ZDOID.md) fishID) |  | 
+| void | Setup([`Character`](./Character.md) owner, Vector3 velocity, Single hitNoise, [`HitData`](./HitData.md) hitData, ItemData item) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [FishingFloat](./FishingFloat.md) | FindFloat(`Fish` fish) |  | 
+| [FishingFloat](./FishingFloat.md) | FindFloat([`Fish`](./Fish.md) fish) |  | 
 | List&lt;FishingFloat&gt; | GetAllInstances() |  | 
 
 

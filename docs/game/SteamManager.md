@@ -27,6 +27,6 @@ public class SteamManager
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | Boolean | Initialize() |  | 
-| void | SetServerPort(`Int32` port) |  | 
+| void | SetServerPort(Int32 port) |  | 
 
 

@@ -24,6 +24,6 @@ public class Ragdoll
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | Vector3 | GetAverageBodyPosition() |  | 
-| void | Setup(`Vector3` velocity, `Single` hue, `Single` saturation, `Single` value, `CharacterDrop` characterDrop) |  | 
+| void | Setup(Vector3 velocity, Single hue, Single saturation, Single value, [`CharacterDrop`](./CharacterDrop.md) characterDrop) |  | 
 
 

@@ -44,6 +44,6 @@ public class SteamManager2
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | SteamAPIDebugTextHook(`Int32` nSeverity, `StringBuilder` pchDebugText) |  | 
+| void | SteamAPIDebugTextHook(Int32 nSeverity, StringBuilder pchDebugText) |  | 
 
 

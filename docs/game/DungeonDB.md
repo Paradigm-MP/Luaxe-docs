@@ -10,7 +10,7 @@ public class DungeonDB
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| RoomData | GetRoom(`Int32` hash) |  | 
+| RoomData | GetRoom(Int32 hash) |  | 
 | Boolean | SkipSaving() |  | 
 
 

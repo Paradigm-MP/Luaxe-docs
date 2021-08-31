@@ -19,13 +19,13 @@ public class MasterClient
 | void | Dispose() |  | 
 | Int32 | GetServerListRevision() |  | 
 | List&lt;ServerData&gt; | GetServers() |  | 
-| Boolean | GetServers(`List<ServerData>` servers) |  | 
+| Boolean | GetServers(List&lt;ServerData&gt; servers) |  | 
 | Boolean | IsConnected() |  | 
-| void | RegisterServer(`String` name, `String` host, `Int32` port, `Boolean` password, `Boolean` upnp, `Int64` worldUID, `String` version) |  | 
+| void | RegisterServer(String name, String host, Int32 port, Boolean password, Boolean upnp, Int64 worldUID, String version) |  | 
 | void | RequestServerlist() |  | 
-| void | SetNameFilter(`String` filter) |  | 
+| void | SetNameFilter(String filter) |  | 
 | void | UnregisterServer() |  | 
-| void | Update(`Single` dt) |  | 
+| void | Update(Single dt) |  | 
 
 
 ### Static Properties

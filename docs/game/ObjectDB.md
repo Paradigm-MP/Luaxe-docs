@@ -19,13 +19,13 @@ public class ObjectDB
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | CopyOtherDB(`ObjectDB` other) |  | 
-| List&lt;ItemDrop&gt; | GetAllItems(`ItemType` type, `String` startWith) |  | 
-| GameObject | GetItemPrefab(`String` name) |  | 
-| GameObject | GetItemPrefab(`Int32` hash) |  | 
-| Int32 | GetPrefabHash(`GameObject` prefab) |  | 
-| [Recipe](./Recipe.md) | GetRecipe(`ItemData` item) |  | 
-| [StatusEffect](./StatusEffect.md) | GetStatusEffect(`String` name) |  | 
+| void | CopyOtherDB([`ObjectDB`](./ObjectDB.md) other) |  | 
+| List&lt;ItemDrop&gt; | GetAllItems(ItemType type, String startWith) |  | 
+| GameObject | GetItemPrefab(String name) |  | 
+| GameObject | GetItemPrefab(Int32 hash) |  | 
+| Int32 | GetPrefabHash(GameObject prefab) |  | 
+| [Recipe](./Recipe.md) | GetRecipe(ItemData item) |  | 
+| [StatusEffect](./StatusEffect.md) | GetStatusEffect(String name) |  | 
 
 
 ### Static Properties

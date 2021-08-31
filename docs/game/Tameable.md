@@ -23,16 +23,16 @@ public class Tameable
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | String | GetHoverText() |  | 
-| Boolean | Interact(`Humanoid` user, `Boolean` hold) |  | 
+| Boolean | Interact([`Humanoid`](./Humanoid.md) user, Boolean hold) |  | 
 | Boolean | IsHungry() |  | 
 | void | Tame() |  | 
-| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| Boolean | UseItem([`Humanoid`](./Humanoid.md) user, ItemData item) |  | 
 
 
 ### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | TameAllInArea(`Vector3` point, `Single` radius) |  | 
+| void | TameAllInArea(Vector3 point, Single radius) |  | 
 
 

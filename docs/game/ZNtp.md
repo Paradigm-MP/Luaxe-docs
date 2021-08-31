@@ -13,7 +13,7 @@ public class ZNtp
 | void | Dispose() |  | 
 | Boolean | GetStatus() |  | 
 | DateTime | GetTime() |  | 
-| void | Update(`Single` dt) |  | 
+| void | Update(Single dt) |  | 
 
 
 ### Static Properties

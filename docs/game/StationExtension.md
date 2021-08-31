@@ -19,14 +19,14 @@ public class StationExtension
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [CraftingStation](./CraftingStation.md) | FindClosestStationInRange(`Vector3` center) |  | 
-| List&lt;CraftingStation&gt; | FindStationsInRange(`Vector3` center) |  | 
+| [CraftingStation](./CraftingStation.md) | FindClosestStationInRange(Vector3 center) |  | 
+| List&lt;CraftingStation&gt; | FindStationsInRange(Vector3 center) |  | 
 | String | GetExtensionName() |  | 
 | String | GetHoverName() |  | 
 | String | GetHoverText() |  | 
-| Boolean | OtherExtensionInRange(`Single` radius) |  | 
-| void | StartConnectionEffect(`CraftingStation` station) |  | 
-| void | StartConnectionEffect(`Vector3` targetPos) |  | 
+| Boolean | OtherExtensionInRange(Single radius) |  | 
+| void | StartConnectionEffect([`CraftingStation`](./CraftingStation.md) station) |  | 
+| void | StartConnectionEffect(Vector3 targetPos) |  | 
 | void | StopConnectionEffect() |  | 
 
 
@@ -34,6 +34,6 @@ public class StationExtension
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | FindExtensions(`CraftingStation` station, `Vector3` pos, `List<StationExtension>` extensions) |  | 
+| void | FindExtensions([`CraftingStation`](./CraftingStation.md) station, Vector3 pos, List&lt;StationExtension&gt; extensions) |  | 
 
 

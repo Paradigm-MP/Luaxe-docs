@@ -9,7 +9,7 @@ public class ServerCtrl
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | Update(`Single` dt) |  | 
+| void | Update(Single dt) |  | 
 
 
 ### Static Properties

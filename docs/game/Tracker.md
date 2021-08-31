@@ -10,6 +10,6 @@ public class Tracker
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | SetActive(`Boolean` active) |  | 
+| void | SetActive(Boolean active) |  | 
 
 

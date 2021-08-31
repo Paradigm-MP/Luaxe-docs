@@ -24,14 +24,14 @@ public class InventoryGrid
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | Awake() |  | 
-| Boolean | DropItem(`Inventory` fromInventory, `ItemData` item, `Int32` amount, `Vector2i` pos) |  | 
+| Boolean | DropItem([`Inventory`](./Inventory.md) fromInventory, ItemData item, Int32 amount, Vector2i pos) |  | 
 | RectTransform | GetGamepadSelectedElement() |  | 
 | ItemData | GetGamepadSelectedItem() |  | 
 | [Inventory](./Inventory.md) | GetInventory() |  | 
-| ItemData | GetItem(`Vector2i` cursorPosition) |  | 
+| ItemData | GetItem(Vector2i cursorPosition) |  | 
 | Vector2 | GetWidgetSize() |  | 
 | void | ResetView() |  | 
-| void | SetSelection(`Vector2i` pos) |  | 
-| void | UpdateInventory(`Inventory` inventory, `Player` player, `ItemData` dragItem) |  | 
+| void | SetSelection(Vector2i pos) |  | 
+| void | UpdateInventory([`Inventory`](./Inventory.md) inventory, [`Player`](./Player.md) player, ItemData dragItem) |  | 
 
 

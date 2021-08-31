@@ -46,8 +46,8 @@ public class AudioMan
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | QueueAmbientLoop(`AudioClip` clip, `Single` vol) |  | 
-| void | SetIndoor(`Boolean` indoor) |  | 
+| void | QueueAmbientLoop(AudioClip clip, Single vol) |  | 
+| void | SetIndoor(Boolean indoor) |  | 
 | void | StopAmbientLoop() |  | 
 
 
@@ -63,6 +63,6 @@ public class AudioMan
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | Single | GetSFXVolume() |  | 
-| void | SetSFXVolume(`Single` vol) |  | 
+| void | SetSFXVolume(Single vol) |  | 
 
 

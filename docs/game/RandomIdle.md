@@ -19,7 +19,7 @@ public class RandomIdle
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | OnStateEnter(`Animator` animator, `AnimatorStateInfo` stateInfo, `Int32` layerIndex) |  | 
-| void | OnStateUpdate(`Animator` animator, `AnimatorStateInfo` stateInfo, `Int32` layerIndex) |  | 
+| void | OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, Int32 layerIndex) |  | 
+| void | OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, Int32 layerIndex) |  | 
 
 

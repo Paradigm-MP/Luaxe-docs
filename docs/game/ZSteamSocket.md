@@ -14,8 +14,8 @@ public class ZSteamSocket
 | void | Close() |  | 
 | void | Dispose() |  | 
 | Boolean | Flush() |  | 
-| void | GetAndResetStats(`Int32&` totalSent, `Int32&` totalRecv) |  | 
-| void | GetConnectionQuality(`Single&` localQuality, `Single&` remoteQuality, `Int32&` ping, `Single&` outByteSec, `Single&` inByteSec) |  | 
+| void | GetAndResetStats(Int32& totalSent, Int32& totalRecv) |  | 
+| void | GetConnectionQuality(Single& localQuality, Single& remoteQuality, Int32& ping, Single& outByteSec, Single& inByteSec) |  | 
 | Int32 | GetCurrentSendRate() |  | 
 | String | GetEndPointString() |  | 
 | String | GetHostName() |  | 
@@ -26,7 +26,7 @@ public class ZSteamSocket
 | Boolean | IsConnected() |  | 
 | Boolean | IsHost() |  | 
 | [ZPackage](./ZPackage.md) | Recv() |  | 
-| void | Send(`ZPackage` pkg) |  | 
+| void | Send([`ZPackage`](./ZPackage.md) pkg) |  | 
 | Boolean | StartHost() |  | 
 
 
@@ -34,7 +34,7 @@ public class ZSteamSocket
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | SetDataPort(`Int32` port) |  | 
-| void | UpdateAllSockets(`Single` dt) |  | 
+| void | SetDataPort(Int32 port) |  | 
+| void | UpdateAllSockets(Single dt) |  | 
 
 
