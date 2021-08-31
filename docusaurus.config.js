@@ -66,6 +66,15 @@ module.exports = {
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
                 },
+                sitemap: {
+                    changefreq: 'weekly',
+                    priority: 0.5,
+                    trailingSlash: false,
+                },
+                googleAnalytics: {
+                    trackingID: 'G-L8C8DGW51W',
+                    anonymizeIP: true,
+                }
             },
         ],
     ],
