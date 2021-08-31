@@ -10,16 +10,16 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_health |  | 
-| `Action<HitData, HitArea>` | m_onHit |  | 
-| `GameObject` | m_parentObject |  | 
+| Single | m_health |  | 
+| Action&lt;HitData, HitArea&gt; | m_onHit |  | 
+| GameObject | m_parentObject |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Damage(`HitData` hit) |  | 
-| `DestructibleType` | GetDestructibleType() |  | 
+| void | Damage(`HitData` hit) |  | 
+| [DestructibleType](./DestructibleType.md) | GetDestructibleType() |  | 
 
 

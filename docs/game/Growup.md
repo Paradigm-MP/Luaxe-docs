@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `GameObject` | m_grownPrefab |  | 
-| `Single` | m_growTime |  | 
+| GameObject | m_grownPrefab |  | 
+| Single | m_growTime |  | 
 
 

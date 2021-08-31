@@ -10,8 +10,8 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_freq |  | 
-| `Single` | m_xAngle |  | 
-| `Single` | m_zAngle |  | 
+| Single | m_freq |  | 
+| Single | m_xAngle |  | 
+| Single | m_zAngle |  | 
 
 

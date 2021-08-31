@@ -10,18 +10,18 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_baseTTL |  | 
-| `Single` | m_damageInterval |  | 
-| `Single` | m_TTLPerDamage |  | 
-| `Single` | m_TTLPerDamagePlayer |  | 
-| `Single` | m_TTLPower |  | 
+| Single | m_baseTTL |  | 
+| Single | m_damageInterval |  | 
+| Single | m_TTLPerDamage |  | 
+| Single | m_TTLPerDamagePlayer |  | 
+| Single | m_TTLPower |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | AddDamage(`Single` damage) |  | 
-| `void` | UpdateStatusEffect(`Single` dt) |  | 
+| void | AddDamage(`Single` damage) |  | 
+| void | UpdateStatusEffect(`Single` dt) |  | 
 
 

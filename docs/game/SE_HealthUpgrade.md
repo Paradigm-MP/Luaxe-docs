@@ -10,16 +10,16 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_moreHealth |  | 
-| `Single` | m_moreStamina |  | 
-| `EffectList` | m_upgradeEffect |  | 
+| Single | m_moreHealth |  | 
+| Single | m_moreStamina |  | 
+| [EffectList](./EffectList.md) | m_upgradeEffect |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Setup(`Character` character) |  | 
-| `void` | Stop() |  | 
+| void | Setup(`Character` character) |  | 
+| void | Stop() |  | 
 
 

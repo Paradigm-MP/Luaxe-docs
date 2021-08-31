@@ -10,16 +10,16 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | m_allowDoor |  | 
-| `Boolean` | m_entrance |  | 
-| `Int32` | m_placeOrder |  | 
-| `String` | m_type |  | 
+| Boolean | m_allowDoor |  | 
+| Boolean | m_entrance |  | 
+| Int32 | m_placeOrder |  | 
+| String | m_type |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | TestContact(`RoomConnection` other) |  | 
+| Boolean | TestContact(`RoomConnection` other) |  | 
 
 

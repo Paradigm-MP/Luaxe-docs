@@ -10,40 +10,40 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `GameObject` | m_feedbackPrefab |  | 
-| `Transform` | m_logoutDialog |  | 
-| `Transform` | m_menuDialog |  | 
-| `Transform` | m_quitDialog |  | 
-| `Transform` | m_root |  | 
-| `GameObject` | m_settingsPrefab |  | 
+| GameObject | m_feedbackPrefab |  | 
+| Transform | m_logoutDialog |  | 
+| Transform | m_menuDialog |  | 
+| Transform | m_quitDialog |  | 
+| Transform | m_root |  | 
+| GameObject | m_settingsPrefab |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | OnButtonFeedback() |  | 
-| `void` | OnClose() |  | 
-| `void` | OnLogout() |  | 
-| `void` | OnLogoutNo() |  | 
-| `void` | OnLogoutYes() |  | 
-| `void` | OnQuit() |  | 
-| `void` | OnQuitNo() |  | 
-| `void` | OnQuitYes() |  | 
-| `void` | OnSettings() |  | 
+| void | OnButtonFeedback() |  | 
+| void | OnClose() |  | 
+| void | OnLogout() |  | 
+| void | OnLogoutNo() |  | 
+| void | OnLogoutYes() |  | 
+| void | OnQuit() |  | 
+| void | OnQuitNo() |  | 
+| void | OnQuitYes() |  | 
+| void | OnSettings() |  | 
 
 
 Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Menu` | instance |  | 
+| [Menu](./Menu.md) | instance |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | IsVisible() |  | 
+| Boolean | IsVisible() |  | 
 
 

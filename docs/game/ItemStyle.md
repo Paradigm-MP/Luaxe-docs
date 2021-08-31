@@ -10,6 +10,6 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Setup(`Int32` style) |  | 
+| void | Setup(`Int32` style) |  | 
 
 

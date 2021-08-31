@@ -10,27 +10,27 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `DamageModifiers` | m_damageModifiers |  | 
-| `EffectList` | m_destroyedEffect |  | 
-| `DropTable` | m_dropWhenDestroyed |  | 
-| `Single` | m_health |  | 
-| `EffectList` | m_hitEffect |  | 
-| `GameObject` | m_logPrefab |  | 
-| `Transform` | m_logSpawnPoint |  | 
-| `Int32` | m_minToolTier |  | 
-| `EffectList` | m_respawnEffect |  | 
-| `Single` | m_spawnYOffset |  | 
-| `Single` | m_spawnYStep |  | 
-| `GameObject` | m_stubPrefab |  | 
-| `GameObject` | m_trunk |  | 
+| DamageModifiers | m_damageModifiers |  | 
+| [EffectList](./EffectList.md) | m_destroyedEffect |  | 
+| [DropTable](./DropTable.md) | m_dropWhenDestroyed |  | 
+| Single | m_health |  | 
+| [EffectList](./EffectList.md) | m_hitEffect |  | 
+| GameObject | m_logPrefab |  | 
+| Transform | m_logSpawnPoint |  | 
+| Int32 | m_minToolTier |  | 
+| [EffectList](./EffectList.md) | m_respawnEffect |  | 
+| Single | m_spawnYOffset |  | 
+| Single | m_spawnYStep |  | 
+| GameObject | m_stubPrefab |  | 
+| GameObject | m_trunk |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Damage(`HitData` hit) |  | 
-| `DestructibleType` | GetDestructibleType() |  | 
-| `void` | Grow() |  | 
+| void | Damage(`HitData` hit) |  | 
+| [DestructibleType](./DestructibleType.md) | GetDestructibleType() |  | 
+| void | Grow() |  | 
 
 

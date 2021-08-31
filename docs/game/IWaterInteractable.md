@@ -9,8 +9,8 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Transform` | GetTransform() |  | 
-| `Boolean` | IsOwner() |  | 
-| `void` | SetInWater(`Single` waterLevel) |  | 
+| Transform | GetTransform() |  | 
+| Boolean | IsOwner() |  | 
+| void | SetInWater(`Single` waterLevel) |  | 
 
 

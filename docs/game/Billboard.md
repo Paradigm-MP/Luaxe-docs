@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | m_invert |  | 
-| `Boolean` | m_vertical |  | 
+| Boolean | m_invert |  | 
+| Boolean | m_vertical |  | 
 
 

@@ -10,6 +10,6 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `GameObject` | m_spawnOnDamage |  | 
+| GameObject | m_spawnOnDamage |  | 
 
 

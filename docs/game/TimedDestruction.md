@@ -10,15 +10,15 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_timeout |  | 
-| `Boolean` | m_triggerOnAwake |  | 
+| Single | m_timeout |  | 
+| Boolean | m_triggerOnAwake |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Trigger() |  | 
-| `void` | Trigger(`Single` timeout) |  | 
+| void | Trigger() |  | 
+| void | Trigger(`Single` timeout) |  | 
 
 

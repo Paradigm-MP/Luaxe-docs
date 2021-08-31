@@ -10,15 +10,15 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_damageInterval |  | 
-| `Single` | m_waterDamage |  | 
+| Single | m_damageInterval |  | 
+| Single | m_waterDamage |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Setup(`Character` character) |  | 
-| `void` | UpdateStatusEffect(`Single` dt) |  | 
+| void | Setup(`Character` character) |  | 
+| void | UpdateStatusEffect(`Single` dt) |  | 
 
 

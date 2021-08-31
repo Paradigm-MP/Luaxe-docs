@@ -9,7 +9,7 @@ Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | LogEvent(`String` eventCategory, `String` eventAction, `String` eventLabel, `Int64` value) |  | 
-| `void` | StartSession() |  | 
+| void | LogEvent(`String` eventCategory, `String` eventAction, `String` eventLabel, `Int64` value) |  | 
+| void | StartSession() |  | 
 
 

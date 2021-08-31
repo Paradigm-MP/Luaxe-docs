@@ -1,4 +1,4 @@
-## `RoutedMethod<T, U, V, B>`
+## `RoutedMethod&lt;T, U, V, B&gt;`
 
 ```csharp
 public class RoutedMethod<T, U, V, B>
@@ -10,6 +10,6 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Invoke(`Int64` rpc, `ZPackage` pkg) |  | 
+| void | Invoke(`Int64` rpc, `ZPackage` pkg) |  | 
 
 

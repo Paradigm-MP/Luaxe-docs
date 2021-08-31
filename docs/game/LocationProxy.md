@@ -10,6 +10,6 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | SetLocation(`String` location, `Int32` seed, `Boolean` spawnNow, `Int32` pgw) |  | 
+| void | SetLocation(`String` location, `Int32` seed, `Boolean` spawnNow, `Int32` pgw) |  | 
 
 

@@ -10,17 +10,17 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_freezeTimeEnemy |  | 
-| `Single` | m_freezeTimePlayer |  | 
-| `Single` | m_minSpeedFactor |  | 
+| Single | m_freezeTimeEnemy |  | 
+| Single | m_freezeTimePlayer |  | 
+| Single | m_minSpeedFactor |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | AddDamage(`Single` damage) |  | 
-| `void` | ModifySpeed(`Single&` speed) |  | 
-| `void` | UpdateStatusEffect(`Single` dt) |  | 
+| void | AddDamage(`Single` damage) |  | 
+| void | ModifySpeed(`Single&` speed) |  | 
+| void | UpdateStatusEffect(`Single` dt) |  | 
 
 

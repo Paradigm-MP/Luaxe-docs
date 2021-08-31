@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_speed |  | 
-| `Single` | m_ttl |  | 
+| Single | m_speed |  | 
+| Single | m_ttl |  | 
 
 

@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_cooldownDelay |  | 
-| `EffectList` | m_effects |  | 
+| Single | m_cooldownDelay |  | 
+| [EffectList](./EffectList.md) | m_effects |  | 
 
 

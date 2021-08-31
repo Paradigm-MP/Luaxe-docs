@@ -10,6 +10,6 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<Transform>` | m_attachments |  | 
+| List&lt;Transform&gt; | m_attachments |  | 
 
 

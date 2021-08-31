@@ -10,8 +10,8 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `AgentType` | m_agentType |  | 
-| `Boolean` | m_cleanPath |  | 
-| `Transform` | m_target |  | 
+| AgentType | m_agentType |  | 
+| Boolean | m_cleanPath |  | 
+| Transform | m_target |  | 
 
 

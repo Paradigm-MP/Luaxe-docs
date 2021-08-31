@@ -10,8 +10,8 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Text` | m_dreamField |  | 
-| `DreamTexts` | m_dreamTexts |  | 
-| `Text` | m_textField |  | 
+| Text | m_dreamField |  | 
+| [DreamTexts](./DreamTexts.md) | m_dreamTexts |  | 
+| Text | m_textField |  | 
 
 

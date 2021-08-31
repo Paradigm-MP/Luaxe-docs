@@ -9,8 +9,8 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `EnvSetup` | m_env |  | 
-| `String` | m_environment |  | 
-| `Single` | m_weight |  | 
+| [EnvSetup](./EnvSetup.md) | m_env |  | 
+| String | m_environment |  | 
+| Single | m_weight |  | 
 
 

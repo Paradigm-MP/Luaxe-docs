@@ -9,7 +9,7 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | GetHoverName() |  | 
-| `String` | GetHoverText() |  | 
+| String | GetHoverName() |  | 
+| String | GetHoverText() |  | 
 
 

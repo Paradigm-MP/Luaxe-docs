@@ -10,21 +10,21 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `RoomData` | GetRoom(`Int32` hash) |  | 
-| `Boolean` | SkipSaving() |  | 
+| RoomData | GetRoom(`Int32` hash) |  | 
+| Boolean | SkipSaving() |  | 
 
 
 Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `DungeonDB` | instance |  | 
+| [DungeonDB](./DungeonDB.md) | instance |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<RoomData>` | GetRooms() |  | 
+| List&lt;RoomData&gt; | GetRooms() |  | 
 
 

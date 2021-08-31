@@ -10,6 +10,6 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_updateStepDistance |  | 
+| Single | m_updateStepDistance |  | 
 
 

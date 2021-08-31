@@ -10,8 +10,8 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | m_attach |  | 
-| `Boolean` | m_moveToTop |  | 
-| `GameObject` | m_prefab |  | 
+| Boolean | m_attach |  | 
+| Boolean | m_moveToTop |  | 
+| GameObject | m_prefab |  | 
 
 

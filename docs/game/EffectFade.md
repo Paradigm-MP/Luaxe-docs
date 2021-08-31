@@ -10,13 +10,13 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_fadeDuration |  | 
+| Single | m_fadeDuration |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | SetActive(`Boolean` active) |  | 
+| void | SetActive(`Boolean` active) |  | 
 
 

@@ -10,20 +10,20 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<DLCInfo>` | m_dlcs |  | 
+| List&lt;DLCInfo&gt; | m_dlcs |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | IsDLCInstalled(`String` name) |  | 
+| Boolean | IsDLCInstalled(`String` name) |  | 
 
 
 Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `DLCMan` | instance |  | 
+| [DLCMan](./DLCMan.md) | instance |  | 
 
 

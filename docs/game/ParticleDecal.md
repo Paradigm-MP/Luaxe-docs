@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_chance |  | 
-| `ParticleSystem` | m_decalSystem |  | 
+| Single | m_chance |  | 
+| ParticleSystem | m_decalSystem |  | 
 
 

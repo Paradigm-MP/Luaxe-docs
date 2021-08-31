@@ -10,7 +10,7 @@ Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | Emit |  | 
-| `Boolean` | Use |  | 
+| Boolean | Emit |  | 
+| Boolean | Use |  | 
 
 

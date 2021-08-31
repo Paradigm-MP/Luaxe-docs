@@ -10,6 +10,6 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Text` | m_text |  | 
+| Text | m_text |  | 
 
 

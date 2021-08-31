@@ -10,24 +10,24 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `GameObject` | m_ravenPrefab |  | 
-| `Text` | m_text |  | 
-| `List<TutorialText>` | m_texts |  | 
-| `Text` | m_topic |  | 
-| `RectTransform` | m_windowRoot |  | 
+| GameObject | m_ravenPrefab |  | 
+| Text | m_text |  | 
+| List&lt;TutorialText&gt; | m_texts |  | 
+| Text | m_topic |  | 
+| RectTransform | m_windowRoot |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | ShowText(`String` name, `Boolean` force) |  | 
+| void | ShowText(`String` name, `Boolean` force) |  | 
 
 
 Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Tutorial` | instance |  | 
+| [Tutorial](./Tutorial.md) | instance |  | 
 
 

@@ -10,6 +10,6 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Action<String>` | m_onSubmit |  | 
+| Action&lt;String&gt; | m_onSubmit |  | 
 
 

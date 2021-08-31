@@ -10,13 +10,13 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | m_event |  | 
+| String | m_event |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | GetEvent() |  | 
+| String | GetEvent() |  | 
 
 

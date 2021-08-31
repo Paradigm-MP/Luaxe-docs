@@ -10,18 +10,18 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | m_enterText |  | 
-| `String` | m_hoverText |  | 
-| `Teleport` | m_targetPoint |  | 
+| String | m_enterText |  | 
+| String | m_hoverText |  | 
+| [Teleport](./Teleport.md) | m_targetPoint |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | GetHoverName() |  | 
-| `String` | GetHoverText() |  | 
-| `Boolean` | Interact(`Humanoid` character, `Boolean` hold) |  | 
-| `Boolean` | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| String | GetHoverName() |  | 
+| String | GetHoverText() |  | 
+| Boolean | Interact(`Humanoid` character, `Boolean` hold) |  | 
+| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
 
 

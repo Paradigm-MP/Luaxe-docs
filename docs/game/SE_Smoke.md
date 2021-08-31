@@ -10,15 +10,15 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `DamageTypes` | m_damage |  | 
-| `Single` | m_damageInterval |  | 
+| DamageTypes | m_damage |  | 
+| Single | m_damageInterval |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | CanAdd(`Character` character) |  | 
-| `void` | UpdateStatusEffect(`Single` dt) |  | 
+| Boolean | CanAdd(`Character` character) |  | 
+| void | UpdateStatusEffect(`Single` dt) |  | 
 
 

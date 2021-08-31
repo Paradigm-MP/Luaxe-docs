@@ -10,17 +10,17 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | m_checkSolids |  | 
-| `Boolean` | m_fall |  | 
-| `Single` | m_fallCheckRadius |  | 
-| `Boolean` | m_pushUp |  | 
+| Boolean | m_checkSolids |  | 
+| Boolean | m_fall |  | 
+| Single | m_fallCheckRadius |  | 
+| Boolean | m_pushUp |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Awake() |  | 
-| `void` | SUpdate() |  | 
+| void | Awake() |  | 
+| void | SUpdate() |  | 
 
 

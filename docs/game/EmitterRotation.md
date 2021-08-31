@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_maxSpeed |  | 
-| `Single` | m_rotSpeed |  | 
+| Single | m_maxSpeed |  | 
+| Single | m_rotSpeed |  | 
 
 

@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<ZoneLocation>` | m_locations |  | 
-| `Int32` | m_sortOrder |  | 
+| List&lt;ZoneLocation&gt; | m_locations |  | 
+| Int32 | m_sortOrder |  | 
 
 

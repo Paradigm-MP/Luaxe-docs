@@ -10,23 +10,23 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_baseTTL |  | 
-| `Single` | m_TTLPerComfortLevel |  | 
+| Single | m_baseTTL |  | 
+| Single | m_TTLPerComfortLevel |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | ResetTime() |  | 
-| `void` | Setup(`Character` character) |  | 
-| `void` | UpdateStatusEffect(`Single` dt) |  | 
+| void | ResetTime() |  | 
+| void | Setup(`Character` character) |  | 
+| void | UpdateStatusEffect(`Single` dt) |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Int32` | CalculateComfortLevel(`Player` player) |  | 
+| Int32 | CalculateComfortLevel(`Player` player) |  | 
 
 

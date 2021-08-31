@@ -9,7 +9,7 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | GetText() |  | 
-| `void` | SetText(`String` text) |  | 
+| String | GetText() |  | 
+| void | SetText(`String` text) |  | 
 
 

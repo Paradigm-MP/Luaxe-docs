@@ -10,15 +10,15 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Awake() |  | 
-| `void` | OnDestroy() |  | 
-| `void` | SUpdate() |  | 
+| void | Awake() |  | 
+| void | OnDestroy() |  | 
+| void | SUpdate() |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<SlowUpdate>` | GetAllInstaces() |  | 
+| List&lt;SlowUpdate&gt; | GetAllInstaces() |  | 
 
 

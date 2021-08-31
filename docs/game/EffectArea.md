@@ -10,23 +10,23 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | m_statusEffect |  | 
-| `Type` | m_type |  | 
+| String | m_statusEffect |  | 
+| Type | m_type |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | GetRadius() |  | 
+| Single | GetRadius() |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<EffectArea>` | GetAllAreas() |  | 
-| `Int32` | GetBaseValue(`Vector3` p, `Single` radius) |  | 
-| `EffectArea` | IsPointInsideArea(`Vector3` p, `Type` type, `Single` radius = 0) |  | 
+| List&lt;EffectArea&gt; | GetAllAreas() |  | 
+| Int32 | GetBaseValue(`Vector3` p, `Single` radius) |  | 
+| [EffectArea](./EffectArea.md) | IsPointInsideArea(`Vector3` p, `Type` type, `Single` radius = 0) |  | 
 
 

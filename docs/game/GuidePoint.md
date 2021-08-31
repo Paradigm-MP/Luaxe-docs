@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `GameObject` | m_ravenPrefab |  | 
-| `RavenText` | m_text |  | 
+| GameObject | m_ravenPrefab |  | 
+| RavenText | m_text |  | 
 
 

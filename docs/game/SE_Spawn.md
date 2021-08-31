@@ -10,16 +10,16 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_delay |  | 
-| `GameObject` | m_prefab |  | 
-| `EffectList` | m_spawnEffect |  | 
-| `Vector3` | m_spawnOffset |  | 
+| Single | m_delay |  | 
+| GameObject | m_prefab |  | 
+| [EffectList](./EffectList.md) | m_spawnEffect |  | 
+| Vector3 | m_spawnOffset |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | UpdateStatusEffect(`Single` dt) |  | 
+| void | UpdateStatusEffect(`Single` dt) |  | 
 
 

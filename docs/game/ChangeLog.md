@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `TextAsset` | m_changeLog |  | 
-| `Text` | m_textField |  | 
+| TextAsset | m_changeLog |  | 
+| Text | m_textField |  | 
 
 

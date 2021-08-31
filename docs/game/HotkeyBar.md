@@ -10,7 +10,7 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `GameObject` | m_elementPrefab |  | 
-| `Single` | m_elementSpace |  | 
+| GameObject | m_elementPrefab |  | 
+| Single | m_elementSpace |  | 
 
 

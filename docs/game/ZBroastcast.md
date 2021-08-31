@@ -10,23 +10,23 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Dispose() |  | 
-| `void` | GetHostList(`List<HostData>` hosts) |  | 
-| `void` | SetServerPort(`Int32` port) |  | 
-| `void` | Update(`Single` dt) |  | 
+| void | Dispose() |  | 
+| void | GetHostList(`List&lt;HostData&gt;` hosts) |  | 
+| void | SetServerPort(`Int32` port) |  | 
+| void | Update(`Single` dt) |  | 
 
 
 Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `ZBroastcast` | instance |  | 
+| [ZBroastcast](./ZBroastcast.md) | instance |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Initialize() |  | 
+| void | Initialize() |  | 
 
 

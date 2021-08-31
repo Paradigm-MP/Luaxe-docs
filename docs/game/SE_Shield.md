@@ -10,17 +10,17 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_absorbDamage |  | 
-| `EffectList` | m_breakEffects |  | 
-| `EffectList` | m_hitEffects |  | 
+| Single | m_absorbDamage |  | 
+| [EffectList](./EffectList.md) | m_breakEffects |  | 
+| [EffectList](./EffectList.md) | m_hitEffects |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | IsDone() |  | 
-| `void` | OnDamaged(`HitData` hit, `Character` attacker) |  | 
-| `void` | Setup(`Character` character) |  | 
+| Boolean | IsDone() |  | 
+| void | OnDamaged(`HitData` hit, `Character` attacker) |  | 
+| void | Setup(`Character` character) |  | 
 
 

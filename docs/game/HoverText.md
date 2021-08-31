@@ -10,14 +10,14 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | m_text |  | 
+| String | m_text |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | GetHoverName() |  | 
-| `String` | GetHoverText() |  | 
+| String | GetHoverName() |  | 
+| String | GetHoverText() |  | 
 
 

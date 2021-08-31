@@ -10,16 +10,16 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Dispose() |  | 
-| `Boolean` | GetStatus() |  | 
-| `DateTime` | GetTime() |  | 
-| `void` | Update(`Single` dt) |  | 
+| void | Dispose() |  | 
+| Boolean | GetStatus() |  | 
+| DateTime | GetTime() |  | 
+| void | Update(`Single` dt) |  | 
 
 
 Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `ZNtp` | instance |  | 
+| [ZNtp](./ZNtp.md) | instance |  | 
 
 

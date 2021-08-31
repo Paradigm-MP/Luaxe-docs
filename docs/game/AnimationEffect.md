@@ -10,15 +10,15 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Transform` | m_effectRoot |  | 
+| Transform | m_effectRoot |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Attach(`AnimationEvent` e) |  | 
-| `void` | Effect(`AnimationEvent` e) |  | 
-| `void` | RemoveAttachments() |  | 
+| void | Attach(`AnimationEvent` e) |  | 
+| void | Effect(`AnimationEvent` e) |  | 
+| void | RemoveAttachments() |  | 
 
 

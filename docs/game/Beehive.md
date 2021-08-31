@@ -10,25 +10,25 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `GameObject` | m_beeEffect |  | 
-| `Biome` | m_biome |  | 
-| `Transform` | m_coverPoint |  | 
-| `ItemDrop` | m_honeyItem |  | 
-| `Single` | m_maxCover |  | 
-| `Int32` | m_maxHoney |  | 
-| `String` | m_name |  | 
-| `Single` | m_secPerUnit |  | 
-| `EffectList` | m_spawnEffect |  | 
-| `Transform` | m_spawnPoint |  | 
+| GameObject | m_beeEffect |  | 
+| Biome | m_biome |  | 
+| Transform | m_coverPoint |  | 
+| [ItemDrop](./ItemDrop.md) | m_honeyItem |  | 
+| Single | m_maxCover |  | 
+| Int32 | m_maxHoney |  | 
+| String | m_name |  | 
+| Single | m_secPerUnit |  | 
+| [EffectList](./EffectList.md) | m_spawnEffect |  | 
+| Transform | m_spawnPoint |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | GetHoverName() |  | 
-| `String` | GetHoverText() |  | 
-| `Boolean` | Interact(`Humanoid` character, `Boolean` repeat) |  | 
-| `Boolean` | UseItem(`Humanoid` user, `ItemData` item) |  | 
+| String | GetHoverName() |  | 
+| String | GetHoverText() |  | 
+| Boolean | Interact(`Humanoid` character, `Boolean` repeat) |  | 
+| Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
 
 

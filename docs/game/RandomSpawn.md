@@ -10,16 +10,16 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_chanceToSpawn |  | 
-| `GameObject` | m_OffObject |  | 
+| Single | m_chanceToSpawn |  | 
+| GameObject | m_OffObject |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Prepare() |  | 
-| `void` | Randomize() |  | 
-| `void` | Reset() |  | 
+| void | Prepare() |  | 
+| void | Randomize() |  | 
+| void | Reset() |  | 
 
 

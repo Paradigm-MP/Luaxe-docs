@@ -10,20 +10,20 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_offset |  | 
+| Single | m_offset |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | HaveUnsnapped() |  | 
+| Boolean | HaveUnsnapped() |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | SnappAll() |  | 
+| void | SnappAll() |  | 
 
 

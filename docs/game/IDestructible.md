@@ -9,7 +9,7 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Damage(`HitData` hit) |  | 
-| `DestructibleType` | GetDestructibleType() |  | 
+| void | Damage(`HitData` hit) |  | 
+| [DestructibleType](./DestructibleType.md) | GetDestructibleType() |  | 
 
 

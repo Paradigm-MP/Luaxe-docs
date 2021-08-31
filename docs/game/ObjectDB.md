@@ -10,28 +10,28 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<GameObject>` | m_items |  | 
-| `List<Recipe>` | m_recipes |  | 
-| `List<StatusEffect>` | m_StatusEffects |  | 
+| List&lt;GameObject&gt; | m_items |  | 
+| List&lt;Recipe&gt; | m_recipes |  | 
+| List&lt;StatusEffect&gt; | m_StatusEffects |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | CopyOtherDB(`ObjectDB` other) |  | 
-| `List<ItemDrop>` | GetAllItems(`ItemType` type, `String` startWith) |  | 
-| `GameObject` | GetItemPrefab(`String` name) |  | 
-| `GameObject` | GetItemPrefab(`Int32` hash) |  | 
-| `Int32` | GetPrefabHash(`GameObject` prefab) |  | 
-| `Recipe` | GetRecipe(`ItemData` item) |  | 
-| `StatusEffect` | GetStatusEffect(`String` name) |  | 
+| void | CopyOtherDB(`ObjectDB` other) |  | 
+| List&lt;ItemDrop&gt; | GetAllItems(`ItemType` type, `String` startWith) |  | 
+| GameObject | GetItemPrefab(`String` name) |  | 
+| GameObject | GetItemPrefab(`Int32` hash) |  | 
+| Int32 | GetPrefabHash(`GameObject` prefab) |  | 
+| [Recipe](./Recipe.md) | GetRecipe(`ItemData` item) |  | 
+| [StatusEffect](./StatusEffect.md) | GetStatusEffect(`String` name) |  | 
 
 
 Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `ObjectDB` | instance |  | 
+| [ObjectDB](./ObjectDB.md) | instance |  | 
 
 

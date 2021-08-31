@@ -10,6 +10,6 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<RandomValue>` | m_values |  | 
+| List&lt;RandomValue&gt; | m_values |  | 
 
 

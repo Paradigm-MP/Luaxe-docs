@@ -10,14 +10,14 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_DespawnDelayMin |  | 
-| `Single` | m_emptyDespawnDelaySec |  | 
+| Single | m_DespawnDelayMin |  | 
+| Single | m_emptyDespawnDelaySec |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | SetEquipedItems(`List<ItemData>` items) |  | 
+| void | SetEquipedItems(`List&lt;ItemData&gt;` items) |  | 
 
 

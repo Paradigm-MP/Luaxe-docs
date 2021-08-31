@@ -10,16 +10,16 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Single` | m_delay |  | 
-| `String` | m_statusEffect |  | 
+| Single | m_delay |  | 
+| String | m_statusEffect |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `String` | GetIconText() |  | 
-| `void` | Setup(`Character` character) |  | 
-| `void` | UpdateStatusEffect(`Single` dt) |  | 
+| String | GetIconText() |  | 
+| void | Setup(`Character` character) |  | 
+| void | UpdateStatusEffect(`Single` dt) |  | 
 
 

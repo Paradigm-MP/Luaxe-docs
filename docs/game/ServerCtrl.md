@@ -9,20 +9,20 @@ Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Update(`Single` dt) |  | 
+| void | Update(`Single` dt) |  | 
 
 
 Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `ServerCtrl` | instance |  | 
+| [ServerCtrl](./ServerCtrl.md) | instance |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | Initialize() |  | 
+| void | Initialize() |  | 
 
 

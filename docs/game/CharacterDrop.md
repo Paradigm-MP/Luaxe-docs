@@ -10,22 +10,22 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<Drop>` | m_drops |  | 
-| `Vector3` | m_spawnOffset |  | 
+| List&lt;Drop&gt; | m_drops |  | 
+| Vector3 | m_spawnOffset |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<KeyValuePair<GameObject, Int32>>` | GenerateDropList() |  | 
-| `void` | SetDropsEnabled(`Boolean` enabled) |  | 
+| List&lt;KeyValuePair&lt;GameObject, Int32&gt;&gt; | GenerateDropList() |  | 
+| void | SetDropsEnabled(`Boolean` enabled) |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `void` | DropItems(`List<KeyValuePair<GameObject, Int32>>` drops, `Vector3` centerPos, `Single` dropArea) |  | 
+| void | DropItems(`List&lt;KeyValuePair&lt;GameObject, Int32&gt;&gt;` drops, `Vector3` centerPos, `Single` dropArea) |  | 
 
 

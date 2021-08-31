@@ -10,23 +10,23 @@ Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `UInt32[]` | ACCEPTED_APPIDs |  | 
-| `UInt32` | APP_ID |  | 
+| UInt32[] | ACCEPTED_APPIDs |  | 
+| UInt32 | APP_ID |  | 
 
 
 Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | Initialized |  | 
-| `SteamManager` | instance |  | 
+| Boolean | Initialized |  | 
+| [SteamManager](./SteamManager.md) | instance |  | 
 
 
 Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `Boolean` | Initialize() |  | 
-| `void` | SetServerPort(`Int32` port) |  | 
+| Boolean | Initialize() |  | 
+| void | SetServerPort(`Int32` port) |  | 
 
 

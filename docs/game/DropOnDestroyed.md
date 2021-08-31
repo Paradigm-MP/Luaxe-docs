@@ -10,8 +10,8 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `DropTable` | m_dropWhenDestroyed |  | 
-| `Single` | m_spawnYOffset |  | 
-| `Single` | m_spawnYStep |  | 
+| [DropTable](./DropTable.md) | m_dropWhenDestroyed |  | 
+| Single | m_spawnYOffset |  | 
+| Single | m_spawnYStep |  | 
 
 

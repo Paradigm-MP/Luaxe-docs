@@ -10,13 +10,13 @@ Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `List<DreamText>` | m_texts |  | 
+| List&lt;DreamText&gt; | m_texts |  | 
 
 
 Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| `DreamText` | GetRandomDreamText() |  | 
+| DreamText | GetRandomDreamText() |  | 
 
 
