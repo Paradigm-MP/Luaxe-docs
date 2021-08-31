@@ -23,12 +23,12 @@ public class Inventory
 | Boolean | ContainsItem(`ItemData` item) |  | 
 | Int32 | CountItems(`String` name) |  | 
 | List&lt;ItemData&gt; | GetAllItems() |  | 
-| void | GetAllItems(`String` name, `List&lt;ItemData&gt;` items) |  | 
-| void | GetAllItems(`ItemType` type, `List&lt;ItemData&gt;` items) |  | 
-| void | GetAllPieceTables(`List&lt;PieceTable&gt;` tables) |  | 
+| void | GetAllItems(`String` name, `List<ItemData>` items) |  | 
+| void | GetAllItems(`ItemType` type, `List<ItemData>` items) |  | 
+| void | GetAllPieceTables(`List<PieceTable>` tables) |  | 
 | ItemData | GetAmmoItem(`String` ammoName) |  | 
 | Sprite | GetBkg() |  | 
-| void | GetBoundItems(`List&lt;ItemData&gt;` bound) |  | 
+| void | GetBoundItems(`List<ItemData>` bound) |  | 
 | Int32 | GetEmptySlots() |  | 
 | List&lt;ItemData&gt; | GetEquipedtems() |  | 
 | Int32 | GetHeight() |  | 
@@ -38,9 +38,9 @@ public class Inventory
 | String | GetName() |  | 
 | ItemData | GetOtherItemAt(`Int32` x, `Int32` y, `ItemData` oldItem) |  | 
 | Single | GetTotalWeight() |  | 
-| void | GetValuableItems(`List&lt;ItemData&gt;` items) |  | 
+| void | GetValuableItems(`List<ItemData>` items) |  | 
 | Int32 | GetWidth() |  | 
-| void | GetWornItems(`List&lt;ItemData&gt;` worn) |  | 
+| void | GetWornItems(`List<ItemData>` worn) |  | 
 | Boolean | HaveEmptySlot() |  | 
 | Boolean | HaveItem(`String` name) |  | 
 | Boolean | IsTeleportable() |  | 

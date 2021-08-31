@@ -51,7 +51,7 @@ public class ZDO
 | String | GetString(`String` name, `String` defaultValue = ) |  | 
 | Vector3 | GetVec3(`String` name, `Vector3` defaultValue) |  | 
 | Vector3 | GetVec3(`Int32` hash, `Vector3` defaultValue) |  | 
-| [ZDOID](./ZDOID.md) | GetZDOID(`KeyValuePair&lt;Int32, Int32&gt;` hashPair) |  | 
+| [ZDOID](./ZDOID.md) | GetZDOID(`KeyValuePair<Int32, Int32>` hashPair) |  | 
 | [ZDOID](./ZDOID.md) | GetZDOID(`String` name) |  | 
 | Boolean | HasOwner() |  | 
 | void | Initialize(`ZDOMan` man, `ZDOID` id, `Vector3` position) |  | 
@@ -65,7 +65,7 @@ public class ZDO
 | void | Reset() |  | 
 | void | Save(`ZPackage` pkg) |  | 
 | void | Serialize(`ZPackage` pkg) |  | 
-| void | Set(`KeyValuePair&lt;Int32, Int32&gt;` hashPair, `ZDOID` id) |  | 
+| void | Set(`KeyValuePair<Int32, Int32>` hashPair, `ZDOID` id) |  | 
 | void | Set(`String` name, `ZDOID` id) |  | 
 | void | Set(`String` name, `Single` value) |  | 
 | void | Set(`Int32` hash, `Single` value) |  | 

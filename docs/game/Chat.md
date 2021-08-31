@@ -25,8 +25,8 @@ public class Chat
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | ClearNpcText(`GameObject` talker) |  | 
-| void | GetPingWorldTexts(`List&lt;WorldTextInstance&gt;` texts) |  | 
-| void | GetShoutWorldTexts(`List&lt;WorldTextInstance&gt;` texts) |  | 
+| void | GetPingWorldTexts(`List<WorldTextInstance>` texts) |  | 
+| void | GetShoutWorldTexts(`List<WorldTextInstance>` texts) |  | 
 | Boolean | HasFocus() |  | 
 | Boolean | IsChatDialogWindowVisible() |  | 
 | Boolean | IsDialogVisible(`GameObject` talker) |  | 

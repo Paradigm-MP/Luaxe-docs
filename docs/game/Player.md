@@ -229,7 +229,7 @@ public class Player
 | [Player](./Player.md) | GetClosestPlayer(`Vector3` point, `Single` maxRange) |  | 
 | [Player](./Player.md) | GetPlayer(`Int64` playerID) |  | 
 | [Player](./Player.md) | GetPlayerNoiseRange(`Vector3` point, `Single` noiseRangeScale = 1) |  | 
-| void | GetPlayersInRange(`Vector3` point, `Single` range, `List&lt;Player&gt;` players) |  | 
+| void | GetPlayersInRange(`Vector3` point, `Single` range, `List<Player>` players) |  | 
 | Int32 | GetPlayersInRangeXZ(`Vector3` point, `Single` range) |  | 
 | [Player](./Player.md) | GetRandomPlayer() |  | 
 | Boolean | IsPlayerInRange(`Vector3` point, `Single` range, `Int64` playerID) |  | 

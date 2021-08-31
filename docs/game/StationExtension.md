@@ -34,6 +34,6 @@ public class StationExtension
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | FindExtensions(`CraftingStation` station, `Vector3` pos, `List&lt;StationExtension&gt;` extensions) |  | 
+| void | FindExtensions(`CraftingStation` station, `Vector3` pos, `List<StationExtension>` extensions) |  | 
 
 

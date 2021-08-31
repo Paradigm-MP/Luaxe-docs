@@ -16,10 +16,10 @@ public class ZRpc
 | void | Invoke(`String` method, `Object[]` parameters) |  | 
 | Boolean | IsConnected() |  | 
 | void | Register(`String` name, `Method` f) |  | 
-| void | Register(`String` name, `Action&lt;ZRpc, T&gt;` f) |  | 
-| void | Register(`String` name, `Action&lt;ZRpc, T, U&gt;` f) |  | 
-| void | Register(`String` name, `Action&lt;ZRpc, T, U, V&gt;` f) |  | 
-| void | Register(`String` name, `Method&lt;T, U, V, W&gt;` f) |  | 
+| void | Register(`String` name, `Action<ZRpc, T>` f) |  | 
+| void | Register(`String` name, `Action<ZRpc, T, U>` f) |  | 
+| void | Register(`String` name, `Action<ZRpc, T, U, V>` f) |  | 
+| void | Register(`String` name, `Method<T, U, V, W>` f) |  | 
 | void | Unregister(`String` name) |  | 
 | Boolean | Update(`Single` dt) |  | 
 

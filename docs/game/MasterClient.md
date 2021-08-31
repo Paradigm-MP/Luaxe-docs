@@ -19,7 +19,7 @@ public class MasterClient
 | void | Dispose() |  | 
 | Int32 | GetServerListRevision() |  | 
 | List&lt;ServerData&gt; | GetServers() |  | 
-| Boolean | GetServers(`List&lt;ServerData&gt;` servers) |  | 
+| Boolean | GetServers(`List<ServerData>` servers) |  | 
 | Boolean | IsConnected() |  | 
 | void | RegisterServer(`String` name, `String` host, `Int32` port, `Boolean` password, `Boolean` upnp, `Int64` worldUID, `String` version) |  | 
 | void | RequestServerlist() |  | 

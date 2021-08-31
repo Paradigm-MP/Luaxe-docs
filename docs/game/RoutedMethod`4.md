@@ -1,4 +1,4 @@
-## `RoutedMethod&lt;T, U, V, B&gt;`
+## `RoutedMethod<T, U, V, B>`
 
 ```csharp
 public class RoutedMethod<T, U, V, B>

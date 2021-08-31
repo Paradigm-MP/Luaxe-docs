@@ -20,7 +20,7 @@ public class SEMan
 | [StatusEffect](./StatusEffect.md) | AddStatusEffect(`StatusEffect` statusEffect, `Boolean` resetTime = False) |  | 
 | void | ApplyDamageMods(`DamageModifiers&` mods) |  | 
 | void | ApplyStatusEffectSpeedMods(`Single&` speed) |  | 
-| void | GetHUDStatusEffects(`List&lt;StatusEffect&gt;` effects) |  | 
+| void | GetHUDStatusEffects(`List<StatusEffect>` effects) |  | 
 | [StatusEffect](./StatusEffect.md) | GetStatusEffect(`String` name) |  | 
 | List&lt;StatusEffect&gt; | GetStatusEffects() |  | 
 | Boolean | HaveStatusAttribute(`StatusAttribute` value) |  | 

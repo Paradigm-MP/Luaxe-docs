@@ -62,7 +62,7 @@ public class Heightmap
 | Biome | FindBiome(`Vector3` point) |  | 
 | Biome | FindBiomeClutter(`Vector3` point) |  | 
 | [Heightmap](./Heightmap.md) | FindHeightmap(`Vector3` point) |  | 
-| void | FindHeightmap(`Vector3` point, `Single` radius, `List&lt;Heightmap&gt;` heightmaps) |  | 
+| void | FindHeightmap(`Vector3` point, `Single` radius, `List<Heightmap>` heightmaps) |  | 
 | void | ForceGenerateAll() |  | 
 | List&lt;Heightmap&gt; | GetAllHeightmaps() |  | 
 | Boolean | GetAverageHeight(`Vector3` worldPos, `Single` radius, `Single&` height) |  | 

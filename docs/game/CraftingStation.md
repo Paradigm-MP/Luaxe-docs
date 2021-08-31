@@ -50,7 +50,7 @@ public class CraftingStation
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [CraftingStation](./CraftingStation.md) | FindClosestStationInRange(`String` name, `Vector3` point, `Single` range) |  | 
-| void | FindStationsInRange(`String` name, `Vector3` point, `Single` range, `List&lt;CraftingStation&gt;` stations) |  | 
+| void | FindStationsInRange(`String` name, `Vector3` point, `Single` range, `List<CraftingStation>` stations) |  | 
 | [CraftingStation](./CraftingStation.md) | GetCraftingStation(`Vector3` point) |  | 
 | [CraftingStation](./CraftingStation.md) | HaveBuildStationInRange(`String` name, `Vector3` point) |  | 
 | void | UpdateKnownStationsInRange(`Player` player) |  | 

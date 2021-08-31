@@ -20,11 +20,11 @@ public class ZRoutedRpc
 | void | InvokeRoutedRPC(`Int64` targetPeerID, `String` methodName, `Object[]` parameters) |  | 
 | void | InvokeRoutedRPC(`String` methodName, `Object[]` parameters) |  | 
 | void | InvokeRoutedRPC(`Int64` targetPeerID, `ZDOID` targetZDO, `String` methodName, `Object[]` parameters) |  | 
-| void | Register(`String` name, `Action&lt;Int64&gt;` f) |  | 
-| void | Register(`String` name, `Action&lt;Int64, T&gt;` f) |  | 
-| void | Register(`String` name, `Action&lt;Int64, T, U&gt;` f) |  | 
-| void | Register(`String` name, `Action&lt;Int64, T, U, V&gt;` f) |  | 
-| void | Register(`String` name, `Method&lt;T, U, V, B&gt;` f) |  | 
+| void | Register(`String` name, `Action<Int64>` f) |  | 
+| void | Register(`String` name, `Action<Int64, T>` f) |  | 
+| void | Register(`String` name, `Action<Int64, T, U>` f) |  | 
+| void | Register(`String` name, `Action<Int64, T, U, V>` f) |  | 
+| void | Register(`String` name, `Method<T, U, V, B>` f) |  | 
 | void | RemovePeer(`ZNetPeer` peer) |  | 
 | void | SetUID(`Int64` uid) |  | 
 

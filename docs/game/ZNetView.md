@@ -30,10 +30,10 @@ public class ZNetView
 | void | InvokeRPC(`String` method, `Object[]` parameters) |  | 
 | Boolean | IsOwner() |  | 
 | Boolean | IsValid() |  | 
-| void | Register(`String` name, `Action&lt;Int64&gt;` f) |  | 
-| void | Register(`String` name, `Action&lt;Int64, T&gt;` f) |  | 
-| void | Register(`String` name, `Action&lt;Int64, T, U&gt;` f) |  | 
-| void | Register(`String` name, `Action&lt;Int64, T, U, V&gt;` f) |  | 
+| void | Register(`String` name, `Action<Int64>` f) |  | 
+| void | Register(`String` name, `Action<Int64, T>` f) |  | 
+| void | Register(`String` name, `Action<Int64, T, U>` f) |  | 
+| void | Register(`String` name, `Action<Int64, T, U, V>` f) |  | 
 | void | ResetZDO() |  | 
 | void | SetLocalScale(`Vector3` scale) |  | 
 | void | SetPersistent(`Boolean` persistent) |  | 

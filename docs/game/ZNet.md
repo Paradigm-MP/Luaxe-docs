@@ -32,7 +32,7 @@ public class ZNet
 | Int32 | GetHostPort() |  | 
 | void | GetNetStats(`Single&` localQuality, `Single&` remoteQuality, `Int32&` ping, `Single&` outByteSec, `Single&` inByteSec) |  | 
 | Int32 | GetNrOfPlayers() |  | 
-| void | GetOtherPublicPlayers(`List&lt;PlayerInfo&gt;` playerList) |  | 
+| void | GetOtherPublicPlayers(`List<PlayerInfo>` playerList) |  | 
 | [ZNetPeer](./ZNetPeer.md) | GetPeer(`Int64` uid) |  | 
 | [ZNetPeer](./ZNetPeer.md) | GetPeerByHostName(`String` endpoint) |  | 
 | [ZNetPeer](./ZNetPeer.md) | GetPeerByPlayerName(`String` name) |  | 

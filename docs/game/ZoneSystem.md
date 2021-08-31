@@ -46,15 +46,15 @@ public class ZoneSystem
 | Single | GetGroundHeight(`Vector3` p) |  | 
 | Boolean | GetGroundHeight(`Vector3` p, `Single&` height) |  | 
 | Boolean | GetLocationIcon(`String` name, `Vector3&` pos) |  | 
-| void | GetLocationIcons(`Dictionary&lt;Vector3, String&gt;` icons) |  | 
+| void | GetLocationIcons(`Dictionary<Vector3, String>` icons) |  | 
 | ValueCollection&lt;Vector2i, LocationInstance&gt; | GetLocationList() |  | 
-| void | GetLocations(`Biome` biome, `List&lt;ZoneLocation&gt;` locations, `Boolean` skipDisabled) |  | 
+| void | GetLocations(`Biome` biome, `List<ZoneLocation>` locations, `Boolean` skipDisabled) |  | 
 | Single | GetSolidHeight(`Vector3` p) |  | 
 | Boolean | GetSolidHeight(`Vector3` p, `Single&` height) |  | 
 | Boolean | GetSolidHeight(`Vector3` p, `Single` radius, `Single&` height, `Transform` ignore) |  | 
 | Boolean | GetSolidHeight(`Vector3` p, `Single&` height, `Vector3&` normal) |  | 
 | Boolean | GetSolidHeight(`Vector3` p, `Single&` height, `Vector3&` normal, `GameObject&` go) |  | 
-| void | GetVegetation(`Biome` biome, `List&lt;ZoneVegetation&gt;` vegetation) |  | 
+| void | GetVegetation(`Biome` biome, `List<ZoneVegetation>` vegetation) |  | 
 | Vector2i | GetZone(`Vector3` point) |  | 
 | Vector3 | GetZonePos(`Vector2i` id) |  | 
 | Boolean | IsActiveAreaLoaded() |  | 
@@ -82,7 +82,7 @@ public class ZoneSystem
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | PrepareNetViews(`GameObject` root, `List&lt;ZNetView&gt;` views) |  | 
-| void | PrepareRandomSpawns(`GameObject` root, `List&lt;RandomSpawn&gt;` randomSpawns) |  | 
+| void | PrepareNetViews(`GameObject` root, `List<ZNetView>` views) |  | 
+| void | PrepareRandomSpawns(`GameObject` root, `List<RandomSpawn>` randomSpawns) |  | 
 
 

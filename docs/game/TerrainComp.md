@@ -11,7 +11,7 @@ public class TerrainComp
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | ApplyOperation(`TerrainOp` modifier) |  | 
-| void | ApplyToHeightmap(`Texture2D` clearedMask, `List&lt;Single&gt;` heights, `Single[]` baseHeights, `Single[]` levelOnlyHeights, `Heightmap` hm) |  | 
+| void | ApplyToHeightmap(`Texture2D` clearedMask, `List<Single>` heights, `Single[]` baseHeights, `Single[]` levelOnlyHeights, `Heightmap` hm) |  | 
 | Boolean | IsOwner() |  | 
 
 

@@ -26,6 +26,6 @@ public class CharacterDrop
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | DropItems(`List&lt;KeyValuePair&lt;GameObject, Int32&gt;&gt;` drops, `Vector3` centerPos, `Single` dropArea) |  | 
+| void | DropItems(`List<KeyValuePair<GameObject, Int32>>` drops, `Vector3` centerPos, `Single` dropArea) |  | 
 
 

@@ -18,6 +18,6 @@ public class Corpse
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | SetEquipedItems(`List&lt;ItemData&gt;` items) |  | 
+| void | SetEquipedItems(`List<ItemData>` items) |  | 
 
 

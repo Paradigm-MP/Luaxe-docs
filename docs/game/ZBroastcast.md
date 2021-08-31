@@ -11,7 +11,7 @@ public class ZBroastcast
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | Dispose() |  | 
-| void | GetHostList(`List&lt;HostData&gt;` hosts) |  | 
+| void | GetHostList(`List<HostData>` hosts) |  | 
 | void | SetServerPort(`Int32` port) |  | 
 | void | Update(`Single` dt) |  | 
 

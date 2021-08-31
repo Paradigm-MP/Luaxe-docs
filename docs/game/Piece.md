@@ -52,7 +52,7 @@ public class Piece
 | Boolean | CanBeRemoved() |  | 
 | void | DropResources() |  | 
 | Int64 | GetCreator() |  | 
-| void | GetSnapPoints(`List&lt;Transform&gt;` points) |  | 
+| void | GetSnapPoints(`List<Transform>` points) |  | 
 | Boolean | IsCreator() |  | 
 | Boolean | IsPlacedByPlayer() |  | 
 | Boolean | IsPriorityTarget() |  | 
@@ -65,7 +65,7 @@ public class Piece
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | GetAllPiecesInRadius(`Vector3` p, `Single` radius, `List&lt;Piece&gt;` pieces) |  | 
-| void | GetSnapPoints(`Vector3` point, `Single` radius, `List&lt;Transform&gt;` points, `List&lt;Piece&gt;` pieces) |  | 
+| void | GetAllPiecesInRadius(`Vector3` p, `Single` radius, `List<Piece>` pieces) |  | 
+| void | GetSnapPoints(`Vector3` point, `Single` radius, `List<Transform>` points, `List<Piece>` pieces) |  | 
 
 

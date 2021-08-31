@@ -56,7 +56,7 @@ public class EnvMan
 | Boolean | IsDay() |  | 
 | Boolean | IsDaylight() |  | 
 | Boolean | IsEnvironment(`String` name) |  | 
-| Boolean | IsEnvironment(`List&lt;String&gt;` names) |  | 
+| Boolean | IsEnvironment(`List<String>` names) |  | 
 | Boolean | IsFreezing() |  | 
 | Boolean | IsNight() |  | 
 | Boolean | IsTimeSkipping() |  | 

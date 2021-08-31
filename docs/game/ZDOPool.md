@@ -14,7 +14,7 @@ public class ZDOPool
 | Int32 | GetPoolActive() |  | 
 | Int32 | GetPoolSize() |  | 
 | Int32 | GetPoolTotal() |  | 
-| void | Release(`Dictionary&lt;ZDOID, ZDO&gt;` objects) |  | 
+| void | Release(`Dictionary<ZDOID, ZDO>` objects) |  | 
 | void | Release(`ZDO` zdo) |  | 
 
 

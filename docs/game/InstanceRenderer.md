@@ -30,7 +30,7 @@ public class InstanceRenderer
 | void | AddInstance(`Matrix4x4` m) |  | 
 | void | Clear() |  | 
 | void | SetInstance(`Int32` index, `Vector3` pos, `Quaternion` rot, `Single` scale) |  | 
-| void | SetInstances(`List&lt;Transform&gt;` transforms, `Boolean` faceCamera = False) |  | 
-| void | SetInstancesBillboard(`List&lt;Vector4&gt;` points) |  | 
+| void | SetInstances(`List<Transform>` transforms, `Boolean` faceCamera = False) |  | 
+| void | SetInstancesBillboard(`List<Vector4>` points) |  | 
 
 

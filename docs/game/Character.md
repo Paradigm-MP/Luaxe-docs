@@ -252,7 +252,7 @@ public class Character
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | List&lt;Character&gt; | GetAllCharacters() |  | 
-| void | GetCharactersInRange(`Vector3` point, `Single` radius, `List&lt;Character&gt;` characters) |  | 
+| void | GetCharactersInRange(`Vector3` point, `Single` radius, `List<Character>` characters) |  | 
 | Boolean | IsCharacterInRange(`Vector3` point, `Single` range) |  | 
 | Boolean | IsDPSDebugEnabled() |  | 
 | void | SetDPSDebug(`Boolean` enabled) |  | 

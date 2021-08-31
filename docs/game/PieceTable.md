@@ -37,7 +37,7 @@ public class PieceTable
 | void | RightPiece() |  | 
 | void | SetCategory(`Int32` index) |  | 
 | void | SetSelected(`Vector2Int` p) |  | 
-| void | UpdateAvailable(`HashSet&lt;String&gt;` knownRecipies, `Player` player, `Boolean` hideUnavailable, `Boolean` noPlacementCost) |  | 
+| void | UpdateAvailable(`HashSet<String>` knownRecipies, `Player` player, `Boolean` hideUnavailable, `Boolean` noPlacementCost) |  | 
 | void | UpPiece() |  | 
 
 

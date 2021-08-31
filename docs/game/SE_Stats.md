@@ -56,6 +56,6 @@ public class SE_Stats
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| String | GetDamageModifiersTooltipString(`List&lt;DamageModPair&gt;` mods) |  | 
+| String | GetDamageModifiersTooltipString(`List<DamageModPair>` mods) |  | 
 
 

@@ -19,7 +19,7 @@ public class SpawnSystem
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| void | GetSpawners(`Biome` biome, `List&lt;SpawnData&gt;` spawners) |  | 
+| void | GetSpawners(`Biome` biome, `List<SpawnData>` spawners) |  | 
 
 
 ### Static Methods

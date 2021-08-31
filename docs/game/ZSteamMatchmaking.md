@@ -11,7 +11,7 @@ public class ZSteamMatchmaking
 | --- | --- | --- | 
 | Boolean | GetJoinHost(`CSteamID&` steamID, `SteamNetworkingIPAddr&` addr) |  | 
 | Int32 | GetServerListRevision() |  | 
-| void | GetServers(`List&lt;ServerData&gt;` allServers) |  | 
+| void | GetServers(`List<ServerData>` allServers) |  | 
 | Int32 | GetTotalNrOfServers() |  | 
 | void | QueueLobbyJoin(`CSteamID` lobbyID) |  | 
 | void | QueueServerJoin(`String` addr) |  | 
