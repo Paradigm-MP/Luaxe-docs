@@ -6,7 +6,7 @@ public class PieceTable
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -17,7 +17,7 @@ Fields
 | Boolean | m_useCategories |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -41,7 +41,7 @@ Methods
 | void | UpPiece() |  | 
 
 
-Static Fields
+### Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

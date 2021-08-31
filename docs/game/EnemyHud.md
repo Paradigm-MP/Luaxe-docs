@@ -6,7 +6,7 @@ public class EnemyHud
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -19,7 +19,7 @@ Fields
 | Single | m_maxShowDistanceBoss |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -27,7 +27,7 @@ Methods
 | Boolean | ShowingBossHud() |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

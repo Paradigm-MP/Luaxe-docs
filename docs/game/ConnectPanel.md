@@ -6,7 +6,7 @@ public class ConnectPanel
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -44,14 +44,14 @@ Fields
 | Text | m_zdosSent |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [ConnectPanel](./ConnectPanel.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

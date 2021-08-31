@@ -6,7 +6,7 @@ public class DamageText
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -18,7 +18,7 @@ Fields
 | GameObject | m_worldTextBase |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -26,7 +26,7 @@ Methods
 | void | ShowText(`TextType` type, `Vector3` pos, `Single` dmg, `Boolean` player = False) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

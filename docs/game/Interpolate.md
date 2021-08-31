@@ -5,7 +5,7 @@ public class Interpolate
 
 ```
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

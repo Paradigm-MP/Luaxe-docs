@@ -6,7 +6,7 @@ public class TombStone
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -18,7 +18,7 @@ Fields
 | Text | m_worldText |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

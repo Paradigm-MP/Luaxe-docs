@@ -6,7 +6,7 @@ public class InventoryGrid
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -19,7 +19,7 @@ Fields
 | UIGroupHandler | m_uiGroup |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

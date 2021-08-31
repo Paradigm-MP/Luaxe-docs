@@ -6,7 +6,7 @@ public class Tracker
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

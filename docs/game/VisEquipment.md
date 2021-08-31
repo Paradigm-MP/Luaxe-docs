@@ -6,7 +6,7 @@ public class VisEquipment
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -26,7 +26,7 @@ Fields
 | Boolean | m_useAllTrails |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

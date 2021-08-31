@@ -6,7 +6,7 @@ public class Menu
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -18,7 +18,7 @@ Fields
 | GameObject | m_settingsPrefab |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -33,14 +33,14 @@ Methods
 | void | OnSettings() |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [Menu](./Menu.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

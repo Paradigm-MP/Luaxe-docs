@@ -6,7 +6,7 @@ public class SlowUpdate
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -15,7 +15,7 @@ Methods
 | void | SUpdate() |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

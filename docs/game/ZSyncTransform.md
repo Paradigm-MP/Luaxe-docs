@@ -6,7 +6,7 @@ public class ZSyncTransform
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -17,7 +17,7 @@ Fields
 | Boolean | m_syncScale |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

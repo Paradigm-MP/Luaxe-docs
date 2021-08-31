@@ -5,7 +5,7 @@ public class PointGenerator
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

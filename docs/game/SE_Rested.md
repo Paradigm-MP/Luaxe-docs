@@ -6,7 +6,7 @@ public class SE_Rested
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -14,7 +14,7 @@ Fields
 | Single | m_TTLPerComfortLevel |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -23,7 +23,7 @@ Methods
 | void | UpdateStatusEffect(`Single` dt) |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

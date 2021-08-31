@@ -6,7 +6,7 @@ public class CameraEffects
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -18,7 +18,7 @@ Fields
 | Boolean | m_forceDof |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -26,7 +26,7 @@ Methods
 | void | SetSunShafts(`Boolean` enabled) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class Fish
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -30,7 +30,7 @@ Fields
 | Single | m_wpDurationMin |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

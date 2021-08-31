@@ -6,7 +6,7 @@ public class LootSpawner
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -19,7 +19,7 @@ Fields
 | Boolean | m_spawnWhenEnemiesCleared |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

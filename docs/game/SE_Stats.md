@@ -6,7 +6,7 @@ public class SE_Stats
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -33,7 +33,7 @@ Fields
 | Single | m_tickInterval |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -52,7 +52,7 @@ Methods
 | void | UpdateStatusEffect(`Single` dt) |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

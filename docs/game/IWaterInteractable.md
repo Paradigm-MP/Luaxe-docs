@@ -5,7 +5,7 @@ public interface IWaterInteractable
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

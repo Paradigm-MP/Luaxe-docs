@@ -6,7 +6,7 @@ public class Ragdoll
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -19,7 +19,7 @@ Fields
 | Single | m_velMultiplier |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

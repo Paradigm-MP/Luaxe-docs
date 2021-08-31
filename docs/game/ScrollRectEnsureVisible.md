@@ -6,7 +6,7 @@ public class ScrollRectEnsureVisible
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

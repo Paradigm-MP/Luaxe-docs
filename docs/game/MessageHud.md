@@ -6,7 +6,7 @@ public class MessageHud
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -21,7 +21,7 @@ Fields
 | GameObject | m_unlockMsgPrefab |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -32,7 +32,7 @@ Methods
 | void | ShowMessage(`MessageType` type, `String` text, `Int32` amount = 0, `Sprite` icon = null) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class LocationProxy
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

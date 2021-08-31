@@ -6,7 +6,7 @@ public class OfferingBowl
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -30,7 +30,7 @@ Fields
 | String | m_useItemText |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

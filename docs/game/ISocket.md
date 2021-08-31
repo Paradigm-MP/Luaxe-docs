@@ -5,7 +5,7 @@ public interface ISocket
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

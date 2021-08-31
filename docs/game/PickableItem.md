@@ -6,7 +6,7 @@ public class PickableItem
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -16,7 +16,7 @@ Fields
 | Int32 | m_stack |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

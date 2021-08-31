@@ -6,7 +6,7 @@ public class Door
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -18,7 +18,7 @@ Fields
 | [EffectList](./EffectList.md) | m_openEffects |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

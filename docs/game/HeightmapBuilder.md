@@ -5,7 +5,7 @@ public class HeightmapBuilder
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -15,7 +15,7 @@ Methods
 | HMBuildData | RequestTerrainSync(`Vector3` center, `Int32` width, `Single` scale, `Boolean` distantLod, `WorldGenerator` worldGen) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

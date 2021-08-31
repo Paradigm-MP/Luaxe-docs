@@ -5,7 +5,7 @@ public interface TextReceiver
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class Hud
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -100,7 +100,7 @@ Fields
 | Boolean | m_useRandomImages |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -113,14 +113,14 @@ Methods
 | void | TogglePieceSelection() |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [Hud](./Hud.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

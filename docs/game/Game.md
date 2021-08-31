@@ -6,7 +6,7 @@ public class Game
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -16,7 +16,7 @@ Fields
 | String | m_StartLocation |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -32,14 +32,14 @@ Methods
 | Boolean | WaitingForRespawn() |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [Game](./Game.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

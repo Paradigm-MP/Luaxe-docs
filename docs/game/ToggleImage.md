@@ -6,7 +6,7 @@ public class ToggleImage
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

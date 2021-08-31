@@ -6,7 +6,7 @@ public class ObjectDB
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -15,7 +15,7 @@ Fields
 | List&lt;StatusEffect&gt; | m_StatusEffects |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -28,7 +28,7 @@ Methods
 | [StatusEffect](./StatusEffect.md) | GetStatusEffect(`String` name) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

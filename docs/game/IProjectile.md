@@ -5,7 +5,7 @@ public interface IProjectile
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class Switch
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -16,7 +16,7 @@ Fields
 | Callback | m_onUse |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

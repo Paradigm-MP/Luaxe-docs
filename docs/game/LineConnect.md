@@ -6,7 +6,7 @@ public class LineConnect
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -25,7 +25,7 @@ Fields
 | Single | m_thicknessPower |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

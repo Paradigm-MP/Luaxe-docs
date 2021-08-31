@@ -6,7 +6,7 @@ public class SE_HealthUpgrade
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -15,7 +15,7 @@ Fields
 | [EffectList](./EffectList.md) | m_upgradeEffect |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

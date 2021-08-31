@@ -6,7 +6,7 @@ public class Skills
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -16,7 +16,7 @@ Fields
 | Boolean | m_useSkillCap |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -38,7 +38,7 @@ Methods
 | void | Save(`ZPackage` pkg) |  | 
 
 
-Static Fields
+### Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

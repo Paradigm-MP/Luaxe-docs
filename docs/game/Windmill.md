@@ -6,7 +6,7 @@ public class Windmill
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -28,7 +28,7 @@ Fields
 | AudioSource[] | m_sfxLoops |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

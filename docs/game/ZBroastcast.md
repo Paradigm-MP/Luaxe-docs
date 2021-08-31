@@ -6,7 +6,7 @@ public class ZBroastcast
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -16,14 +16,14 @@ Methods
 | void | Update(`Single` dt) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [ZBroastcast](./ZBroastcast.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

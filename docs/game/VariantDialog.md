@@ -6,7 +6,7 @@ public class VariantDialog
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -17,7 +17,7 @@ Fields
 | Single | m_spacing |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,21 +6,21 @@ public class DLCMan
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | List&lt;DLCInfo&gt; | m_dlcs |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | Boolean | IsDLCInstalled(`String` name) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

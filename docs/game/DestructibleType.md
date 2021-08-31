@@ -6,7 +6,7 @@ public enum DestructibleType
 
 ```
 
-Enum
+### Enum
 
 | Value | Name | Summary | 
 | --- | --- | --- | 

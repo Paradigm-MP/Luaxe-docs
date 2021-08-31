@@ -6,7 +6,7 @@ public class ShipEffects
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class ZSteamSocketOLD
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -33,7 +33,7 @@ Methods
 | Boolean | StartHost() |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

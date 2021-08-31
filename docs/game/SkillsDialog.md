@@ -6,7 +6,7 @@ public class SkillsDialog
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -16,7 +16,7 @@ Fields
 | Text | m_totalSkillText |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class TextInput
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -15,7 +15,7 @@ Fields
 | Text | m_topic |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -23,14 +23,14 @@ Methods
 | void | RequestText(`TextReceiver` sign, `String` topic, `Int32` charLimit) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [TextInput](./TextInput.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

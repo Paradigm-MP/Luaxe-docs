@@ -6,7 +6,7 @@ public class ZSocket2
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -33,7 +33,7 @@ Methods
 | Boolean | StartHost(`Int32` port) |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

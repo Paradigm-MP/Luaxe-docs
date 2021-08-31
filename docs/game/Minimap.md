@@ -6,7 +6,7 @@ public class Minimap
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -55,7 +55,7 @@ Fields
 | RectTransform | m_windMarker |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -80,14 +80,14 @@ Methods
 | void | ShowPointOnMap(`Vector3` point) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [Minimap](./Minimap.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

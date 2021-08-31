@@ -6,7 +6,7 @@ public class ZConnector
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class TextViewer
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -23,7 +23,7 @@ Fields
 | Text | m_topic |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -32,14 +32,14 @@ Methods
 | void | ShowText(`Style` style, `String` topic, `String` text, `Boolean` autoHide) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [TextViewer](./TextViewer.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

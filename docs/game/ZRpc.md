@@ -6,7 +6,7 @@ public class ZRpc
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -24,7 +24,7 @@ Methods
 | Boolean | Update(`Single` dt) |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

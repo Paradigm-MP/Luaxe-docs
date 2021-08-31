@@ -6,7 +6,7 @@ public class GlobalWind
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

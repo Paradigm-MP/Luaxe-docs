@@ -6,7 +6,7 @@ public class StealthSystem
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -15,7 +15,7 @@ Fields
 | LayerMask | m_shadowTestMask |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -23,7 +23,7 @@ Methods
 | Single | GetLightLevel(`Vector3` point) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

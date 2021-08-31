@@ -6,7 +6,7 @@ public class Floating
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -19,7 +19,7 @@ Fields
 | Single | m_waterLevelOffset |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

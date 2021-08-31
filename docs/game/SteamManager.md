@@ -6,7 +6,7 @@ public class SteamManager
 
 ```
 
-Static Fields
+### Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -14,7 +14,7 @@ Static Fields
 | UInt32 | APP_ID |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -22,7 +22,7 @@ Static Properties
 | [SteamManager](./SteamManager.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

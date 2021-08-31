@@ -6,7 +6,7 @@ public class Bed
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -14,7 +14,7 @@ Fields
 | Transform | m_spawnPoint |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

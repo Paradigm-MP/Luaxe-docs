@@ -6,7 +6,7 @@ public class SteamManager2
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -14,7 +14,7 @@ Fields
 | SteamAPIWarningMessageHook_t | m_SteamAPIWarningMessageHook |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -24,7 +24,7 @@ Methods
 | void | Update() |  | 
 
 
-Static Fields
+### Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -32,7 +32,7 @@ Static Fields
 | [SteamManager2](./SteamManager2.md) | s_instance |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -40,7 +40,7 @@ Static Properties
 | [SteamManager2](./SteamManager2.md) | Instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

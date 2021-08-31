@@ -6,7 +6,7 @@ public class CharacterAnimEvent
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -32,7 +32,7 @@ Fields
 | Boolean | m_useFeetValues |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

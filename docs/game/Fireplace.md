@@ -6,7 +6,7 @@ public class Fireplace
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -28,7 +28,7 @@ Fields
 | Single | m_startFuel |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

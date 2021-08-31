@@ -6,7 +6,7 @@ public class WearNTear
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -32,7 +32,7 @@ Fields
 | GameObject | m_worn |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -47,14 +47,14 @@ Methods
 | void | UpdateWear() |  | 
 
 
-Static Fields
+### Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | Boolean | m_randomInitialDamage |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

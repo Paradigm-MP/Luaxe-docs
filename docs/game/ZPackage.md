@@ -5,7 +5,7 @@ public class ZPackage
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

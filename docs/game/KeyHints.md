@@ -6,7 +6,7 @@ public class KeyHints
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -20,14 +20,14 @@ Fields
 | GameObject | m_secondaryAttackKB |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | void | ApplySettings() |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class Pathfinding
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -21,7 +21,7 @@ Fields
 | LayerMask | m_waterLayers |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -31,7 +31,7 @@ Methods
 | Boolean | HavePath(`Vector3` from, `Vector3` to, `AgentType` agentType) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

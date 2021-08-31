@@ -6,7 +6,7 @@ public class TestCollision
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

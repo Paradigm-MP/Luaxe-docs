@@ -6,7 +6,7 @@ public class Procreation
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -24,7 +24,7 @@ Fields
 | Single | m_updateInterval |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

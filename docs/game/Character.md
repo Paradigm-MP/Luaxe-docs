@@ -6,7 +6,7 @@ public class Character
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -85,7 +85,7 @@ Fields
 | [ZSyncAnimation](./ZSyncAnimation.md) | m_zanim |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -233,7 +233,7 @@ Methods
 | void | UseStamina(`Single` stamina) |  | 
 
 
-Static Fields
+### Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -247,7 +247,7 @@ Static Fields
 | Single | m_minSlideDegreesPlayer |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

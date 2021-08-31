@@ -6,7 +6,7 @@ public class Ship
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -41,7 +41,7 @@ Fields
 | Single | m_waterLevelOffset |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -67,7 +67,7 @@ Methods
 | void | Stop() |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

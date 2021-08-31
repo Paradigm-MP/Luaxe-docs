@@ -5,7 +5,7 @@ public interface Interactable
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

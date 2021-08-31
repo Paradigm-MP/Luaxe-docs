@@ -6,7 +6,7 @@ public class MineRock
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -23,7 +23,7 @@ Fields
 | Boolean | m_removeWhenDestroyed |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

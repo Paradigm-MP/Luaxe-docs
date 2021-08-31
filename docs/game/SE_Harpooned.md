@@ -6,7 +6,7 @@ public class SE_Harpooned
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -21,7 +21,7 @@ Fields
 | Single | m_staminaDrainInterval |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

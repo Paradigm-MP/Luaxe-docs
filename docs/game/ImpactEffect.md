@@ -6,7 +6,7 @@ public class ImpactEffect
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -24,7 +24,7 @@ Fields
 | LayerMask | m_triggerMask |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

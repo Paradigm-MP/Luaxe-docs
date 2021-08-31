@@ -6,7 +6,7 @@ public class ZNat
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

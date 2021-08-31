@@ -5,7 +5,7 @@ public interface IDestructible
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

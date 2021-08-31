@@ -6,7 +6,7 @@ public class DistantFogEmitter
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -25,7 +25,7 @@ Fields
 | Single | m_waterSpawnChance |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

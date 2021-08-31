@@ -6,7 +6,7 @@ public class Piece
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -45,7 +45,7 @@ Fields
 | Boolean | m_waterPiece |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -61,7 +61,7 @@ Methods
 | void | SetInvalidPlacementHeightlight(`Boolean` enabled) |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

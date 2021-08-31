@@ -6,7 +6,7 @@ public class FollowPlayer
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

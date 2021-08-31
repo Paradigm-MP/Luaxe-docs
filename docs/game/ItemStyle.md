@@ -6,7 +6,7 @@ public class ItemStyle
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

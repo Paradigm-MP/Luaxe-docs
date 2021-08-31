@@ -5,7 +5,7 @@ public class HitData
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -24,7 +24,7 @@ Fields
 | Int32 | m_toolTier |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

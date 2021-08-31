@@ -6,7 +6,7 @@ public class ZSFX
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -30,7 +30,7 @@ Fields
 | Boolean | m_useCustomReverbDistance |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

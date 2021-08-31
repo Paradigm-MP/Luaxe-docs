@@ -5,14 +5,14 @@ public class SEMan
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | List&lt;StatusEffect&gt; | m_statusEffects |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class SE_Smoke
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -14,7 +14,7 @@ Fields
 | Single | m_damageInterval |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

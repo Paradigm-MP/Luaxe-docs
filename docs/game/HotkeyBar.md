@@ -6,7 +6,7 @@ public class HotkeyBar
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

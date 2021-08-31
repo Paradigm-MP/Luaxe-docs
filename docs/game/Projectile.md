@@ -6,7 +6,7 @@ public class Projectile
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -40,7 +40,7 @@ Fields
 | GameObject | m_visual |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -49,7 +49,7 @@ Methods
 | void | Setup(`Character` owner, `Vector3` velocity, `Single` hitNoise, `HitData` hitData, `ItemData` item) |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class Smelter
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -34,7 +34,7 @@ Fields
 | [Windmill](./Windmill.md) | m_windmill |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

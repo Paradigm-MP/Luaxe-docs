@@ -6,7 +6,7 @@ public class CookingStation
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -22,7 +22,7 @@ Fields
 | Single | m_spawnOffset |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

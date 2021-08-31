@@ -6,7 +6,7 @@ public class CraftingStation
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -29,7 +29,7 @@ Fields
 | Single | m_useDistance |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -45,7 +45,7 @@ Methods
 | Boolean | UseItem(`Humanoid` user, `ItemData` item) |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

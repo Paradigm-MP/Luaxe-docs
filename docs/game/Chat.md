@@ -6,7 +6,7 @@ public class Chat
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -20,7 +20,7 @@ Fields
 | Single | m_worldTextTTL |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -36,7 +36,7 @@ Methods
 | void | SetNpcText(`GameObject` talker, `Vector3` offset, `Single` cullDistance, `Single` ttl, `String` topic, `String` text, `Boolean` large) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class GuidePoint
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

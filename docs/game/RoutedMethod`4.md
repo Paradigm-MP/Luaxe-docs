@@ -6,7 +6,7 @@ public class RoutedMethod<T, U, V, B>
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

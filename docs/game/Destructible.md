@@ -6,7 +6,7 @@ public class Destructible
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -26,7 +26,7 @@ Fields
 | Single | m_ttl |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -36,7 +36,7 @@ Methods
 | GameObject | GetParentObject() |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

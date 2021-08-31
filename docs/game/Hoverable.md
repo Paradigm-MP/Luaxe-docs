@@ -5,7 +5,7 @@ public interface Hoverable
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

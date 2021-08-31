@@ -6,7 +6,7 @@ public class MeleeWeaponTrail
 
 ```
 
-Properties
+### Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

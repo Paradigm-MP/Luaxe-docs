@@ -6,7 +6,7 @@ public class StoreGui
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -25,7 +25,7 @@ Fields
 | [EffectList](./EffectList.md) | m_sellEffects |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -35,14 +35,14 @@ Methods
 | void | Show(`Trader` trader) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [StoreGui](./StoreGui.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

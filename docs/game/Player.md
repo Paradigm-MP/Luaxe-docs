@@ -6,7 +6,7 @@ public class Player
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -42,7 +42,7 @@ Fields
 | Single | m_weightStaminaFactor |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -207,7 +207,7 @@ Methods
 | void | UseStamina(`Single` v) |  | 
 
 
-Static Fields
+### Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -221,7 +221,7 @@ Static Fields
 | [Player](./Player.md) | m_localPlayer |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

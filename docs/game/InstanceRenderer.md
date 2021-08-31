@@ -6,7 +6,7 @@ public class InstanceRenderer
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -21,7 +21,7 @@ Fields
 | Boolean | m_useXZLodDistance |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

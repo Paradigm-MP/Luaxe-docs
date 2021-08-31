@@ -5,7 +5,7 @@ public class WorldGenerator
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -24,7 +24,7 @@ Methods
 | Boolean | InsideRiverGrid(`Vector2i` grid, `Vector2` p, `Single` r) |  | 
 
 
-Static Fields
+### Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -32,14 +32,14 @@ Static Fields
 | Single | worldSize |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [WorldGenerator](./WorldGenerator.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -5,7 +5,7 @@ public class Gogan
 
 ```
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -5,7 +5,7 @@ public class ZSteamMatchmaking
 
 ```
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -26,14 +26,14 @@ Methods
 | Boolean | VerifySessionTicket(`Byte[]` ticket, `CSteamID` steamID) |  | 
 
 
-Static Properties
+### Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [ZSteamMatchmaking](./ZSteamMatchmaking.md) | instance |  | 
 
 
-Static Methods
+### Static Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

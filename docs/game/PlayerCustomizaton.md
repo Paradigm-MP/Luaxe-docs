@@ -6,7 +6,7 @@ public class PlayerCustomizaton
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -28,7 +28,7 @@ Fields
 | Slider | m_skinHue |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

@@ -6,7 +6,7 @@ public class Humanoid
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -43,7 +43,7 @@ Fields
 | [VisEquipment](./VisEquipment.md) | m_visEquipment |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -105,7 +105,7 @@ Methods
 | Boolean | UseMeleeCamera() |  | 
 
 
-Static Fields
+### Static Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 

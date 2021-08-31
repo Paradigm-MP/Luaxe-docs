@@ -5,7 +5,7 @@ public class ServerData
 
 ```
 
-Fields
+### Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
@@ -20,7 +20,7 @@ Fields
 | String | m_version |  | 
 
 
-Methods
+### Methods
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
