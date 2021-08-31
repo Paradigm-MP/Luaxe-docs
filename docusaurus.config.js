@@ -16,8 +16,8 @@ module.exports = {
         navbar: {
             title: 'Luaxe',
             logo: {
-                alt: 'My Site Logo',
-                src: 'img/logo.svg',
+                alt: 'Luaxe logo',
+                src: 'img/luaxe.png',
             },
             items: [
                 {
