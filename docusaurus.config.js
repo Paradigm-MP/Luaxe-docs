@@ -42,6 +42,10 @@ module.exports = {
             theme: lightCodeTheme,
             darkTheme: darkCodeTheme,
         },
+        googleAnalytics: {
+            trackingID: 'G-L8C8DGW51W',
+            anonymizeIP: true,
+        }
     },
     plugins: [
         // ... Your other plugins.
@@ -70,10 +74,6 @@ module.exports = {
                     changefreq: 'weekly',
                     priority: 0.5,
                     trailingSlash: false,
-                },
-                googleAnalytics: {
-                    trackingID: 'G-L8C8DGW51W',
-                    anonymizeIP: true,
                 }
             },
         ],
