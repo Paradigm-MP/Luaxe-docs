@@ -13,6 +13,16 @@ module.exports = {
     organizationName: 'Paradigm-MP', // Usually your GitHub org/user name.
     projectName: 'Luaxe-docs', // Usually your repo name.
     themeConfig: {
+        announcementBar: {
+            id: 'indev',
+            content:
+                '<b>Luaxe is still in development, so expect these docs to change frequently!</b>',
+            backgroundColor: '#fcff00',
+            textColor: '#091E42',
+            isCloseable: false,
+        },
+        image: 'img/luaxe.png',
+        metadatas: [{ name: 'theme-color', content: '#0a259c' }],
         navbar: {
             title: 'Luaxe',
             logo: {
@@ -35,7 +45,7 @@ module.exports = {
                     href: 'http://discord.paradigm.mp',
                     label: 'Discord',
                     position: 'right',
-                },
+                }
             ],
         },
         prism: {
