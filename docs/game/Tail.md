@@ -3,7 +3,6 @@
 ```csharp
 public class Tail
     : MonoBehaviour
-
 ```
 
 ### Fields

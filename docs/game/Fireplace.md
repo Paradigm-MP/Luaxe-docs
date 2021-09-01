@@ -3,7 +3,6 @@
 ```csharp
 public class Fireplace
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

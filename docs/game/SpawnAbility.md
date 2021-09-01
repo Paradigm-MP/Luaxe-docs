@@ -3,7 +3,6 @@
 ```csharp
 public class SpawnAbility
     : MonoBehaviour, IProjectile
-
 ```
 
 ### Fields

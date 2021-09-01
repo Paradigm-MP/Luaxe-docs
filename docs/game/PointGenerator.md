@@ -2,7 +2,6 @@
 
 ```csharp
 public class PointGenerator
-
 ```
 
 ### Methods

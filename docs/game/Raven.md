@@ -3,7 +3,6 @@
 ```csharp
 public class Raven
     : MonoBehaviour, Hoverable, Interactable, IDestructible
-
 ```
 
 ### Fields

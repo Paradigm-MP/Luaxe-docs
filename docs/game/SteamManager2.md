@@ -3,7 +3,6 @@
 ```csharp
 public class SteamManager2
     : MonoBehaviour
-
 ```
 
 ### Fields

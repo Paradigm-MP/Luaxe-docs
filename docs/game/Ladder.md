@@ -3,7 +3,6 @@
 ```csharp
 public class Ladder
     : MonoBehaviour, Interactable, Hoverable
-
 ```
 
 ### Fields

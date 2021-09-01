@@ -3,7 +3,6 @@
 ```csharp
 public enum DestructibleType
     : Enum, IComparable, IFormattable, IConvertible
-
 ```
 
 ### Enum

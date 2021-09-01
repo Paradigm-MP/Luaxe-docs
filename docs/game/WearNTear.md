@@ -3,7 +3,6 @@
 ```csharp
 public class WearNTear
     : MonoBehaviour, IDestructible
-
 ```
 
 ### Fields

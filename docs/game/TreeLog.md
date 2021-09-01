@@ -3,7 +3,6 @@
 ```csharp
 public class TreeLog
     : MonoBehaviour, IDestructible
-
 ```
 
 ### Fields

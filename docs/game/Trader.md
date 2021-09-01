@@ -3,7 +3,6 @@
 ```csharp
 public class Trader
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

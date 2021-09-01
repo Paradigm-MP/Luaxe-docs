@@ -3,7 +3,6 @@
 ```csharp
 public class Projectile
     : MonoBehaviour, IProjectile
-
 ```
 
 ### Fields

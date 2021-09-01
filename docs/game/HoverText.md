@@ -3,7 +3,6 @@
 ```csharp
 public class HoverText
     : MonoBehaviour, Hoverable
-
 ```
 
 ### Fields

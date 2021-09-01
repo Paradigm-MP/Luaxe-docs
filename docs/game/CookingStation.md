@@ -3,7 +3,6 @@
 ```csharp
 public class CookingStation
     : MonoBehaviour, Interactable, Hoverable
-
 ```
 
 ### Fields

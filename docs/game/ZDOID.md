@@ -3,7 +3,6 @@
 ```csharp
 public struct ZDOID
     : IEquatable<ZDOID>
-
 ```
 
 ### Properties

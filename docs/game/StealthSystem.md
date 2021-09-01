@@ -3,7 +3,6 @@
 ```csharp
 public class StealthSystem
     : MonoBehaviour
-
 ```
 
 ### Fields

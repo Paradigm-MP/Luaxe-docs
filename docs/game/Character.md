@@ -3,7 +3,6 @@
 ```csharp
 public class Character
     : MonoBehaviour, IDestructible, Hoverable, IWaterInteractable
-
 ```
 
 ### Fields

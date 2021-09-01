@@ -3,7 +3,6 @@
 ```csharp
 public class BossStone
     : MonoBehaviour
-
 ```
 
 ### Fields

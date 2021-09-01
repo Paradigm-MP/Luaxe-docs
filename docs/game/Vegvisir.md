@@ -3,7 +3,6 @@
 ```csharp
 public class Vegvisir
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

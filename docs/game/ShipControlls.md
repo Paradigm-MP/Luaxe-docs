@@ -3,7 +3,6 @@
 ```csharp
 public class ShipControlls
     : MonoBehaviour, Interactable, Hoverable
-
 ```
 
 ### Fields

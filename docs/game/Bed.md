@@ -3,7 +3,6 @@
 ```csharp
 public class Bed
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

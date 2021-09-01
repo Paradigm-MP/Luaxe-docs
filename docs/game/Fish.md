@@ -3,7 +3,6 @@
 ```csharp
 public class Fish
     : MonoBehaviour, IWaterInteractable, Hoverable, Interactable
-
 ```
 
 ### Fields

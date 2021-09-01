@@ -2,7 +2,6 @@
 
 ```csharp
 public interface ISocket
-
 ```
 
 ### Methods

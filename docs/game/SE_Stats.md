@@ -3,7 +3,6 @@
 ```csharp
 public class SE_Stats
     : StatusEffect
-
 ```
 
 ### Fields

@@ -3,7 +3,6 @@
 ```csharp
 public class ZConnector2
     : IDisposable
-
 ```
 
 ### Methods

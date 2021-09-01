@@ -3,7 +3,6 @@
 ```csharp
 public class PieceTable
     : MonoBehaviour
-
 ```
 
 ### Fields

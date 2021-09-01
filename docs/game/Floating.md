@@ -3,7 +3,6 @@
 ```csharp
 public class Floating
     : MonoBehaviour, IWaterInteractable
-
 ```
 
 ### Fields

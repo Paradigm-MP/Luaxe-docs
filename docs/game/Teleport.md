@@ -3,7 +3,6 @@
 ```csharp
 public class Teleport
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

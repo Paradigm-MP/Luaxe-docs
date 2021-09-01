@@ -3,7 +3,6 @@
 ```csharp
 public class TreeBase
     : MonoBehaviour, IDestructible
-
 ```
 
 ### Fields

@@ -3,7 +3,6 @@
 ```csharp
 public class RandomFlyingBird
     : MonoBehaviour
-
 ```
 
 ### Fields

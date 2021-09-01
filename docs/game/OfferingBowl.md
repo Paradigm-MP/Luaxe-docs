@@ -3,7 +3,6 @@
 ```csharp
 public class OfferingBowl
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

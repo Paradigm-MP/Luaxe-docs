@@ -3,7 +3,6 @@
 ```csharp
 public class Minimap
     : MonoBehaviour
-
 ```
 
 ### Fields

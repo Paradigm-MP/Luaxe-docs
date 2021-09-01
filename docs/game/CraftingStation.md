@@ -3,7 +3,6 @@
 ```csharp
 public class CraftingStation
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

@@ -3,7 +3,6 @@
 ```csharp
 public class Pickable
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

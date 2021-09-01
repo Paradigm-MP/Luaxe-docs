@@ -3,7 +3,6 @@
 ```csharp
 public class TeleportWorld
     : MonoBehaviour, Hoverable, Interactable, TextReceiver
-
 ```
 
 ### Fields

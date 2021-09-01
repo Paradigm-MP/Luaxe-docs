@@ -3,7 +3,6 @@
 ```csharp
 public class Door
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

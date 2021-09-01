@@ -3,7 +3,6 @@
 ```csharp
 public class Switch
     : MonoBehaviour, Interactable, Hoverable
-
 ```
 
 ### Fields

@@ -3,7 +3,6 @@
 ```csharp
 public class ZNetScene
     : MonoBehaviour
-
 ```
 
 ### Fields

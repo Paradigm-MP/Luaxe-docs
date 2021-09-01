@@ -3,7 +3,6 @@
 ```csharp
 public class EnemyHud
     : MonoBehaviour
-
 ```
 
 ### Fields

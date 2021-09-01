@@ -3,7 +3,6 @@
 ```csharp
 public class RandEventSystem
     : MonoBehaviour
-
 ```
 
 ### Fields

@@ -3,7 +3,6 @@
 ```csharp
 public class Fermenter
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

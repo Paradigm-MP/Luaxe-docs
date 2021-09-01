@@ -3,7 +3,6 @@
 ```csharp
 public class RuneStone
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

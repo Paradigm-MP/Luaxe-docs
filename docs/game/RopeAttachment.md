@@ -3,7 +3,6 @@
 ```csharp
 public class RopeAttachment
     : MonoBehaviour, Interactable, Hoverable
-
 ```
 
 ### Fields

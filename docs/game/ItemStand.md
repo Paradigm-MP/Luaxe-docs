@@ -3,7 +3,6 @@
 ```csharp
 public class ItemStand
     : MonoBehaviour, Interactable, Hoverable
-
 ```
 
 ### Fields

@@ -3,7 +3,6 @@
 ```csharp
 public class ReflectionUpdate
     : MonoBehaviour
-
 ```
 
 ### Fields

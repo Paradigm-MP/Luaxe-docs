@@ -3,7 +3,6 @@
 ```csharp
 public class Beehive
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

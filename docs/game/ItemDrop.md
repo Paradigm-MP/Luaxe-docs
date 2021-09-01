@@ -3,7 +3,6 @@
 ```csharp
 public class ItemDrop
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

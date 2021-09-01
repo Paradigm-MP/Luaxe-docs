@@ -3,7 +3,6 @@
 ```csharp
 public class WayStone
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

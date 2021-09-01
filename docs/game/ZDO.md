@@ -3,7 +3,6 @@
 ```csharp
 public class ZDO
     : IEquatable<ZDO>
-
 ```
 
 ### Fields

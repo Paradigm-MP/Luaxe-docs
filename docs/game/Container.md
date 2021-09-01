@@ -3,7 +3,6 @@
 ```csharp
 public class Container
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

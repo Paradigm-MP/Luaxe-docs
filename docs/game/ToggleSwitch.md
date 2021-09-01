@@ -3,7 +3,6 @@
 ```csharp
 public class ToggleSwitch
     : MonoBehaviour, Interactable, Hoverable
-
 ```
 
 ### Fields

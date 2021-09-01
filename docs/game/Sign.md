@@ -3,7 +3,6 @@
 ```csharp
 public class Sign
     : MonoBehaviour, Hoverable, Interactable, TextReceiver
-
 ```
 
 ### Fields

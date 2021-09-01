@@ -3,7 +3,6 @@
 ```csharp
 public class MineRock5
     : MonoBehaviour, IDestructible, Hoverable
-
 ```
 
 ### Fields

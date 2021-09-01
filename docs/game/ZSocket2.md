@@ -3,7 +3,6 @@
 ```csharp
 public class ZSocket2
     : IDisposable, ISocket
-
 ```
 
 ### Methods

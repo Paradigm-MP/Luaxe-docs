@@ -3,7 +3,6 @@
 ```csharp
 public class Plant
     : SlowUpdate, Hoverable
-
 ```
 
 ### Fields

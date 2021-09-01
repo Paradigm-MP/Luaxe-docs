@@ -3,7 +3,6 @@
 ```csharp
 public class PrivateArea
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

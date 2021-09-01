@@ -3,7 +3,6 @@
 ```csharp
 public class Humanoid
     : Character, IDestructible, Hoverable, IWaterInteractable
-
 ```
 
 ### Fields

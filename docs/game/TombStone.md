@@ -3,7 +3,6 @@
 ```csharp
 public class TombStone
     : MonoBehaviour, Hoverable, Interactable
-
 ```
 
 ### Fields

@@ -3,7 +3,6 @@
 ```csharp
 public class Player
     : Humanoid, IDestructible, Hoverable, IWaterInteractable
-
 ```
 
 ### Fields

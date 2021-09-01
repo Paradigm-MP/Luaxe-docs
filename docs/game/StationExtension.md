@@ -3,7 +3,6 @@
 ```csharp
 public class StationExtension
     : MonoBehaviour, Hoverable
-
 ```
 
 ### Fields

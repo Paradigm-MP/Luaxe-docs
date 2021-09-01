@@ -3,7 +3,6 @@
 ```csharp
 public class HitArea
     : MonoBehaviour, IDestructible
-
 ```
 
 ### Fields

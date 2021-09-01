@@ -3,6 +3,5 @@
 ```csharp
 public class SmokeRenderer
     : MonoBehaviour
-
 ```
 
