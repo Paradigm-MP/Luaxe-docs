@@ -1,7 +1,7 @@
-## OnPlayerJump
+## `OnPlayerJump`
 
 ### Arguments (in table)
-- [`Player`](../../game/Player.md) player
+- [`Player`](../../game/Player.md): player
 
 ### Description
 Called when a player jumps.
