@@ -27,7 +27,7 @@ const FeatureList = [
     Svg: require('../../static/img/lua.svg').default,
     description: (
       <>
-        Harness the power of Lua 5.4 and script the gamemode of your dreams. 
+        Harness the power of <a href='https://www.lua.org/about.html' target="_blank">Lua 5.4</a> and script the gamemode of your dreams. 
       </>
     ),
   },
