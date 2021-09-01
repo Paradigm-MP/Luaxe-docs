@@ -4,32 +4,30 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'The Perfect Tool',
+    Svg: require('../../static/img/axe.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Luaxe chops Valheim up into nice building blocks. Now it's 
+        time for you to build a house.
       </>
     ),
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/valheim.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Stop compiling your code and start running it. With Luaxe, no compilation is needed and you can focus on what matters: your gamemode.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Powered by Lua',
+    Svg: require('../../static/img/lua.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Harness the power of Lua 5.4 and script the gamemode of your dreams. 
       </>
     ),
   },
