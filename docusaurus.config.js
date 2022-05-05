@@ -42,7 +42,7 @@ module.exports = {
                     position: 'right',
                 },
                 {
-                    href: 'http://discord.paradigm.mp',
+                    href: 'https://discord.gg/XAQ34Td',
                     label: 'Discord',
                     position: 'right',
                 }
